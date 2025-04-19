@@ -1,0 +1,3196 @@
+Emergency First Aid Guidelines for 
+California Schools
+Emergency Medical Services Authority
+California Health and Human Services Agency
+EMSA #196
+Original  1994
+Revised  2004
+Revised  2013
+Emergency First Aid Guidelines for California Schools
+ii
+Special Recognition
+ Ohio Department of Public Safety, Division of EMS, EMS for Children Program; 
+ North Dakota EMS for Children Program
+Emergency First Aid Guidelines for Schools - Pilot Project Staff (First Version)
+ Les Gardina, MSN, RN, EMSC Coordinator, County of San Diego EMS
+ Cynthia Frankel, RN, EMSC Coordinator, Alameda County EMS
+ Kris Helander-Daughtery, RN, BSN, Prehospital Care Coordinator, Alameda County EMS
+Acknowledgements
+We would like to thank the following for their review and contributions to the development of these 
+guidelines:
+ County of San Diego School Nurse Resource Group
+ California EMSC Technical Advisory Committee
+ California EMSC Coordinators Group
+	 San	Diego	Unified	School	District
+ Jim Harley, MD, San Diego Chapter of American Academy of Pediatrics, COPEM
+	 Chris	Riccitelli,	RN,	School	Nurse	Program	Specialist,	San	Diego	Office	of	Education
+	 Barbara	Muller,	Coordinator	for	Bay	Region	IV,	Alameda	County	Office	of	Education
+	 Terri	Christofk,	Shannon	Brandt,	Jan	Bagdasar,	Meg	Pesavento,	San	Marcos	Unified
+ Frank De Luca, Chula Vista Elementary School
+ Anita Gillchrist, RN, School Nurse, San Ysidro Elementary
+ Stacy Hanover, RN, ED Supervisor, Children’s Hospital, Oakland, CA
+ Ruth Hawkins, RN, School Nurse, Encinitas Union Elementary
+ Patricia Murrin, RN, MPH, EMS Coordinator, County of San Diego EMS
+ Dale Parent, Chula Vista Elementary School
+ James E. Pointer, MD, Medical Director, Alameda County EMS
+ Mary Rutherford, MD, Director ED, Children’s Hospital, Oakland, CA
+ Augusta Saulys, MD, Emergency Department, Children’s Hospital, Oakland, CA
+	 Pat	Stalcup,	RN,	School	Nurse,	Ramona	Unified
+ Gary Vilke, MD, Medical Director, County of San Diego EMS
+ 
+EMERGENCY FIRST AID GUIDELINES FOR 
+CALIFORNIA SCHOOLS - 2013 EDITION
+The San Diego project developed these guidelines with “Funding provided by the State of California Emergency Medical 
+Services (EMS) Authority under Special Project Grant #EMS-1055 and EMS-2062.”
+Funding for the Ohio project was supported by project MCH #394003-0 from the Emergency Medical Services for Children 
+Program (Section 1910, PHS Act), Health Resources and Services Administration, Maternal and Child Health Bureau and 
+the	National	Highway	Traffic	Safety	Administration.Emergency First Aid Guidelines for California Schools
+iii
+EMS for Children Technical Advisory Subcommittee
+ 
+Erin Dorsey, RN      School Nurse
+        Huntington Beach High School
+Cynthia Frankel, RN, MSN     Prehospital Care Coordinator
+        Alameda County EMS Agency
+Marianne Gauche-Hill, MD, FACEP, FAAP  Professor of Medicine
+        David Geffen School of Medicine at UCLA
+        Director of EMS 
+        Harbor-UCLA Medical Center
+Nancy McGrath, RN, MN, CPNP     Pediatric Liaison Nurse
+        Harbor UCLA Medical Center
+California Emergency Medical Services Authority
+Howard Backer, MD, MPH, FACEP   Director
+ 
+Farid Nasr, MD      Specialty Care Systems Specialist
+ 
+Sandy Salaber      Associate Health Program Adviser
+Tonya Thomas      EMS for Children Program Coordinator
+California Department of Education
+Gordon Jackson      Assistant Superintendent
+ 
+Tom Herman       Education Administrator
+San Joaquin County Office of Education
+Cheri Coburn, Ed.D, MS, RN    Director of Comprehensive Health Programs 
+ 
+Sacramento State University
+Jan Sampson, RN, DNP, CNE    Associate Professor
+        School of Nursing
+Acknowledgements
+The EMS Authority would like to acknowledge and express appreciation for the support of the 
+EMS for Children Technical Advisory Committee.  List of committee members: 
+http://www.emsa.ca.gov/tech_committeeEmergency First Aid Guidelines for California Schools
+1
+TABLE OF CONTENTS
+ABOUT THE GUIDELINES...................................................................................................................... 4
+RECOMMENDED FIRST AID EQUIPMENT AND SUPPLIES FOR SCHOOLS...................................... 6
+HOW TO USE THE EMERGENCY GUIDELINES................................................................................... 7
+KEY TO SHAPES & COLORS................................................................................................................. 8
+EMERGENCY PROCEDURES................................................................................................................ 9
+9-1-1 GUIDELINES FOR SCHOOLS....................................................................................................... 10
+WHEN TO CALL EMERGENCY MEDICAL SERVICES (9-1-1)............................................................... 11
+EMERGENCY PHONE NUMBERS.......................................................................................................... 12
+DEVELOPING AN EMERGENCY PLAN.................................................................................................. 13
+PLANNING FOR PERSONS WITH SPECIAL NEEDS............................................................................ 14
+MEDICATION ADMINISTRATION IN SCHOOL SETTINGS .................................................................. 15
+INFECTION CONTROL........................................................................................................................... 18
+ALLERGIC REACTION............................................................................................................................ 19
+ASTHMA/WHEEZING/DIFFICULTY BREATHING................................................................................... 20
+BEHAVIORAL EMERGENCIES............................................................................................................... 21
+BITES (HUMAN & ANIMAL)..................................................................................................................... 22
+BITES & STINGS (INSECT)..................................................................................................................... 23
+BITES & STINGS (MARINE).................................................................................................................... 24
+BITES & STINGS (SNAKE)...................................................................................................................... 25
+BLEEDING............................................................................................................................................... 26
+BRUISES.................................................................................................................................................. 28
+BURNS..................................................................................................................................................... 29
+CPR.......................................................................................................................................................... 31
+AUTOMATED EXTERNAL DEFIBRILLATORS (AED)............................................................................. 32
+LAY PERSON CPR.................................................................................................................................. 33
+FOR CHILDREN ONE YEAR OLD TO ADULT......................................................................................... 34
+CHOKING................................................................................................................................................. 35
+CHEST PAIN (POSSIBLE HEART ATTACK)........................................................................................... 36
+CHILD ABUSE & NEGLECT..................................................................................................................... 37
+COMMUNICABLE DISEASES................................................................................................................. 38
+DIABETES................................................................................................................................................ 39
+DIARRHEA............................................................................................................................................... 40
+DROWNING/NEAR DROWNING............................................................................................................. 41Emergency First Aid Guidelines for California Schools
+2
+EARS........................................................................................................................................................ 42
+ELECTRICAL INJURY.............................................................................................................................. 43
+EYES (INJURY)........................................................................................................................................ 44
+FAINTING................................................................................................................................................. 46
+FEVER & NOT FEELING WELL.............................................................................................................. 47
+FINGERNAIL/TOENAIL INJURY.............................................................................................................. 48
+FRACTURES, DISLOCATIONS, SPRAINS OR STRAINS...................................................................... 49
+FROSTBITE............................................................................................................................................. 50
+HEAD INJURIES...................................................................................................................................... 51
+HEADACHE............................................................................................................................................. 52
+HEAT EXHAUSTION/HEAT STROKE...................................................................................................... 53
+HYPOTHERMIA (EXPOSURE TO COLD)............................................................................................... 54
+LOSS OF CONSCIOUSNESS................................................................................................................. 55
+MENSTRUAL PROBLEMS...................................................................................................................... 56
+MOUTH & JAW INJURIES....................................................................................................................... 57
+NECK & BACK PAIN................................................................................................................................ 58
+NOSE....................................................................................................................................................... 59
+POISONING & OVERDOSE.................................................................................................................... 61
+PREGNANCY........................................................................................................................................... 62
+RASHES................................................................................................................................................... 63
+SEIZURES............................................................................................................................................... 64
+SERIOUSLY ILL/SHOCK......................................................................................................................... 65
+SPLINTERS or IMBEDDED PENCIL LEAD............................................................................................. 66
+STOMACH ACHES/PAIN......................................................................................................................... 67
+TEETH & GUMS...................................................................................................................................... 68
+TETANUS IMMUNIZATION...................................................................................................................... 70
+TICKS....................................................................................................................................................... 71
+VOMITING................................................................................................................................................ 72
+WOUNDS (CUTS, SCRATCHES & SCRAPES INCLUDING ROPE & FLOOR BURNS)........................ 73
+WOUNDS (PUNCTURE).......................................................................................................................... 74
+WOUNDS (STABS & GUNSHOT)............................................................................................................ 75
+TABLE OF CONTENTSEmergency First Aid Guidelines for California Schools
+3
+The Emergency First Aid Guidelines for California Schools’ document was initially developed by San 
+Diego and Alameda Counties, funded in part by a grant from the California Emergency Medical Services 
+(EMS) Authority.  The Guidelines were originally based on the second edition of the Ohio Emergency 
+Guidelines for Schools, 2000.  The Emergency First Aid Guidelines for California Schools manual is 
+meant to provide recommended procedures for school staff in responding to medical emergencies when 
+the school nurse is not available and until emergency medical services responders arrive on scene.  
+These guidelines provide recommended actions and do not supersede or invalidate any laws or rules 
+established by a school system, a school board, or the State.
+Due to declining school district budgets, school nurses are not always present on school grounds when 
+medical emergencies occur.  It is not uncommon to have a school nurse present for only two hours a 
+week	per	campus.		Currently,	only	fifty	percent	(50%)	of	school	districts	in	California	have	a	school	nurse	
+on staff.  The Emergency First Aid Guidelines for California Schools was developed over a two-year 
+period and piloted in thirteen schools in San Diego County and three schools in Alameda County.  They 
+were enthusiastically received in the pilot areas by school nurses and educators as a layperson’s 
+emergency medical reference tool. 
+ 
+Once the pilot projects were completed, the draft Guidelines were reviewed and revised by the local 
+Emergency Medical Services for Children (EMSC) Coordinators Group and the EMSC Technical Advisory 
+Committee (TAC).  Extensive comments and revisions were made by these committees.  The EMSC 
+Coordinators Group is composed of local EMSC program managers and the TAC membership is 
+composed of emergency physicians, nurses, prehospital and administrative experts in EMSC.  The 
+EMSC	TAC	first	approved	the	draft	Guidelines	during	its	January	29,	2004	meeting	and	forwarded	the	
+document to the EMS Authority for review and approval. 
+During	the	first	revision	of	the	Guidelines	document	in	2004,	the	EMS	Authority	collaborated	with	the	
+California Department of Education and the California School Nurses Association.  The revised 
+Emergency First Aid Guidelines for California Schools’ document was sent out for a 30-day public 
+comment period from April 16, 2004 to May 17, 2004.  Comments and suggested revisions received 
+have been incorporated into the Guidelines and/or responded to as appropriate.  The Emergency First 
+Aid Guidelines for Schools document was approved on June 23, 2004 by the Commission on EMS.  
+One hard copy and a CD of the Guidelines were distributed to approximately 10,000 California schools.
+The current version, the second revision, is based on 2010 American Heart Association Guidelines for 
+CPR and ECC, which was approved by the EMSC TAC and EMSC Coordinators Group on January 
+26-27, 2012. 
+ABOUT THE GUIDELINESEmergency First Aid Guidelines for California Schools
+4
+ABOUT THE GUIDELINES (CONT.)
+Please take some time to familiarize yourself with the format and review the “How to Use the Guidelines” 
+section on page 6 prior to an emergency situation.  The guidelines are recommended procedures for 
+when advanced medically trained personnel are not available on the school site.  It is strongly 
+recommended that staff who are in a position to provide first aid to students complete an 
+approved first-aid and cardiopulmonary resuscitation (CPR) course.  Please consult your school 
+nurse if you have any questions concerning the recommendations contained in the guidelines.  
+These guidelines should not delay calling 9-1-1 in the event of an emergency.    
+Periodically, the EMS Authority may send out updates on procedures dealing with the medical 
+emergencies that are in the guidelines.  When received, please remove the old information and replace 
+with the updated information.
+We welcome comments, suggestions, or experiences using these guidelines.
+Email	address:	firstaidguidelines@emsa.ca.govEmergency First Aid Guidelines for California Schools
+5
+RECOMMENDED FIRST AID EQUIPMENT AND
+SUPPLIES FOR SCHOOLS
+1. Current National American Red Cross First Aid Manual or equivalent.
+2.  American Academy of Pediatrics First Aid Chart.
+3.  Portable stretcher
+4.  Cot: mattress with waterproof cover
+5.  10 Triage Tags
+6.  Blankets, sheets/pillows/pillow cases (disposable covers are suitable)
+7.  Wash cloths, hand towels, small portable basin
+8.  Covered waste receptacle with disposable liners
+9.  Manual resuscitation bag (Ambu bag) [optional]
+10. Bandage scissors, tweezers
+11. Disposable thermometer or electronic thermometer with disposable covers
+12. Sink with running water
+13. Expendable supplies (refer to http://www.redcross.org/disaster/masters/supply.html for 
+ recommended inventory):
+	 •		 Pocket	mask/face	shield	for	CPR
+	 •		 Disposable	gloves	(including	latex	free	gloves	for	persons	with	a	latex	allergy)
+	 •		 Soap	(plain)
+	 •		 Cotton	tipped	applicators,	individually	packaged
+	 •		 Assorted	Band-Aids	(1”x3”)
+	 •		 Gauze	squares	(2”x2”’;	4”x4”),	individually	packaged
+	 •		 Adhesive	tape	(1”	width)
+	 •		 Gauze	bandage	(2”	and	4”	widths)	rolls
+	 •		 Ace	bandage	(2”	and	4”	widths)
+	 •		 Splints	(long	and	short)
+	 •		 Cold	packs
+	 •		 Triangular	bandages	for	sling	&	Safety	pins
+	 •		 Tongue	blades
+	 •		 Disposable	facial	tissues
+	 •		 Paper	towels
+	 •		 Sanitary	napkins
+	 •		 One	flashlight	with	spare	bulb	and	batteries
+	 •		 Hank’s	Balanced	Salt	Solution	(HBSS)	–	Available	in	the	Save-A-Tooth	emergency
+	 	 tooth	preserving	system	or	1/3	cup	of	powdered	milk	for	dental	first-aid	(for	mixing	with
+  water to make a liquid solution)
+	 •		 Bleach	for	cleaning	contaminated	surfaceEmergency First Aid Guidelines for California Schools
+6
+HOW TO USE THE EMERGENCY GUIDELINES
+The last page of this document provides space for important emergency phone numbers in your area.  It 
+is important to complete this information, when you receive the document, to have this information ready 
+in an emergency situation.
+A	colored	flow	chart	format	is	used	to	guide	you	easily	through	all	symptoms	and	management	steps	
+from beginning to end.  See the Key to Shapes and Colors (pg. 7).
+Emergency Procedures for an Injury or Illness section (pg. 8) gives a general overview of the 
+recommended steps in an emergency situation and the safeguards that should be taken.
+Additional information includes when to call EMS (pg. 10), developing a school wide emergency plan 
+(pg. 11), infection control procedures (pg. 12), and planning for persons with special healthcare needs 
+(pg. 12). 
+If medical assistance is needed, have someone contact the 9-1-1 system as soon as possible. Emergency First Aid Guidelines for California Schools
+7
+KEY TO SHAPES & COLORS
+START 
+HERE
+This note provides 
+background information.
+This type of box should be read 
+before emergencies occur.
+Initial Information, questions, actions
+? Questions Being Asked ?
+You need to choose based on 
+person’s condition or response. 
+Follow the pathway for your answer.
+Provides First-Aid 
+Instructions
+STOP HERE
+This is the final 
+instruction
+Additional Information
+NO YESEmergency First Aid Guidelines for California Schools
+8
+EMERGENCY PROCEDURES
+1. Remain calm and assess the situation.  Be sure the situation is safe for you to approach.  
+ The following dangers will require caution: live electrical wires, gas leaks, chemical exposure, 
+	 building	damage,	unstable	structures,	fire	or	smoke,	traffic,	agitated	or	violent	students.
+2.  A responsible adult should stay at the scene and give help until the person designated to 
+ handle emergencies arrives.  For serious injury or illness, call 9-1-1 without delay.
+3.  Notify the responsible school nurse or administrator designated to handle emergencies. Upon   
+ arrival this person should take charge of the emergency.
+4. Do NOT give medications unless there has been prior written approval by the person’s 
+ parent or legal guardian and doctor.  Administer medications according to local school board   
+ policy and state or federal laws and regulations.
+5. Do NOT move a severely injured or ill person unless absolutely necessary for immediate 
+ safety.  If moving is necessary, protect the neck by keeping it straight to prevent further injury,   
+ see the “Neck and Back Pain” guideline (pg. 56).
+6. Call Emergency Medical Services (EMS 9-1-1), if appropriate, or arrange for transportation of   
+ the ill or injured person, if necessary.  Provide EMS personnel with copies of physician/parents’  
+ signed record of medical instructions for emergencies (i.e., pupil emergency card).
+7.  The responsible school nurse, administrator, or a designated employee should notify the 
+ parent/legal guardian of the emergency as soon as possible to determine the appropriate   
+ course of action.
+8.  If the parent/legal guardian cannot be reached, notify a parent/legal guardian substitute and   
+ call either the physician or the hospital designated on the Emergency Information Card, so they  
+ will know to expect the injured or ill person.
+9.  Each person should have an emergency information record (i.e., student emergency card) 
+	 on	file	that	provides	essential	contact	information,	medical	conditions,	medications	and	an		 	
+ emergency care plan if appropriate. Provide a copy of student’s emergency information to EMS  
+ upon arrival, if authorized by parent/legal guardian.
+10.  Fill out a report for all injuries and illnesses requiring above procedures if indicated by 
+ school policy.
+ Emergency First Aid Guidelines for California Schools
+9
+9-1-1 GUIDELINES FOR SCHOOLS
+CALL 9-1-1 FOR:
+Difficulty Breathing Caused by
+•	 Absent or labored breathing (pg. 32)
+• Choking (pg. 33)
+• Wheezing due to allergic reaction
+• Near drowning (pg. 39)
+• After bee sting (pg. 17)
+Loss of Consciousness (pg. 53)
+For any reason, including
+• After any injury
+• With history of diabetes
+• After seizure 
+• Unexplained reason
+Uncontrolled Bleeding (pg. 24)
+Head Injury with (pg. 49)
+• Severe headache
+• Vomiting
+• Change in Behavior
+Possible Poisoning  (pg. 59)
+IF IN DOUBT - CALL 9-1-1
+Call 911 Immediately
+• Verify address
+• Answer Questions
+• Follow Instructions
+• Do Not Hang Up
+• Stay Calm
+• Provide First Aid 
+ until ambulance
+ arrives
+These guidelines are not intended to limit good judgment in emergency situations!
+9-1-1 brings medical professionals to the scene of the emergency.
+Delays in accessing the 9-1-1 system can cause harm to the injured.  Consult your 
+local policies on the management of health emergencies.Emergency First Aid Guidelines for California Schools
+10
+WHEN TO CALL EMERGENCY MEDICAL SERVICES
+(9-1-1)
+Call EMS if:
+ The person is not breathing.
+	 The	person	is	having	difficulty	breathing,	shortness	of	breath	or	is	choking.
+ The person has no pulse.
+ The person is unconscious, semi-conscious or unusually confused.
+ The person has bleeding that won’t stop.
+ The person is coughing up or vomiting blood.
+ The person has chest pain or pressure persisting more than 3-5 minutes, or has chest pain that  
+ goes away and comes back.
+ The person has been poisoned or taken an overdose.
+	 The	person	has	a	seizure	for	the	first	time,	a	seizure	that	lasts	more	than	
+ 5 minutes, multiple seizures, or has a seizure and is pregnant or diabetic.
+ The person has received anti-seizure medication as allowed under the provisions of Education   
+ Code Section 49414.7.
+ The person has injuries to the head, neck or back. 
+ The person has sudden, severe pain anywhere in the body.
+ The person has an open wound over a suspected fracture or where bone or muscle is exposed.
+ The person’s condition is limb-threatening or other injuries that may leave the person 
+ permanently disabled unless he/she receives immediate care; for example: lack of feeling or 
+ normal color on injured limb (arm or leg); amputation; severe eye injury or chemical exposure to  
+ the eye.
+ Moving the person could cause further injury.
+ The person needs the skills or equipment of paramedics or emergency medical technicians.
+	 Distance	or	traffic	conditions	would	cause	a	delay	in	getting	the	person	to	the	hospital.
+If any of the above conditions exist, or if you are not sure, it is best to call 
+EMS (9-1-1).
+Sources: American Red Cross & American College of Emergency PhysiciansEmergency First Aid Guidelines for California Schools
+11
+EMERGENCY PHONE NUMBERS
+Complete this page as soon as possible, review annually and update as needed. Copy and 
+post near all phones.
+EMERGENCY MEDICAL SERVICES (EMS) INFORMATION
+EMERGENCY PHONE NUMBER 9-1-1
+Location(s) of Automated External Defibrillator(s) (AED)
+________________________________________________________________________
+________________________________________________________________________
+Location of First Aid Supplies
+________________________________________________________________________
+________________________________________________________________________
+BE PREPARED TO GIVE THE FOLLOWING INFORMATION &
+DO NOT HANG UP BEFORE THE OTHER PERSON HANGS UP!
+   
+  •	 Address
+	 	 •	Exact	location	of	injured	person	(e.g.,	parking	lot	C,	big	oak	tree)
+	 	 •	Provide	easy	directions	to	make	it	easier	to	find	you
+  • School Telephone Number: __________________________
+   o Cell phone number, if applicable
+	 	 •	 Your	name
+	 	 •	School	name
+	 	 •	Nature	of	Emergency
+Other Important Phone Numbers
+School Nurse                                                                    
+Responsible School Administrator                                                                 
+Poison Control Center (National)    1-800-222-1222                                    
+Suicide Hotline       1-800-273-8255                                           
+Fire Department       9-1-1                                                        
+Police         9-1-1                                                     
+Hospital or Nearest Emergency Facility                                                                 
+Child Protective Services                                                                    
+Rape Crisis Center                                                                    
+Local Health Department                                                                   
+Other Medical Services Information                                                                
+(i.e., physicians, urgent care centers, dentists, etc.)                                                                  Emergency First Aid Guidelines for California Schools
+12
+DEVELOPING AN EMERGENCY PLAN
+A school-wide emergency plan should be developed in cooperation with school health staff, school 
+administrators, local EMS, local hospital, local health department and parent/guardian organizations.  All 
+employees should be trained on the emergency plan and a written copy should be available at all times.  
+The plan should be reviewed and updated annually, and should consider the following:
+•	 Staff	roles	are	clearly	defined	in	writing.		For	example,	staff	responsibility	for	rendering	care,	
+accessing EMS, notifying responsible school administrator and parents, and supervising uninjured 
+children are outlined and practiced.  A responsible administrator for emergency situations has been 
+designated within each school.  In-service training is provided to maintain knowledge and skills for 
+employees designated to respond to emergencies.
+•	 At least	one	individual,	other	than	the	nurse,	is	trained	in	CPR	and	first	aid	in	each	school.	Teachers	
+and employees working in high-risk areas or activities (e.g., labs, gyms, shops, P.E., etc.) are trained in 
+CPR,	use	of	AED,	and	first	aid.
+•	 With	appropriate	staff	training,	these	First	Aid	Guidelines	could	be	utilized	by	staff	for	immediate	care	
+of students. The Guidelines are to be distributed or available to appropriate employees.
+•	 Files	are	in	order	for	each	student	and	are	kept	in	a	central	location.		The	files	should	contain	current	
+emergency contact and authorization information, immunization and medical records, phone number of 
+student’s doctor, medication administration forms and emergency care plans for students with special 
+needs.
+•	 First	aid	kits	are	stocked	with	up-to-date	supplies	and	are	available	in	central	locations,	high-risk	
+areas, and for extracurricular activities.  See “ Recommended First Aid Supplies” (pg. 74)
+•	 All	employees	have	rapid	access	to	emergency	numbers.		Emergency	numbers	are	available	and	
+posted by phones.  See “Emergency Phone Numbers” (pg. 75) 
+•	 School	personnel	have	communicated	with	local	EMS	regarding	the	emergency	plan,	services	
+available, persons with special needs and other pertinent information about the school.
+•	 A 	written	policy	describes	procedures	for	accessing	EMS	without	delay	from	all	locations	(e.g.,	
+playgrounds,	athletic	fields,	fieldtrips,	extracurricular	activities,	etc.).	
+•	 A	written	policy	that	provides	instructions	for	transportation	of	an	injured	or	ill	student.
+•	 Considerations	and	procedures	for	a	person	with	special	needs.		See	“ Planning for Persons with 
+Special Needs” (pg. 12)
+•	 A	doctor	or	school	nurse	and	a	dentist	are	designated	to	act	as	consultants	to	the	school	for	health	
+and safety related questions. (Education Code 44871-44878)
+•	 All	injuries	are	documented	in	a	standard	format	and	maintained	in	an	organized	manner.		Injury	
+reports are reviewed on a regular basis to revise the emergency plan and remedy hazards. Emergency First Aid Guidelines for California Schools
+13
+PLANNING FOR PERSONS WITH SPECIAL NEEDS
+Some persons in your school may have special emergency care needs due to their 
+medical conditions or functional needs.
+Medical Conditions:
+Some persons may have special or chronic conditions that put them at risk for serious or life-
+threatening emergencies.  For example, persons who have:
+•	 Seizures
+•	 Life-threatening	or	severe	allergic	reactions
+•	 Diabetes
+•	 Technology-dependent	or	medically	fragile	conditions		
+Your	school	nurse	or	other	duly	qualified	supervisor	of	health,	along	with	the	person’s	parent	or	legal	
+guardian and personal physician, should develop individual emergency care plans for these persons 
+when they are enrolled.  These emergency care plans should be made available to appropriate staff 
+at all times.  In the event of an emergency situation, refer to the person’s emergency care plan.  The 
+American College of Emergency Physicians (ACEP) and the American Academy of Pediatrics (AAP) 
+have created an Emergency Information Form for Children with Special Needs.  It can be 
+downloaded from www.aap.org or www.acep.org.
+Physical Abilities:
+Other persons in your school may have special emergency needs due to physical disabilities. For 
+example, persons who are:
+•	 Deaf
+•	 Blind
+•	 In	wheel	chairs	or	using	other	assistive	devices
+•	 Unable	or	have	difficulty	walking	up	or	down	stairs
+•	 Temporarily	on	crutches
+These	persons	will	need	special	arrangements	in	the	event	of	a	school-wide	emergency	(e.g.,	fire,	
+tornado, earthquake, building collapse, evacuation, etc.).A plan should be developed and a responsible person should be designated to assist 
+these persons and staff to safety.  All appropriate staff should be aware of this plan.Emergency First Aid Guidelines for California Schools
+14
+MEDICATION ADMINISTRATION 
+IN SCHOOL SETTINGS
+A	significant	and	growing	number	of	school	children	have	health	problems	that	require	the	adminis-
+tration of medication during the school day.  There are several reasons why students might require 
+medications	in	schools,	including:	(1)	chronic	conditions	requiring	medication	in	order	to	benefit	
+from classroom instruction; (2) acute, but temporary, medical needs that require medicine during 
+the school day, such as an antibiotic for an infection; or (3) conditions that might require emergency 
+medication, such as an Epinephrine (Epi-pen)® for a bee sting or food allergy.
+ 
+Children	who	require	medications	in	order	to	fully	benefit	from	public	education	are	protected	by	
+federal and state disability laws.  It has become a complex issue due to a variety of factors, such 
+as federal and state disability law, new pharmaceutical and medical technologies, evolving mental 
+and medical health practices, fewer full-time school nurses, and increasing numbers of children with 
+complex as well as simple health needs in schools. 
+The National Association of School Nurses states that the school nurse has the educational back -
+ground,	knowledge,	and	licensure	that	provide	the	unique	qualifications	to	direct	the	administration	of	
+medications in the school setting.  The position statement recommends that “school districts develop 
+policies and procedures to address medication administration in accordance with federal and state 
+laws and guidelines.” 1 			If	a	child	needs	specified	medication	during	the	course	of	the	school	day	
+to	attend	school	and	benefit	from	the	educational	program;	it	is	in	the	school’s	interest	to	make	this	
+accommodation.2 
+California law states, 3 	with	a	few	clearly	specified	legal	exceptions,	that	only	a	licensed	nurse	or	
+physician may administer medication.  In the school setting, these exceptions are situations where: 
+(1) The student self-administers the medication;  (2) parent or parent designee, such as a relative or 
+close friend, administers the medication4; or (3) there is a public disaster or epidemic.5 
+The Legislature has enacted four statutes that authorize unlicensed school personnel to be trained 
+and	supervised	in	order	to	administer	four	specific	medications	in	medical	emergencies:	
+1. Under the supervision of a school nurse or physician designee, an unlicensed school 
+ employee may administer epinephrine via auto-injector; 6
+2. Under the supervision of a school nurse, physician, registered nurse, or public health 
+ nurse, an unlicensed school employee may administer glucagon; 7
+3. Under the supervision of a school nurse, physician, registered nurse, or public health 
+ nurse, an unlicensed school employee may administer Diastat, and 8
+4. Under the supervision of a school nurse, physician, registered nurse, or public health 
+ nurse, an unlicensed school employee may administer insulin. 9   Emergency First Aid Guidelines for California Schools
+15
+MEDICATION ADMINISTRATION 
+IN SCHOOL SETTINGS (CONT.)
+In accordance with Education Code (EC) sections 49414, 49414.5 an unlicensed school employee 
+could “administer” epinephrine via auto-injector directly into a student suffering anaphylaxis, 
+glucagon via needle and syringe directly into a student suffering from severe hypoglycemia, 
+insulin, via needle and syringe directly into a student suffering from severe hyperglycemia or Diastat, 
+a medication that is administered rectally to a student with epilepsy suffering from seizures.   
+No other California statute allows an unlicensed school employee to administer any other medication 
+in California public schools, even if the unlicensed school employee is trained and supervised by a 
+school nurse or other similarly licensed nurse. 
+EC Section 49423 permits the school nurse or other designated school personnel to “assist” 
+students who must “take” medication during the school day that has been prescribed for that student 
+by his or her physician.  The terms “assist” and “administer” are not synonymous. An example of an 
+unlicensed school employee “assisting” a student pursuant to EC Section 49423 would be when the 
+school employee removes the cap from the medication bottle, pours out the prescribed dose into a 
+cup or a spoon, and hands the cup or spoon to the student, who then “takes” or self-administers the 
+required medication. With the above-stated statutory exceptions, there is no clear statutory authority 
+in California permitting that same unlicensed school employee to “administer” any other medication. 
+PROGRAM ADVISORY ON MEDICATION ADMINISTRATION10
+CCR Title 5 601-611: California Department of Education “Program Advisory on Medication 
+Administration” (2005, reviewed 2012). 
+A	school	may	administer	medication	to	a	child	only	if	a	parent	or	guardian	has	specifically	requested	
+such action and there is a reason to administer the medication when the child is at school.   
+A	written	order	from	an	individual	who	is	licensed	to	prescribe	medications	must	be	on	file	in	order	to	
+administer medications.  Medication may be administered at school by the school nurse, other duly 
+qualified	supervisors	of	health,11  site administrator or designee as allowed by law. Neither the school 
+nurse nor her designee is permitted to administer medication unless: 
+1. The medication is in the original properly labeled container. If it is a prescription medicine,  
+ the student’s name, name of the drug, dosage, time for administering, and name of health  
+ care provider and current date is printed on the container. 
+2.	 Written	orders	from	the	student’s	health	care	provider	are	on	file	in	the	school	stating:	
+	 •	 Student’s	name	
+	 •	 Date	of	Birth
+	 •	 Name	of	medication	
+	 •	 Dosage	(EC Section 49423)
+	 •	 Purpose	of	the	medication	
+	 •	 Method	of	administration	(EC Section 49423)
+	 •	 Time	of	day	medication	is	to	be	given (EC Section 49423)
+	 •	 Anticipated	number	of	days	it	needs	to	be	given	in	school	and	possible	side	effectsEmergency First Aid Guidelines for California Schools
+16
+MEDICATION ADMINISTRATION 
+IN SCHOOL SETTINGS (CONT.)
+3.  Name, address, telephone number, and signature of the California authorized health care       
+ provider.
+4. The parent/guardian provides written permission to the school to administer a prescription  
+ or over-the-counter medication. 
+5. School personnel keep an individual record of any medications administered by school      
+ personnel. 
+6. Medication is stored in a clean, locked cabinet or container.
+7. Written statements authorizing medications to be administered at school be renewed yearly  
+ or whenever changes in medication or authorized health care provider occur.
+8. Changes in medication authorization that generate a new written statement include the   
+ following circumstances: 
+ a. Changes in medication dose, time, and method of administration
+ b. Change in medication
+ c. Change in California authorized health care provider
+ d. Discontinuance of medication administration
+Additionally, school districts may want to consider requiring parents to sign a release from responsibility 
+pertaining to side effects or other medical consequences that may be related to the medication(s).
+1 National Association of School Nurses. (2003). Position statement: Medication administration in the school setting. 
+http://www.nasn.org/positions/medication.htmv. 
+2  Schwab, N.C. and Gelfman, M.H.B., (2001). Legal Issues in School Health, Sun River Press, North Branch, MN: Sunrise River Press, 205.
+3 California Business and Professions Code (Nursing Practice Act (NPA)) Sections 2725 and 2727 and the California Education Code.
+4 NPA	Section	2727(a)	states	that	parents	and	other	relatives	or	close	friends	may	administer	medication,	which	is	defined	as	“gratuitous	nursing.”	
+5 NPA Section 2727(d) states that a district not having a school nurse does not qualify as a “public disaster.” 
+6 EC Section 49414 
+7 EC Section 49414.5 
+8 EC	Section	49414.7	is	an	optional	law	that	was	signed	by	Governor	Brown	October	7,	2011	and	went	into	effect	January	1,	2012	–SB	61	(Huff).	
+9 EC Section 49423 provides that unlicensed school personnel may assist with medication administration; BPC 2725(b)(2) and the CCR, Title 5, section 604 
+authorize	specified	persons	to	administer	insulin	in	California’s	public	schools	pursuant	to	a	Section	504	Plan	or	an	IEP.
+10  California Code of Regulations Title V, Article 4.1: Administering Medication to Students or Otherwise Assisting Students in the Administration of Medication 
+During the Regular School Day.  http://www.cde.ca.gov/ls/he/hn/documents/medadvisory.pdf
+11 Medication	may	be	administered	at	school	by	the	school	nurse,	other	duly	qualified	supervisors	of	health,	site	administrator	or	designee	as	allowed	by	law,	
+the parent or guardian or their designee as allowed by law or LEA policy, a contracted licensed health care professional whose licensure permits 
+administration	of	the	medication,	or	by	the	student	under	specified	conditions.		Unlicensed	school	personnel	designated	by	the	site	administrator	administer	
+medication if:  a. The unlicensed staff member is willing to perform medication administration; b. The unlicensed staff member is trained and determined to 
+be capable and competent to be able to safely and accurately administer the medication by a licensed health care professional, who is legally authorized to 
+provide such training and determine competence; c. The unlicensed staff member performing medication administration is supervised by the licensed health 
+care professional who provided the training, and the supervision, review, and monitoring of the medication administration is documented.Emergency First Aid Guidelines for California Schools
+17
+INFECTION CONTROL
+To reduce the spread of infectious diseases ( diseases that can be spread from one person to 
+another), it is important to follow Universal Precautions  when providing care to any ill or injured 
+student, whether or not the person is known to be infectious. Universal precautions are a set of 
+guidelines	that	assume	that	all	blood	and	certain	other	body	fluids	are	potentially	infectious.		
+The following list describes universal precautions:
+ Wash hands thoroughly with soap and water for at least 20 seconds. When hands are   
+	 	 visibly	dirty	or	visibly	soiled	with	blood	or	other	body	fluids	(be	sure	to	scrub	between	
+	 	 fingers,	under	fingernails,	and	around	the	tops	and	palms	of	hands).	If	hands	are	not	
+  visibly soiled you may use an alcohol-based hand rub.  
+  Wash hands:
+   1.    Before and after physical contact with any person 
+                 ( even if gloves have been worn).
+   2.    Before and after eating or handling food
+   3.    After contact with a cleaning agent
+   4.    After using the restroom
+	 	 	 5.				 After	providing	any	first-aid
+	 Wear	disposable	gloves	when	in	contact	with	blood	and	other	body	fluids.
+	 Wear	protective	eyewear	when	body	fluids	may	come	in	contact	with	eyes	
+  (e.g., squirting blood).
+	 Wipe-up	any	blood	or	body	fluid	spills	as	soon	as	possible	( wear disposable gloves).  
+  Double-bag the trash in plastic bags, or place in a Ziploc bag and dispose immediately.    
+  Clean the area with an approved disinfectant or a bleach solution (one part liquid bleach 
+  to 10 parts water).
+	 Send all soiled clothing (i.e., clothing with blood, feces or vomit) home with the person in a
+  double-bagged plastic bag.
+	 Do	not	eat,	touch	your	mouth,	or	touch	your	eyes	while	giving	any	first	aid.
+Guidelines:
+•	 Remind	students	to	wash	hands	thoroughly	after	coming	in	contact	with	any	blood	or	body		
+	 fluids.
+•	 Remind	students	to	avoid	contact	with	another	person’s	blood	or	body	fluid.Emergency First Aid Guidelines for California Schools
+18
+Persons with a history of 
+life-threatening allergies should be 
+known to appropriate school staff.
+An emergency care plan is needed 
+upon enrollment. Staff in a position 
+to administer approved medications 
+should receive instruction.
+ALLERGIC REACTION
+A person may experience a delayed allergic 
+reaction up to 2 hours following food or medication 
+ingestion, bites, bee sting or exposure to 
+chemicals, plants, etc
+•			Ask	if	person	is	having	difficulty	breathing	or	swallowing
+•			Ask	person	if	they	have	a	history	of	allergic	reaction
+•			Check	for	a	medical	bracelet	or	medallion
+•				Does	the	person	have	a	history	or	current	
+symptoms of a severe allergic reaction to 
+the recent exposure? (see below)
+•	 Brush	off	dry	substances	(wear	gloves)
+•	 Flush	contact	area	or	substance	from	
+ skin and eyes with water
+•	 Notify	adult	supervising	person	of	
+ exposure (bee sting or ingestion) and 
+ possibility of delayed allergic reaction
+•	 Observe	mild	reactions
+•	 Review	person’s	emergency	plan
+•	 Refer	to	Emergency	Action/Care	Plan,	if
+ available
+•	 Administer	Epinephrine	(EpiPen)	as	per
+ school protocol
+•	 Administer	other	doctor	and	
+ parent/guardian-approved medication as
+ prescribed - CALL EMS 9-1-1
+YES
+NO
+•	 Keep	quiet	&	in	position	of	comfort
+•	 Be	prepared	to	use	“CPR”
+Is person so uncomfortable that he is 
+unable to participate in school 
+activities?
+Return to class 
+Contact responsible school 
+nurse or administrator & parent 
+or legal guardian.
+NO
+Symptoms of a Severe Allergic Reaction after Exposure 
+Difficulty	breathing,	wheezing	 	 	 	 Pale,	gray,	blue	or	flushed	skin/lips
+Difficulty	swallowing,	drooling		 	 	 	 Poor	circulation	(See	“Seriously	Ill/Shock”)
+Continuous coughing or sneezing    Nausea and/or vomiting
+Tightening of throat or chest    Weakness, dizziness
+Swelling of face, neck or tongue    Seizures
+Confusion or loss of consciousness    Suddenly appears seriously sick/Generalized rash or hives
+Symptoms Of A Mild Allergic Reaction
+Red, watery eyes      Itchy, sneezing, runny nose
+Rash or hives in local area or widely scattered  Localized swelling, rednessEmergency First Aid Guidelines for California Schools
+19
+ASTHMA/WHEEZING/DIFFICULTY BREATHING
+Persons	with	a	history	of	breathing	difficulties,	
+including asthma or wheezing, should be known 
+to appropriate school staff. Develop a school 
+asthma action plan during enrollment. Keep 
+asthma inhaler and spacer available. Student 
+may carry their own medication. Staff authorized 
+to administer medications should 
+receive instruction.
+•				Sit	person	upright	in	position	of	comfort
+•				STAY	CALM.		Be	reassuring
+•				Ask	if	person	has	allergies	or	medication
+•			Did	breathing	difficulty	develop	rapidly?
+•			Is	the	student	having	difficulty	speaking	due	to	shortness	of	breath?
+•			Are	lips,	tongue	or	nail	beds	turning	blue?
+•			Change	in	level	of	consciousness-confusion?
+CALL EMS 9-1-1
+YES
+•				If	available,	check	school	asthma	action	plan
+•				If	person	has	doctor	and	parent/guardian	approved	inhaler	medication,	assist	or	
+     administer medication as directed
+•				Observe	for	4-5	min	and	repeat	as	directed,	if	not	improved
+•				Encourage	person	to	sit	quietly,	breathe	slowly	and	deeply	in	through	the	nose	and
+     out through the mouth  
+•				Are	symptoms	not	improving	or	getting	worse?
+•				Having	difficulty	speaking	in	full	sentences?
+•				Loud	wheeze	or	persistent	cough?
+•				Decreased	level	of	consciousness?
+NO
+NO YES
+CALL EMS 9-1-1
+Contact 
+responsible 
+school nurse or 
+administrator & 
+parent or legal 
+guardian.
+•			May	give	room	
+    temperature water to drink 
+•			Person	may	return	to	class		
+    when recovered
+Signs of Breathing Difficulty
+•			Rapid/Shallow	breathing	 	 	 •			 Tightness	in	chest	 	 	 •Excessive	coughing
+•			Not	able	to	speak	in	full	sentences	 •			Widening	of	nostrils	 	 •Appears	very	anxious
+•			Wheezing	(high	pitched	sound)	 	 •			Increased	useW	of	stomach
+          and chest muscles
+Asthma/wheezing attacks may be triggered by 
+many substances/activities.  Hypersensitive 
+airways become smaller, causing wheeze, cough, 
+and	difficulty	breathing.		Attacks	may	be	mild,	
+moderate or severe. Refer to emergency 
+care plan.Emergency First Aid Guidelines for California Schools
+20
+BEHAVIORAL EMERGENCIES
+Persons with a history of behavioral 
+problems, emotional problems or 
+other special needs should be known 
+to appropriate staff.  An emergency 
+care plan should be developed at time 
+of enrollment.
+•			Does	person’s	behavior	present	an	immediate,
+    risk of physical harm to self, other 
+    persons or property?
+•			Is	person	armed	with	a	weapon?
+Are there visible injuries?  Signs of 
+poisoning or patient has admitted to 
+taking medications or drugs.
+Refer to your school’s policy for addressing behavioral 
+emergencies.  Behavioral or psychological emergencies 
+may take many forms (e.g., depression, anxiety/panic, 
+phobias, destructive or assaultive behavior, etc.).
+Intervene only if the situation is safe for you.
+Call for assistance
+NO
+See	appropriate	guideline	to	provide	first	
+aid, if any injury requires immediate care.
+CALL EMS 9-1-1
+YES
+CALL POLICE 9-1-1
+Ask for a police response.
+YES
+Communications should be non-threatening.   Acknowledge that the person is upset, offer to 
+help, make eye contact, and avoid physical contact.  Stay out of reach, and ensure an 
+accessible escape route.  DO NOT challenge or argue.  Attempt to involve people who the 
+person trusts, and talk about what is wrong.  If available, have another adult stand nearby, in 
+a nonthreatening manner, in case student’s behavior escalates. Check Emergency 
+Action/Care Plan for more information.
+NO
+If needed:
+Suicide Hotline
+(1-800-273-8255)
+www.suicidepreventionlifeline.org
+Contact responsible school 
+nurse or administrator and 
+parent or legal guardian.
+The cause of unusual behavior may be psychological/emotional or physical (e.g., fever, diabetic emergency, 
+poisoning/overdose, alcohol/drug abuse, head injury, etc.). 
+The person should be seen by a health care provider to determine the cause.
+Suicidal and violent behavior should be taken seriously.  If the person has threatened to harm himself/herself 
+or others, contact the responsible school authority immediately.Emergency First Aid Guidelines for California Schools
+21
+BITES (HUMAN & ANIMAL)
+Wear disposable gloves
+when exposed to blood
+or	other	body	fluids.
+Is the person bleeding?
+•			Press	firmly	with	a	clean	
+dressing/cloth on bleeding site, 
+see “Bleeding” (pg. 24)
+Is bite large or gaping?
+Is blood spurting?•			Hold	bite	area	under	running	water
+    for 2-3 minutes 
+•			Wash	with	soap	and	water	
+•			If	wound	bled,	apply	clean	
+    bandage Is bleeding 
+uncontrolled?
+Maintain direct pressure
+CALL EMS 9-1-1
+See “Bleeding” (pg. 24)
+NO
+NO
+NO
+YES
+YES
+If bite is from a snake, scorpion or other 
+reptile, hold the bitten area still and 
+below the level of the heart.
+Call POISON CONTROL CENTER
+1-800-222-1222
+See “Snake Bite”, if appropriate  (pg. 23)
+Is bite from a human?
+Check immunization record for DT, 
+DPT, Tdap, or DTaP (tetanus).  See 
+“Tetanus” (pg. 68) for more information.
+If bite is from an animal:
+•			Don’t	try	to	catch	or	touch	
+    the animal
+•			Get	description	and	location	
+    of animal
+•			Report	to	Animal	Control	or	
+    proper authority, usually the local
+    Health Department, so that 
+    animal can be caught & watched
+    for rabies
+Contact responsible school nurse 
+or administrator and parents/legal 
+guardian.  If a human bite, inform both 
+the person bitten and the person biting 
+that they may have been exposed to 
+blood from another person. If skin is 
+broken seek medical care.
+ENCOURAGE IMMEDIATE MEDICAL 
+CARE
+File Incident Report
+YES
+NO
+YESEmergency First Aid Guidelines for California Schools
+22
+BITES & STINGS (INSECT)
+Also see
+Bites & Stings for:
+Human (pg. 20)
+Marine (pg. 22) &
+Allergic Reaction (pg. 17) 
+Did a scorpion sting person?
+Persons with a history of behavioral 
+problems, emotional problems or 
+other special needs should be known 
+to appropriate staff.  An emergency 
+care plan should be developed at time 
+of enrollment.
+Get description of insect or spider.
+Call POISON CONTROL 
+CENTER
+1-800-222-1222 
+Follow directionsDoes person have symptoms of:
+•			Difficulty	breathing?
+•			Swelling	of	face,	tongue	or	neck?
+•			Coughing	or	wheezing	that	does	not	stop?
+•			History	of	severe	allergic	reactions?If known history of anaphylaxis to 
+insect bite or envenomation and 
+symptoms are present, even if mild, 
+administer doctor and parent/guardian 
+approved medication.
+Use EpiPen if prescribed.
+YES
+YES
+•			Move	to	a	safer	area	to	avoid	more	stings
+•			Remove	stinger	as	quickly	as	possible	by	
+				scraping	with	edge	of	fingernail	or	credit	card
+•			Remove	any	tight	fitting	jewelry	from	affected	area
+•			Wash	area	with	soap	and	water	
+•			Apply	ice	or	cold	pack	wrapped	in	cloth/towel	
+    for 10-15 minutes
+•			Observe	for	at	least	20	minutes	or	
+•			Call	EMS	9-1-1	if	person’s	symptoms	worsen	
+   
+  CALL 9-1-1
+•	 Keep	person	quiet		
+•	 See	“Allergic	Reaction”	(pg.	17)
+•	 Position	of	Comfort
+•	 Be	prepared	to	perform	“CPR”	
+•			Any	signs	of	allergic	reaction?
+•			Is	bite	thought	to	be	poisonous?
+•			If	an	old	bite,	is	it	reddened,	weeping,
+    ulcerated or sore?
+Return to class, ensure adult supervisor aware 
+of bite and possible delayed allergic reaction.
+NO
+NO
+Contact responsible 
+school nurse or 
+administrator & 
+parent/legal guardian.  
+YES
+•	 Allergic	reactions	may	be	delayed	up	to	two	(2)	hours
+•	 See	“Allergic	Reaction”	for	sign	and	symptoms	(pg.	17)Emergency First Aid Guidelines for California Schools
+23
+BITES & STINGS (MARINE)
+Marine envenomation from bite, spine or 
+contact can cause anaphylaxis.
+See “Allergic Reaction (pg. 17)
+Marine field trips should carry first aid kits 
+with specific items for marine stings.
+When unsure of marine animal or plant 
+contacted, obtain description and 
+Call POISON CONTROL CENTER
+1-800-222-1222 
+Follow directions
+Known history of 
+allergic reactions 
+should be recorded 
+at school and avail -
+able to all school 
+staff.  An emergency 
+care plan is needed.
+Sponge:  
+May leave tiny 
+spicules in skin
+Spine Puncture:  . 
+Stingray,	Stonefish,	
+Sea Urchin or Star 
+fish	-	Causes	
+severe intense pain
+Jellyfish
+May cause severe 
+pain and shock 
+depending on 
+species
+Coral
+•		Rinse	with	sea
+   water (not fresh)
+•		Apply	vinegar,	
+   rubbing alcohol,
+   baking soda, if
+   available  
+•		Remove	adherent
+   nematocysts by
+   applying shave
+   cream, baking
+   soda or talc and
+   scrape with razor
+   or sharp edge
+Fish Bite
+There will be pain at the 
+site; possible breathing 
+difficulties
+•			Use	hot	fluid
+•			Treat	as	wound	See
+    “Wounds (Puncture)”
+    (pg. 72)
+•			Apply	pressure	if	
+    bleeding, clean wound,
+    apply clean dry 
+    dressing
+•			Immerse	hand	or
+    foot in hot (not
+    scalding) water
+    for 30-90 minute
+    to relieve pain
+•			Rinse	with	sea
+    water or vinegar
+    to detoxify
+•			Remove	
+    spicules with
+    tape, rubber 
+    cement or facial
+    mask
+Adult supervising person should be aware of sting and should observe 
+for allergic reaction.
+Does person have:
+	 •			Difficulty	breathing?	Hoarseness	or	difficulty	swallowing?
+	 •			Swelling	of	the	face,	throat	or	mouth?
+	 •			A	history	of	allergy	to	marine	stings?
+Contact responsible 
+school nurse or 
+administrator & 
+parent or legal 
+guardian.  
+Injury from a marine spine 
+requires evaluation for 
+potential foreign body and 
+pain control
+CALL EMS 9-1-1
+See “Allergic Reactions” 
+(pg. 17)
+YES
+NOEmergency First Aid Guidelines for California Schools
+24
+BITES & STINGS (SNAKE)
+Treat all snakebites as poisonous unless 
+snake is positively identified as harmless.
+ •   DO NOT cut wound
+ •   DO NOT apply tourniquet
+ •   DO NOT apply ice
+•			Immobilize	the	bitten	extremity	at	or	below	the	level	of	the	heart
+•			If	at	school,	make	person	sit	or	lie	down,	keep	at	complete	rest,
+    avoid activity (walking)
+•			Keep	victim	warm	and	calm
+•			Remove	any	restrictive	clothing,	rings,	and	watches
+CALL EMS 9-1-1
+•			Wash	with	soap	and	water
+•			Cover	with	clean	compress
+•			Monitor	pulse,	color	and	respirations;	prepare	to	perform
+    CPR if needed
+    If greater than 30 minutes from emergency department:
+•			Apply	a	tight	bandage	around	the	entire	extremity	where	the
+				bite	occurred.	Do	not	cut	off	blood	flow
+•			Parents	may	transport	for	medical	evaluation	if	condition	is
+    not life threatening
+•			If	capable	and	off-road,	walk	slowly	to	road	or	trailhead	and
+    then take to emergency department
+•			Is	snake	known	as	poisonous?
+•			Is	person	not	breathing?	See	“CPR	(pg.	29)
+Contact responsible 
+school nurse or 
+administrator & parent or 
+legal guardian.
+ENCOURAGE 
+MEDICAL CARE
+ALL SNAKE BITES
+•			Need	medical	evaluation.
+•			Do	not	try	to	capture	or	kill	snake.
+•			Take	picture,	if	possible,	of	snake.
+•			If	snake	is	dead	send	with	victim	
+    to hospital.
+NO or UNKNOWN
+YES
+Severe:
+•			Fang	marks	or	mark •			Swelling	of	tongue	or	throat
+•			Swelling,	discoloration	or	pain	at	site •			Rapid	swelling	and	numbness
+•			Rapid	pulse,	weakness,	sweating,	fever •			Severe	pain
+•			Shortness	of	breath •			Shock
+•			Burning,	numbness	or	tinling	sensation •			Pinpoint	pupils
+•			Blurred	vsion,	dizziness,	fainting •			Twitching,	seizures
+•			Nausea	&	vomiting •			Paralysis	and	unconsciousness
+•			Loss	of	muscle	coordination
+Signs & Symptoms of Poisonous Bite:Emergency First Aid Guidelines for California Schools
+25
+BLEEDING
+Wear disposable gloves when exposed to blood or other 
+body	fluids.	Do not remove impaled object.
+•			Press	firmly	with	a	clean	gloved	hand,	cloth	or	dressing	for	several	minutes	to	stop	bleeding
+•			Object	in	wound,	see	“Wound-Puncture”	(pg.	72)
+•			Elevate	bleeding	extremity.	If	fracture	is	suspected,	see	“Fractures…”	(pg.	47)	
+•If	amputated	part,	place	part	in	sealed	plastic	bag	and	place	bag	in	ice	water
+•DO NOT PUT AMPUTATED PART DIRECTLY ON ICE
+CALL EMS 9-1-1
+•			Have	person	lie	down
+•			Elevate	feet	8-10	inches,	unless	this	causes
+    pain/discomfort, OR a neck/back/hip injury is
+    suspected
+•			Keep	person	warm	but	not	hot
+•			Reinforce	existing	dressing	and	apply	
+    pressure to wound as needed
+•			Bandage	wound	firmly,	but	not	tight	enough	to	compromise	circulation
+•			Check	skin	circulation	frequently	by	checking	for	warmth,	pinkness,	and	good	sensation
+•			If	bandage	is	saturated	with	blood,	Do	Not	remove	it
+•			Reinforce	with	another	dressing	over	existing	dressing/bandage,	and
+•			Hold	firm	pressure	for	10	minutes
+•			Wash	surrounding	area	with	soap	and	water
+•			Rinse,	pat	dry,	and	apply	bandage
+•			If	deep	or	gaping,	wounds	may	need	stitches–
+    RECOMMEND MEDICAL CARE
+Is there continued uncontrollable 
+bleeding?
+Contact responsible 
+school nurse or 
+administrator & parent or 
+legal guardian.
+•			Is	injured	part	amputated	(severed)?
+•			Is	blood	bright	red	or	spurting?
+•			Is	muscle,	fat	or	bone	showing?
+CALL EMS 9-1-1
+Maintain Direct Pressure on wound.
+NO
+YES
+YES
+NOEmergency First Aid Guidelines for California Schools
+26
+BLEEDING
+Wear disposable gloves when exposed to blood and other 
+body	fluids.
+•			Wash	area	with	soap	and	water
+•			DO NOT BREAK BLISTER
+•			If	ruptured	blister,	clean	and	cover	with	“2nd	skin	bandage,”	plain	athletic
+    tape, or “mole skin” type bandage
+•			If	intact	blister,	apply	dressing	and	avoid	further	friction	(different	shoes,	
+    if possible)
+•			If	red,	sensitive	but	no	blisters,	apply	tape	directly	over	area
+•			Apply	bandage,	tape	or	dressing	to	prevent	further	rubbing
+If infection is suspected,
+contact responsible school 
+nurse or administrator & 
+parent or legal guardian.
+Blisters heal best when kept clean and dry with 
+avoidance of further friction at blister site.Emergency First Aid Guidelines for California Schools
+27
+BRUISES
+A bruise is bleeding under the skin. Bleeding is usually 
+self-limited by pressure of surrounding tissues. 
+Initially red, later turning dark colors like purple. 
+An old bruise later may turn yellow then green.
+Painful, large bruises or marked swelling areas may indicate 
+more severe damage of muscle, bone, or internal tissues 
+that need medical care.
+If skin is broken:
+Treat as a cut.
+See “Wounds” (pg. 71)
+If fracture suspected,
+See	“Fractures…”	(pg.	47)
+•			Rest	injured	part
+•			Apply	cold	compress	or	ice	bag	covered	with
+    a cloth or towel, to injured part (not more 
+    than 20 min)
+Is there rapid swelling?
+Is person in great pain?
+If it is too uncomfortable 
+to return to normal 
+activities, contact responsible 
+school nurse or administrator & 
+parent or legal guardian.
+If a child comes to school
+with unexplained, unusual or 
+frequent bruising, consider 
+the possibility of child abuse.
+See
+“Child Abuse” (pg. 35)
+YES
+CALL EMS 9-1-1
+Consider other potential injuries and 
+see appropriate guide.
+Contact responsible school 
+authority & parent or legal 
+guardian.
+ENCOURAGE IMMEDIATE 
+MEDICAL CARE OREmergency First Aid Guidelines for California Schools
+28
+BURNS
+Always make sure that the situation is safe for you 
+before helping the person.
+Burns may be associated with other injuries, 
+see appropriate topic.
+•			Remove	from	source	of	burn
+•			Maintain	airway	and	breathing,	see	“CPR”	if	needed	(pg.	32)
+•			Turn	off	electrical	power
+•			Check	for	breathing	and	other	injuries
+•			Cover	with	a	dry,	preferably	sterile,	clean	dressing
+•			Maintain	normal	body	temperature
+•			Electric	shock	that	leaves	a	visible	burn	requires	
+    medical attention
+•			See	“Electric	Shock”
+Are	any	of	these	findings	present:
+•			Confused	or	unconsciousness?
+•			Difficulty	breathing?
+•			Soot	around	mouth	or	nose?
+•			Burn	on	face	or	eye?
+•			Burn	is	deep	or	includes	a	large	area,	or	multiple	parts	of	the	body?
+•			Burned	skin	is	white,	brown,	black	or	charred?
+•			Burn	is	from	an	explosion?
+See “Burns
+Thermal and Chemical”
+(pg. 28)
+YES
+CALL EMS 9-1-1
+What type of burn is it?ELECTRICAL
+CHEMICAL OR HEAT 
+(THERMAL)Emergency First Aid Guidelines for California Schools
+29
+•			Flush	all	burns	with	cool	
+    running water
+•			Cover	large	burns	with	a	
+    clean dry cloth
+•			Cover	smaller	burns	loosely
+    with a clean, cool, damp
+    cloth to cool the burn 
+    and relieve pain
+•			Keep	victim	warm
+DO NOT BREAK BLISTERS
+•			Cover	with	dry	dressing
+•			For	burns	on	multiple	parts	of
+    body cover with dry clean
+    sheet. 
+    Keep air off burn
+•			DO	NOT	USE	ointment	on	
+    burns unless directed by 
+    a physician
+What type of burn is it?
+Contact responsible 
+school nurse or administrator 
+& parent or legal guardian, if more 
+than	a	small	superficial	burn.
+ENCOURAGE URGENT 
+MEDICAL CARE
+If person comes to
+school with patterned burns 
+(e.g., iron or cigarette shape) 
+or glove-like burns, consider 
+the possibility of abuse.
+See “Child Abuse” (pg. 35)
+•			Wear	gloves	and,	if	possible,	goggles
+•			Avoid	chemical	contact
+•			Brush	off	dry	chemicals	from	skin
+•			Remove	all	clothing	and	jewelry	possibly	
+    exposed to chemical
+•			Rinse	chemicals	off	skin,	eyes	and	away	from
+    body IMMEDIATELY with large amounts of
+    water. Rinse for 10 minutes.
+•			If	eyes	are	involved,	see	“Eyes”	(pg.	42)
+•			Try	to	identify	substance
+BURNS (CONT.)
+Heat (Thermal) Chemical
+•			Keep	wound/burn	clean
+•			Treat	other	injuries
+•			Persons	with	small	and
+				superficial	burns	(e.g.,	
+    sunburn without blisters) 
+    may return to class unless so
+    uncomfortable they are 
+    unable to participate
+CALL POISON
+CONTROL CENTER
+1-800-222-1222
+while	flushing	burn	&	ask	for	
+instructions.
+Follow directions received.
+Check person’s immunization record for DT, DPT 
+(tetanus). See “Tetanus” for more information.Emergency First Aid Guidelines for California Schools
+30
+CPR
+NOTES ON PERFORMING CPR
+The American Red Cross (ARC) guidelines follow the American Heart 
+Association’s (AHA) new CPR guidelines for laypersons, “Guidelines 2010 for 
+Emergency Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.”
+BARRIER DEVICES
+Barrier devices, to prevent the spread of infections from one person to another, can be 
+used when performing rescue breathing. Several different types exist (e.g., face shields, 
+pocket masks). It is important to practice using these devices in the presence of a trained 
+CPR instructor before attempting to use them in an emergency situation.
+AUTOMATED EXTERNAL DEFIBRILLATORS (AEDs)
+AEDs are devices that help to restore a normal heart rhythm when the heart is 
+not beating properly. It does this by delivering an electric shock to the heart.
+A physician’s prescription is required to purchase an AED. A physician is also required 
+to provide medical direction to the school or school district that acquires an AED. If your 
+school has an AED, obtain training in its use, and training in CPR, before an emergency 
+occurs. The majority of AED use in the schools will be on adults at the facility, since the 
+medical conditions likely to require use of an AED on a child are extremely rare.
+AED training is offered through the American Heart Association, the American Red Cross, 
+the American Health and Safety Institute, the National Safety Council and other CPR and 
+AED training programs. AED manufacturers also offer training. The AED regulations are 
+available at the EMS Authority’s website http://www.emsa.ca.gov. See CA Code of 
+Regulations, Title 22, Division 9, Chapter 1.8, Training Standards and Utilization for 
+Use	of	the	Automated	External	Defibrillator	by	Non-Licensed	and	Certified	Personnel	
+for further information.Emergency First Aid Guidelines for California Schools
+31
+AUTOMATED EXTERNAL DEFIBRILLATORS (AED)
+CHECK WHICH APPLIES:
+ NO AED AVAILABLE AT THIS 
+SCHOOL.
+ My School’s AED is located at:
+___________________________
+___________________________
+___________________________
+ Persons must be trained to use an AED. After receiving training on how to use the  
+ AED, remember to:
+•			Check	for	unresponsiveness
+•			Call	9-1-1	and	retrieve	the	AED
+•			Check	for	unresponsiveness	or	gasping	breathing
+•			If	unresponsive	or	breathing	only	gasping	begin	chest	compressions
+•			Turn	on	AED	and	follow	directions
+•			Attach	AED	electrode	pads,	analyze	rhythm
+•			When	the	AED	recommends	the	patient	needs	to	be	shocked,	make	sure	no	one	is
+    touching the person and press the “Shock” button
+•			Follow	instructions	from	AED	unit
+•			If	instructed	to	do	so	by	AED,	resume	CPR	for	2	minutes	and	follow	instructions	from
+    AED device
+•			If	no	signs	of	circulation,	resume	CPREmergency First Aid Guidelines for California Schools
+32
+CHECK FOR 
+UNRESPONSIVENESS
+(Call out, rub arms/chest).
+If responsive, no CPR needed.
+If unresponsive, call 9-1-1.
+If anyone else available, have them call 
+for help and an AED.
+Additional written directions 
+and pictures on next page 
+(pg. 32).
+Place on left side and 
+protect airway
+CALL 9-1-1
+See “Loss of 
+Consciousness” and 
+provide	first	aid	as	
+needed (pg. 53).
+LAY PERSON CPR
+Infant CPR
+•   BEGIN CHEST COMPRESSIONS AT A RATE
+    OF 100/MIN; deliver 30 compressions
+•			Infants:	use	2	fingers	in	middle	of	breast	bone
+    and compress ½” -1” inch
+•			Small	children:	use	heel	of	hand,	compress	
+    1½”-2”
+•			Adults:	use	both	hands	–	one	on	top	of	other	in
+				middle	of	breast	bone	and	compress	at	least	2”	–
+    allow for full recoil of chest
+If trained - Give 2 rescue breaths
+•			Tilt	head	back	and	open	jaw
+•			Cover	mouth	with	your	mouth
+•			Give	breaths	until	chest	rises
+•			Continue	with	30	compressions	and	2
+    breaths
+If untrained	–	continue	“Hands	only”
+•			Continue	breathing	and	chest	
+    compressions as needed
+•			REASSESS	EVERY	2	MINUTES	for
+    responsiveness; if unresponsive, 
+    continue CPR
+•			If	patient	starts	breathing,	place	on	left
+    side and protect airway
+Head Tilt
+Adult CPR
+Child CPR
+If BreathingEmergency First Aid Guidelines for California Schools
+33
+LAY PERSON CPR (CON’T)
+FOR CHILDREN ONE YEAR OLD TO ADULT
+CPR is to be used when a child or adult is unresponsive or when breathing or heart beat stops.
+1.  Tap or gently shake the shoulder. Shout “Are you OK?” If that person is unresponsive,
+ shout for help and send someone to call EMS 9-1-1.
+2. Turn the person onto his/her back as a unit by supporting the head and neck. If head
+ or neck injury is suspected, DO NOT BEND OR TURN NECK.
+3.  Lift chin up and out with one hand while pushing down on the forehead with the other
+ to open the AIRWAY. If head or neck injury suspected, hold head still and move jaw
+ forward to open airway.
+4.  Check for normal breathing by observation of chest, if there is no breathing or the patient is making gasping breaths
+ then begin chest compressions at a rate of 100 per minute. Compress 30 times before beginning rescue breaths.
+5.  If child is not breathing, seal your lips tightly around his/her mouth; pinch nose shut.
+ While keeping the airway open, give 2 slow breaths (1 to 1½ seconds per breath) until chest rises.
+IF AIR GOES IN:
+(Chest rises with rescue breath)
+6. Place heel of one hand on the lower half of
+ breastbone. Do NOT place your hand over the very 
+ bottom of the breastbone.
+7.  Compress chest 30 times with heel of one hand
+	 (at	least	2	inches).	Lift	fingers	to	avoid	pressure	on	ribs.
+8.  Give 2 slow breaths until chest rises.
+9. REPEAT CYCLES OF 30 COMPRESSIONS TO   
+ 2 BREATHS AT A RATE OF 100 COMPRESSIONS
+ PER MINUTE UNTIL PERSON SHOWS SIGNS OF
+ BREATHING EFFECTIVELY ON OWN, SHOWS 
+ OTHER SIGNS OF CIRCULATION, OR HELP 
+ ARRIVES.
+IF AIR WON’T GO IN:
+(Chest does NOT rise with rescue breath)
+6.  Re-tilt head back (Steps 3-5). Try to give 2
+ breaths again.
+IF AIR GOES IN, FOLLOW LEFT COLUMN.
+IF AIR STILL WON’T GO IN:
+7.  Find hand position near center of breastbone.
+ Do NOT place your hand over the very bottom
+ of the breastbone.
+8.  Compress chest 30 times with the heel of 1
+	 hand	(at	least	2	inches).	Lift	fingers	to	avoid
+ pressure on ribs.
+9.  Lift jaw and tongue and look in mouth. If foreign
+	 object	is	seen,	sweep	it	out	with	finger.	If	object
+ is not seen, Do Not Sweep With Finger Blindly.
+10.  REPEAT STEPS 6-9 UNTIL BREATHS GO
+ IN, CHILD STARTS TO BREATH EFFECTIVELY 
+ ON OWN, SHOWS OTHER SIGNS OF 
+ CIRCULATION OR HELP ARRIVES.
+ 
+ 1. Reproduced with permission, Pediatric Basic Life Support ©  
+ 1997, Copyright American Heart Association
+ 2. Text based on  Community First Aid & Safety, 2002 American  
+ Red Cross
+ 3. 2010 American Heart Association Guidelines for CPREmergency First Aid Guidelines for California Schools
+34
+CHOKING
+FOR CONSCIOUS VICTIMS
+Call 9-1-1 or activate EMS after starting rescue efforts.
+INFANTS UNDER ONE YEAR OF AGE
+Begin the following if the infant is choking and is unable to 
+breathe. However, if the infant is coughing or crying, DO 
+NOT do any of the following, but call EMS 9-1-1, try to calm 
+the child and watch for worsening of symptoms. If cough 
+becomes ineffective (loss of sound), begin step 1 below.
+1.  Position the infant, with head
+ slightly lower than chest, face
+ down on your arm and support the
+ head (support jaw; do NOT
+ compress throat).
+2.  Give up to 5 back blows with the
+ heel of the hand between infant’s shoulder blades.
+3.  If object is not coughed up,
+ position infant face up on your
+ forearm with head slightly lower
+ than rest of body.
+4.	 	With	2	or	3	fingers,	give	up	to	5
+ chest thrusts near center of breastbone, about one
+	 finger	width	below	the	nipple	line.
+5.  Open mouth and look. If foreign
+ object is seen sweep it out with
+	 finger.
+6.  Tilt head back and lift chin up
+ and out to open the airway. Try
+ to give 2 breaths.
+7.  Repeat steps 1-6 until object is coughed up, infant
+ starts to breathe or infant becomes unconscious.
+IF INFANT BECOMES UNCONSCIOUS, LAY ON BACK 
+AND GO TO PAGE 32, RIGHT COLUMN, STEP 6 OF 
+CPR INSTRUCTIONS USING 2 FINGERS IN MIDDLE OF 
+BREAST BONE FOR COMPRESSIONS.
+CHILDREN OVER ONE YEAR OF AGE & ADULTS
+Begin the following if the child/adult is choking and is unable 
+to breathe. However, if the child/adult is coughing or crying, 
+DO NOT do any of the following, but call EMS 9-1-1, try to 
+calm the child/adult and watch for worsening of symptoms. If 
+cough becomes ineffective (loss of sound), begin step 1.
+1.  Stand or kneel behind person and place your arms
+ under the armpits to encircle the chest.
+2.		 Place	thumb	side	of	fist	against
+ middle of abdomen just above
+ the navel. DO NOT place your
+ hand over the very bottom of
+	 the	breastbone.	Grasp	fist	
+ with other hand. Press with
+ quick backward and upward
+ thrusts.
+3.  Give up to 5 quick inward and upward thrusts.
+4.  Repeat steps 1-2 until object is coughed up, or 
+ person starts to breathe or becomes unconscious.
+IF PERSON BECOMES UNCONSCIOUS, LAY ON BACK 
+AND GO TO PAGE 32, RIGHT COLUMN, STEP 6 OF CPR 
+INSTRUCTIONS.
+FOR OBESE OR PREGNANT PERSON
+Stand behind person and place your arms under the armpits 
+to	encircle	the	chest.	Place	thumb	side	of	fist	against	lower	
+half of breastbone and thrust backwards.
+ 1. Reproduced with permission, Pediatric Basic Life Support,
+ © 1997, Copyright American Heart Association
+ 2. Text based on Community First Aid & Safety, 2002 , 
+ American Red Cross
+Emergency First Aid Guidelines for California Schools
+35
+CHEST PAIN (POSSIBLE HEART ATTACK)
+Chest pain can be caused by:
+•			Injury
+•			Esophageal	spasm
+•			Lung	inflammation
+•			Pneumonia
+•			Gastric	disturbance
+•			Anxiety/Stress
+•			Heart	conditions
+CALL EMS 9-1-1
+Even if person objects.
+Do not transport by private car.
+•			Ask	person	if	this	has	
+    occurred before and what
+    made it better
+•			Place	in	position	of	
+    comfort, usually reclining, 
+    and keep quiet
+•			Loosen	tight	clothing
+•			Any	loss	of	consciousness	or	confusion?
+•			Does	person	look	seriously	ill?
+•			Has	heart	attack	symptom(s)?	(see	below)
+•			Has	significant	chest	pain	stopped	and	returned?
+Cardiovascular disease and heart attacks are 
+rare among children under 18 years of age. 
+However, some children have a history of 
+heart problems. Check emergency medical 
+information.
+The risk of heart attack increases steadily over 
+40 years of age.
+•			If	unconscious,	see	“Loss	of	
+    Consciousness” (pg. 53)
+•			If	breathing	stops;	see	“CPR”	(pg.	32)
+•			Place	in	position	of	comfort
+•			Keep	calm,	don’t	panic,	reassure	person
+•   DO NOT GIVE MEDICATIONS UNLESS
+    AUTHORIZED
+Contact responsible school 
+nurse or administrator & parent/
+legal guardian.
+Signs & Symptoms Of A Heart Attack
+•			Chest	pain	described	as	constant	heavy	pressure,	vise	like,	or	pain	in	the	middle	or	upper	chest.	The
+    discomfort may travel across the chest to arm, neck or jaw and also include:
+ o   Left arm/shoulder pain
+ o   Jaw/neck pain
+ o   Sudden unexplained weakness or dizziness with or without nausea
+ o   Sweaty, clammy, pale, ashen or bluish skin
+ o   Shortness of breath or breathing is abnormal
+YES
+NOEmergency First Aid Guidelines for California Schools
+36
+CHILD ABUSE & NEGLECT
+If child has visible injuries, 
+refer to the appropriate 
+guideline	to	provide	first	aid.	
+Call EMS 9-1-1 if any injuries require 
+immediate medical care.
+Teachers and other professional school staff are required to report 
+suspected abuse and neglect to the Child Protective Services 
+Agency. Refer to your own school’s policy for 
+additional guidance on reporting.
+Child Protective Services # _____________
+Child abuse is a complicated is-
+sue with many potential signs. 
+Anyone in a position to care 
+for children should be trained 
+in recognition of child abuse/
+neglect. Mandated reporters 
+should receive 
+required annual training.
+Abuse may be physical, sexual or emotional in nature. 
+This is NOT a complete list:
+•			Depression,	hostility,	low	self-esteem,	poor	self-image
+•			Evidence	of	repeated	injuries	or	unusual	injuries
+•			Lack	of	explanation	or	unlikely	explanation	for	an	injury
+•			Pattern	bruises	or	marks	(e.g.,	burns	in	the	shape	of	a	cigarette	or	iron,	bruises	or
+    welts in the shape of a hand)
+•			”Glove-like”	or	“sock-like”	burns	on	hands	or	feet
+•			Unusual	knowledge	of	sex,	inappropriate	touching	or	engaging	in	sexual	play	with	
+    other children
+•			Poor	hygiene,	underfed	appearance
+•			Severe	injury	or	illness	without	medical	care
+If a child reveals abuse to you:
+•			Stay	calm
+•			Take	the	child	seriously
+•			Tell	the	child	that	he/she	did	the	right	thing	by	telling	you
+•			Do	not	make	promises	that	you	cannot	keep
+•			Respect	the	sensitive	nature	of	the	child’s	situation.	Remember	each	case	is	individual	and	use	
+    your best judgment to act in the best interest of the child
+•			Follow	appropriate	reporting	procedures
+•			See	Department	of	Social	Services,	Publication	132	“The	California	Child	Abuse	&	Neglect	
+    Reporting Law - Issues and Answers for Mandated Reporters,” at 
+    http://www.dss.cahwnet.gov/pdf/PUB132.pdfEmergency First Aid Guidelines for California Schools
+37
+COMMUNICABLE DISEASES
+For more information on protecting yourself from upper 
+respiratory infections listed under the “Emergency 
+Procedures” tab, see “Infection Control” (pg. 16).
+CALL EMS 9-1-1.
+Does the person have
+SIGNS OF LIFE-THREATENING ILLNESS:
+•			Difficulty	breathing	or	swallowing,	rapid	breathing?
+•			Severe	coughing,	noisy	breathing?
+•			Fever	over	100.0	degrees	F	in	combination	with	lethargy,	
+    extreme sleepiness, abnormal behavior
+A communicable disease 
+is a disease that can be 
+spread from one person 
+to another. Germs cause 
+communicable diseases 
+(bacteria, virus, fungus, 
+parasites).
+YES
+Does the person have?
+SIGNS OF PROBABLE ILLNESS or INFECTION:
+•			Redness,	swelling,	drainage	of	eye?
+•			Unusual	spots/rash	with	fever	or	itching?
+•			Crusty,	bright	yellow,	swollen,	tender,	red	or	open	
+    draining skin sores?
+•			Diarrhea	(more	than	two	loose	stools	a	day)?
+•			Vomiting?
+•			Yellow	skin	or	yellow	“white	of	eye”?
+•			Fever	greater	than	100.0	degrees	F?
+•			Extreme	tiredness	or	lethargy?
+•			Unusual	behavior?
+Additional signs & symptoms:
+Fussiness  Runny nose  Mild cough
+Headache  Itchy scalp  Stomach ache
+Sore throat  Ear ache
+Monitor child for worsening 
+of symptoms and contact 
+parent/legal guardian.
+Remove student from 
+the classroom, contact 
+responsible school nurse or 
+administrator and parent or 
+legal guardian.
+ENCOURAGE MEDICAL 
+CARE
+In general, there will be little that you can do for a person in school who has an infection; however, limit the exposure and 
+spread of disease to others by encouraging student(s) to cover mouth and nose when coughing or sneezing; use a tissue 
+and encourage hand washing or use of alcohol based hand gel. Refer to your school’s exclusion policy for illness.
+Common diseases include: Chicken pox, head lice, pink eye, strep throat and influenza (flu).
+YES
+NOEmergency First Aid Guidelines for California Schools
+38
+DIABETES
+A person having a diabetic reaction could have the
+following signs & symptoms:
+ 
+	 •			Irritability	and	upset	 	 	 •			Rapid	pulse
+	 •			Sweating	and	feeling	“shaky”		 •			Cramping
+	 •			Change	in	behavior	 	 	 •			Dizziness
+	 •			Unconsciousness	 	 	 •			Listlessness
+	 •			Rapid,	deep	breathing	 	 •			Pallor
+	 •			Seizure	 	 	 	 •			Confusion
+	 •			Fruity	or	sweet	breath
+Give the person any one of the 
+following:
+•			Fruit	juice	or	soda	pop	(not	diet)	6-
+    8 ounces
+•			Sugar	(2	packets	or	2	teaspoons)
+    dissolved in water or juice
+•			Cake	decorating	gel	(1/2	tube)	or
+    icing
+•			Instant	glucose	gel
+Continue to watch the person in a quiet 
+place
+Is the person:
+	 •			Unconscious?
+	 •			Confused	or	acting	unusual?
+	 •			Having	a	seizure?
+	 •			Unable	to	speak?
+	 •			Having	rapid,	deep	breathing?
+A person with diabetes 
+should be known to 
+appropriate school staff.
+A history should be obtained 
+and an emergency care plan 
+should be developed at time 
+of enrollment.
+Does he/she have a blood 
+sugar monitor available?
+Contact responsible 
+school nurse or 
+administrator & parent 
+or legal guardian.
+Is person improving?
+Does person have an 
+emergency action/care plan?
+•			Allow	person	to	check	blood	sugar*
+•			Follow	Emergency	Action/Care	Plan
+CALL EMS 9-1-1.
+If unconscious, see “Loss of 
+Consciousness” (pg. 53)
+YES
+NO
+NO
+NO
+NO
+YES
+YES
+YESEmergency First Aid Guidelines for California Schools
+39
+DIARRHEA
+Wear disposable gloves when exposed to 
+blood	or	other	body	fluids.	A	person	may	come	
+to	the	office	because	of	repeated	diarrhea,	or	
+after an “accident” in the bathroom.
+•			Check	temperature
+•			Allow	the	person	to	rest	if	experiencing	any	stomach	pain
+•			Give	the	person	small	amounts	of	fluid	(water,	sport	drink,	etc.)	to	drink	to	
+    prevent dehydration; avoid sodas
+•			Juice	or	sports	drink	mixed	50/50	with	water
+Wash hands 
+thoroughly
+Contact responsible school nurse or administrator & parent or legal guardian and urge 
+medical care if:
+•			Has	three	or	more	episodes	of	diarrhea
+•			The	person	has	a	fever,	over	100.0	degrees	F,	see	“Fever”	(pg.	45)
+•			Blood	is	present	in	the	stool
+•			The	person	is	dizzy	and	pale
+•			The	person	has	severe	stomach	pain
+If the person’s clothing is soiled:
+•			Maintain	privacy,	offer	change	of	clothing	or	a	blanket	to	wrap	up	in
+•			Wear	disposable	gloves
+•			Double-bag	the	clothing	to	be	sent	homeEmergency First Aid Guidelines for California Schools
+40
+DROWNING/NEAR DROWNING
+•			CPR	trained	staff	should	send	someone	for	help.
+•			Get	person	out	of	the	water.
+•			Place	on	back	with	head	and	neck	straight.
+•			Open	and	maintain	AIRWAY	(if	head	or	neck	injury	
+    suspected or unknown, assume injury and lift jaw without
+    moving head).
+•			Assess	breathing.
+•			Clear	airway	of	vomit/objects	if	needed.
+•			Support	head	&	neck	and	turn	body	and	head	as	one	
+    (logroll) to the left side.
+•			Minimize	head	&	neck	movement.
+Is victim:
+•			Not	breathing?
+•			Unconscious,	confused,	lethargic?
+Drowning can occur 
+in 2 inches of liquid.
+Immediate medical 
+care is needed.
+Is patient regurgitating water?
+Give rescue breaths, if not 
+breathing, see “CPR”
+(pg. 32)
+CALL EMS 9-1-1
+DO NOT MOVE VICTIM
+Contact responsible school 
+authority and parent/legal 
+guardian.
+•			Support	head	&	neck	&	turn	body	&	head	
+    as one (logroll) to the left side
+•			Minimize	head	&	neck	movement
+•			Monitor	breathing,	level	
+    of consciousness and 
+    circulation
+•			If	changes	occur,	see	
+    appropriate guideline
+Was victim injured? See appropriate 
+guidelines
+If victim recovers with initial rescue efforts, 
+complications may still occur after near 
+drowning.
+Contact responsible school 
+nurse or administrator & parent 
+or legal guardian.
+ENCOURAGE 
+IMMEDIATE MEDICAL CARE
+NO
+NO
+NO
+YES
+YES
+YESEmergency First Aid Guidelines for California Schools
+41
+EARS
+DO NOT:
+•			Try	to	clean	out	ear
+•			Plug	ear	canal
+•			Stop	flow	of	drainage
+Is there a live insect in 
+the ear?
+Take & record 
+temperature
+DRAINAGE FROM EAR or EARACHE
+Contact responsible 
+school nurse or 
+administrator & parent 
+or legal guardian.
+ENCOURAGE 
+IMMEDIATE MEDICAL 
+CARE
+Ask person if he/she 
+knows what is in the ear
+Gently tilt head
+Put drop of oil in ear. Did 
+object come out?
+DO NOT ATTEMPT TO 
+REMOVE INSECT OR 
+OBJECT
+Do Not use a light to 
+attract an insect out, it 
+may excite the insect.
+Contact responsible 
+school nurse or 
+administrator & parent 
+or legal guardian.
+ENCOURAGE 
+IMMEDIATE MEDICAL 
+CARE
+OBJECT IN EAR CANAL
+YES
+YES
+NO
+NO or NOT SUREEmergency First Aid Guidelines for California Schools
+42
+ELECTRICAL INJURY
+•			Injury	from	any	electric	source	other	than	household,	
+    Call 9-1-1
+•			If	exposed	power	source, TURN OFF POWER
+    SOURCE, if possible
+•			DO NOT TOUCH PERSON UNTIL POWER 
+    SOURCE IS SHUT OFF
+•			Once	power	is	off	and	situation	is	safe,	approach	the
+    person and ask, “Are you okay?”
+•			Any	electrical	shock	with	injury	needs	medical	
+    evaluation
+Did person lose consciousness or 
+become unresponsive?
+If patient is 
+unresponsive and no 
+one else is available 
+to call EMS, call EMS 
+yourself then 
+begin CPR.
+Send someone to 
+CALL EMS 9-1-1
+If unresponsive or has only 
+gasping breathing, 
+begin CPR;
+see “CPR” (pg. 32)
+If a person has signs of an electrical burn, it 
+may be subtle:
+•	 Check	for	other	injuries
+•	 Apply	clean,	dry	dressing
+•	 DO	NOT	use	ointments
+•	 Protect	from	hot	and	cold
+•		All	electrical	burns	need	medical	attention.	
+Electrical current can travel through the 
+underlying tissues and cause unseen injury 
+Contact responsible 
+school nurse or 
+administrator & parent 
+or legal guardian.
+ENCOURAGE 
+IMMEDIATE MEDICAL 
+CARE
+Contact responsible 
+school nurse or 
+administrator & parent 
+or legal guardian.
+NO
+YESEmergency First Aid Guidelines for California Schools
+43
+EYES (INJURY)
+Keep person comfortable 
+with head and chest in 
+sitting position or elevated 
+and quiet.
+•	 Is	injury	severe?
+•	 Is	there	a	change	in	vision?
+•	 Has	object	penetrated	eye	or	eye	socket?
+With any eye problem, ask if the person 
+wears contact lenses. Have person remove 
+contacts before giving any first-aid to eye.
+Contact responsible 
+school nurse or 
+administrator & parent 
+or legal guardian.
+ENCOURAGE 
+IMMEDIATE MEDICAL 
+CARE
+CALL EMS 9-1-1
+If an object has penetrated the eye 
+or eye socket,
+DO NOT REMOVE OBJECT.
+A large object should be support-
+ed with dressings to minimize 
+movement.
+Keep person from rubbing eye, or moving object.
+DO NOT TOUCH THE EYE
+OR
+PUT ANY PRESSURE ON THE EYE OR THE OBJECT
+Contact responsible 
+school nurse or 
+administrator & parent 
+or legal guardian.
+EYES CONTINUED ON 
+NEXT PAGE (pg. 43)
+NO
+YESEmergency First Aid Guidelines for California Schools
+44
+EYES (CONT.)
+Keep person from 
+rubbing eye.
+Ask what is in 
+eye?
+•	 Have	person	blink	repeatedly	to	flush	out	particle
+•	 If	necessary,	lay	person	down,	&	tip	head	toward	
+ affected side
+•	 Gently	pour	cool	tap	water	over	open	eye	to	flush
+ out particle
+•	 Immediately	flush	eye	with	large	amounts	of	tepid	or	cool,	clean	water
+•	 Tip	the	head	so	that	the	affected	eye	is	below	the	unaffected	eye	washing
+ the eye from nose to side of face for 5-10 minutes
+•	 While	flushing	eye	try	to	determine	substance	that	entered	eye	and
+Call POISON CONTROL CENTER
+1-800-222-1222
+Follow Instructions
+If	particle	does	not	flush	
+out of eye, or if eye pain 
+continues, contact responsible 
+school nurse or administrator and
+ parent or legal guardian.
+ENCOURAGE MEDICAL CARE
+Close Eyelid & Cover
+PARTICLE IN EYE:
+Wear gloves and if 
+possible, goggles.
+Ask what is in eye?
+CHEMICALS IN EYE:
+If eye has been injured by a chemical or con -
+tinued pain or visual change
+CALL EMS 9-1-1
+Contact responsible 
+school nurse or 
+administrator & parent or 
+legal guardian.Emergency First Aid Guidelines for California Schools
+45
+FAINTING
+If you observe, or the person complains of any 
+of the following signs or symptoms of fainting, 
+have the person lie down to prevent injury from 
+falling:
+•	 Extreme	weakness	or	fatigue
+•	 Dizziness	or	light-headedness
+•	 Extreme	sleepiness
+•	 Pale,	sweaty	skin
+•	 Nausea
+Is fainting due to a forceful injury?
+Fainting may have many causes including: 
+injuries, blood loss, poisoning, severe 
+allergy, diabetic reaction, heat exhaustion, 
+hypoglycemia, illness, fatigue, stress, not 
+eating, standing still for too long, etc.
+Most persons who faint will recover quickly 
+when lying down. If person does not regain 
+consciousness within 1 minute, see “Loss of 
+Consciousness” 
+(pg. 53) and CALL 9-1-1.
+Keep person lying down.
+Contact responsible school
+nurse or administrator &
+parent or legal guardian.
+ENCOURAGE 
+IMMEDIATE MEDICAL CARE
+CALL EMS 9-1-1
+See “Loss of 
+Consciousness” (pg. 53).
+•	 Keep	person	in	flat	position	lying	on	back
+•	 Elevate	feet	above	level	of	heart
+•	 Loosen	clothing	around	neck	and	waist
+Did person injure self when he/she 
+fainted/fell?
+Are symptoms (dizziness, 
+light-headedness, weakness, 
+fatigue, etc.) still present?
+•	 Keep	airway	clear	and	monitor	breathing
+•	 Keep	person	warm,	but	not	hot
+•	 Control	bleeding	if	needed	,	see	“Bleeding”	(pg.	24)
+•	 Give	nothing	to	eat	or	drink
+•	 Check	for	a	medical	alert	tag	or	bracelet
+If person feels 
+better, and there 
+is no danger of 
+neck injury, he/
+she may be 
+moved to a quiet, 
+private area.
+See appropriate guideline. If head 
+or neck injury suspected. Treat as 
+possible neck injury.
+See “Neck & Back Pain” (pg. 56)
+.
+DO NOT MOVE PERSON
+Contact responsible 
+school nurse or administrator 
+& parent/legal guardian.
+NO
+YES
+NO
+NO
+YES
+YES or NOT SUREEmergency First Aid Guidelines for California Schools
+46
+FEVER & NOT FEELING WELL
+Take person’s temperature, if possible.
+Note temperature over 100.0 degrees F as fever.
+Is Temp over 100.0 
+degrees F?
+•	 Have	the	person	lie	down	in	a	room	that	affords	privacy.
+•	 Give	no	medications	unless	previously	authorized;	such	as	ace
+ aminophen or ibuprofen
+Does child have fever and
+•	 Is	unresponsive?
+•	 Is	limp,	weak,	listless	or	not	moving?
+•	 Rash	with	purple	spots?
+•	 Limited	movement	of	neck	(stiff)?
+•	 First	time	seizure?	See	“Seizures”	(pg.62)
+•	 Severe	headache?
+•	 Abdominal	pain?
+•	 Difficulty	breathing?
+•	 If	alert,	give	fluids	(i.e.,	juices,	water,
+ soup or gelatin) as tolerated
+•	 Avoid	overheating	with	excessive	
+ clothing/blankets
+Contact responsible 
+school nurse or 
+administrator & parent 
+or legal guardian.
+CALL EMS 9-1-1
+NO
+NO
+YES
+YESEmergency First Aid Guidelines for California Schools
+47
+FINGERNAIL/TOENAIL INJURY
+Assess history of injury and examine injury.
+A	crush	injury	to	fingertip	may	result	in	fracture	or	bleeding	under	
+intact	fingernail,	creating	pressure	that	may	be	very	painful.
+After 20 minutes of ICE, has pain subsided?
+Can	student	grasp	or	pinch	without	significant	pain?
+•	 Wear	gloves	if	bleeding
+•	 Use	gentle	direct	pressure	until	bleeding	stops.
+•	 Wash	with	soap	and	water,	apply	Band-Aid	or	tape	overlay	to	protect	nail	bed
+•	 Apply	ICE	PACK	for	10-20	minutes	for	pain	and	prevent	swelling
+Contact responsible 
+school nurse or 
+administrator & parent 
+or legal guardian.
+ENCOURAGE MEDICAL 
+CARE
+If you suspect a fracture, 
+see	“Fractures…”	(pg.	47). Return to class
+Contact responsible 
+school nurse or 
+administrator & parent 
+or legal guardian.
+NO YESEmergency First Aid Guidelines for California Schools
+48
+FRACTURES, DISLOCATIONS, SPRAINS OR STRAINS
+Treat all injured parts as if they
+Could be fractured (See Signs & 
+Symptoms at bottom of page)
+•	 Is	bone	or	joint	deformed	or	bent	in	an	unusual	way?
+•	 Is	skin	broken	over	possible	fracture?
+•	 Is	bone	sticking	through	skin?
+•	 Is	skin	of	the	injured	extremity	pale/cool	when	
+ compared with opposite extremity?
+•Avoid	movement	of	injured	part
+•Do	not	allow	person	to	put	weight	on	it	or	use	it
+•Splint	with	towel,	cardboard,	or	sling
+•Gently	support	and	elevate	injured	part	and	adjacent	
+joint, with pillow or folded towel, if possible
+•Apply	ice/cold	(no	more	than	20	min/hr.),	covered	with	
+cloth or paper towel
+Contact responsible 
+school nurse or 
+administrator& parent 
+or legal guardian.
+ENCOURAGE 
+MEDICAL CARE
+If bleeding, wear gloves and apply 
+direct pressure to bleeding site.
+•	 Control	Bleeding,	see	“Bleeding”	
+ (pg. 24)
+•	 Leave	in	position	of	comfort
+•	 Cover	broken	skin	with	clean	
+ bandage
+•	 Do	NOT	move	or	attempt	to	
+ straighten injured part
+•	 Splint
+•	 Give	nothing	to	eat	or	drink
+•	 See	“Seriously	Ill/Shock”	if	needed
+ (pg. 63)
+After a period of rest, recheck the injury.
+	 •	 Is	the	pain	gone?
+	 •	 Can	person	move	or	put	weight	on	injured	part
+  without discomfort?
+	 •	 Is	numbness/tingling	gone?
+	 •	 Has	normal	sensation	returned	to	injured	area?
+	 •	 Is	coloration,	circulation	normal?
+Contact responsible 
+school nurse or 
+administrator & parent 
+or legal guardian.
+If discomfort is 
+gone, allow person 
+to return to class.
+Signs & Symptoms of Fracture, Dislocation, Sprains or Strains
+•	 Pain	and/or	swelling	in	one	area		 •				Cold	and	numb
+•	 Large	bruise/discoloration	 	 •				Loss	of	sensation	or	movement
+•	 Sounds/feels	like	bones	moving		 •				Disfigurement	at	joint
+ rubbing
+•	 Bent	or	deformed	bone/extremity
+CALL EMS 9-1-1
+NO
+YES
+YES
+NOEmergency First Aid Guidelines for California Schools
+49
+FROSTBITE
+Exposure to cold even for short periods of time may 
+cause “Hypothermia” (a low temperature) in children, 
+see “Hypothermia” (pg. 52). The nose, ears, chin, 
+cheeks,	fingers	and	toes	are	parts	most	often	affected	
+by frostbite.
+Frostbitten skin may:
+	 •	 Look	discolored,	grayish-yellow,	pale,	or	white)
+	 •	 Feel	cold	to	touch
+	 •	 Feel	numb	to	tThe	person
+Deeply frostbitten skin may:
+	 •	 Look	white	or	waxy
+	 •	 Feel	firm-hard	(frozen)
+Does extremity or body part:
+•Look	discolored	–	grayish,	white	or	waxy?
+•Feel	firm	hard	(frozen)?
+•Have	a	loss	of	sensation?
+Frostbite can result in 
+the same type of tissue 
+damage as a burn. It is a 
+serious condition and 
+requires medical 
+attention.
+CALL EMS 9-1-1
+Keep person and affected 
+area warm
+•	 Take	to	warm	place	and	remove	cold	or	wet	clothing	and	replace	with	warm,	dry	clothes
+•	 Protect	cold	part	from	further	injury	(may	not	have	any	sensation)
+•	 Do	NOT	rub	or	massage	the	cold	part	OR	apply	heat	such	as	a	water	bottle	or	hot	running	water
+•	 Put	affected	body	part	in	bath	temperature	water	to	warm	&	potentially	thaw
+•	 Cover	part	loosely	with	nonstick,	clean	dressing	or	dry	blanket
+Contact responsible 
+school nurse or 
+administrator& parent 
+or legal guardian.
+ENCOURAGE 
+MEDICAL CARE
+Keep person and part warm
+NO YESEmergency First Aid Guidelines for California Schools
+50
+HEAD INJURIES
+If person only bumped head and 
+does not have any other 
+complaints or symptoms,
+See “Bruises” (pg. 26).
+Ask questions about how injury 
+occurred.
+Is person vomiting?
+Many head injuries that happen at school are 
+minor. Head wounds may bleed easily and form 
+large bumps. Bumps to the head may not be 
+serious. Head injuries from falls, sports, & 
+violence may be serious. If head is bleeding,
+see “Bleeding” (pg. 24).
+With a head injury (other than minor head 
+bump), always suspect neck injury as well. 
+Do NOT move or twist the spine or neck, 
+see “Neck & Back Pain” (pg. 56).
+If	person	was	briefly	confused	and
+seems fully recovered contact responsible
+school nurse or administrator & parent or legal 
+guardian.
+WATCH FOR DELAYED SYMPTOMS & 
+ENCOURAGE MEDICAL CARE.
+Send home instructions for observing delayed 
+symptoms.
+•Have	person	rest,	lying	flat
+•Keep	person	quiet	&	warm
+Turn the head and body together to the left 
+side, keeping the head and neck in a straight 
+line with the trunk.
+Watch person closely.
+DO NOT LEAVE PERSON ALONE
+Are any of the following present:
+•	 Unconsciousness,	seizure	or	neck	pain?
+•	 Blood	is	flowing	freely	from	the	head	wound,	
+ see “Bleeding” (pg. 24)?
+	 	 o			Maintain	firm,	direct	pressure
+•	 Inability	to	respond	to	simple	commands?
+•	 Blood	or	watery	fluid	from	ears	or	nose?
+•	 Inability	to	move	or	feel	arms	or	legs?
+•	 Person	is	sleepy,	confused	or	asks	repetitive	questions?
+CALL EMS 9-1-1
+Look, listen & feel for 
+breathing. If person stops 
+breathing,
+see “CPR” (pg. 32)
+GIVE NOTHING TO EAT 
+OR DRINK
+Contact responsible 
+school nurse or 
+administrator& parent 
+or legal guardian.Emergency First Aid Guidelines for California Schools
+51
+HEADACHE
+Have person lie down for a 
+short time in a room that affords 
+privacy. Headache can be due 
+to the lack of adequate food or 
+water. Ask person when and 
+what they ate last.
+Is temperature over 
+100.0 degrees F?
+Has a head injury occurred?
+If headache persists, 
+contact responsible 
+school nurse or 
+administrator & 
+parent or legal 
+guardian.
+Give medication only if 
+previously authorized.
+•	 Is	headache	severe?
+•	 Are	other	signs	or	symptoms	present?	(nausea,	vomiting,
+ fever, vision disturbance or dizziness)
+•	 History	of	chronic	headache,	stiff	neck,	or	sensitivity	to
+ light (light hurts eyes)?
+See
+“Head Injuries” 
+(pg. 49)
+See “Fever” 
+(pg. 45)
+•	 Apply	cold	cloth	or	compress	to	head
+•	 Offer	food	or	juice	if	person	hasn’t	eaten	adequately
+•	 Allow	to	rest	in	quiet,	low	light	room
+If not alert & in abnormal 
+mental state call 9-1-1.
+Contact responsible 
+school nurse or 
+administrator & parent or 
+legal guardian.
+ENCOURAGE 
+MEDICAL CARE
+NO
+NO
+NO
+YES
+YES
+YESEmergency First Aid Guidelines for California Schools
+52
+HEAT EXHAUSTION/HEAT STROKE
+Heat exhaustion is common and is due to lack of body 
+fluids.	Heat	Stroke	is	life-threatening	and	occurs	when	the	
+body is overwhelmed by heat and cannot regulate body 
+temperature. Strenuous activity in the heat may cause 
+heat-related illness. See signs & symptoms of heat 
+emergencies below.
+Is person unconscious or altered mental status?
+Spending too much time in the 
+heat, especially with exertion, 
+may cause heat emergencies.
+Heat emergencies can be 
+life-threatening situations.
+•	 Move	person	to	a	cooler	place
+•	 Have	person	lie	down
+•	 Elevate	feet
+•	 Loosen	or	remove	outer	clothing
+•	 Spray	with	water	and	fan	person
+Contact responsible 
+school nurse or 
+administrator & parent 
+or legal guardian.
+•	 Give	clear	fluids	frequently	(water,	sport	drink,	etc.),	in	small
+ amounts, if fully awake and alert
+•	 If	condition	improves,	may	return	to	class.	NO	P.E./Sports
+• If no improvement, child NEEDS IMMEDIATE 
+ MEDICAL CARE
+Are any of the following happening:
+•	 Hot,	dry,	red	skin?
+•	 Altered	mental	status?
+•	 Vomiting?	Fever?
+•	 Confusion,	dizziness?
+•	 Rapid	shallow	breathing?
+•	 Quickly	remove	person	from	heat	to	
+ a cooler place
+•	 Put	on	side	to	protect	airway
+•	 Look,	listen	and	feel	for	breathing.	If	
+ not breathing, see “CPR” (pg. 32)
+CALL EMS 9-1-1
+Remove outer clothing, as 
+appropriate. Cool rapidly by 
+completely wetting clothing/skin 
+with room temperature water.
+DO NOT USE ICE WATER.
+  Signs & Symptoms of Heat Related Injury
+  Heat Exhaustion    Heat Stroke
+•Cool,	moist,	pale	skin	 	 •Hot	skin	(usually	dry)
+•Weakness	&	fatigue		 	 •High	temperature
+•Sweating,	headache	 	 •Rapid,	weak	pulse
+•Vomiting,	nausea	 	 	 •Rapid,	shallow	breathing
+•Confusion,	dizziness	 	 •Seizure
+•Muscle	cramping	 	 	 •Loss	of	consciousness
+NO
+NO
+YES
+YESEmergency First Aid Guidelines for California Schools
+53
+HYPOTHERMIA (EXPOSURE TO COLD)
+Hypothermia can occur af-
+ter being outside in the cold 
+or in cold water.
+Does person have:
+•	 Decreasing	consciousness?
+•	 Slowed	breathing?
+•	 Confused	or	slurred	speech?
+•	 White,	grayish	or	blue	skin?
+•	 No	feeling	in	part	of	body?
+Hypothermia can happen from exposure to cold, 
+wet, & windy conditions [does not require freezing 
+temperatures] when the body is no longer capable of 
+warming itself. Young children are particularly 
+susceptible to hypothermia. It can be a 
+life-threatening condition if left untreated 
+for too long.
+•	 Continue	to	warm	with	blankets
+•	 Provide	a	warm	environment
+•	 If	fully	awake	and	alert,	offer	warm	
+	 (NOT	HOT)	fluids
+•	 If	frostbite,	do	not	rub,	see	“Frostbite”	
+ (pg. 48) and do not break blisters.
+•Take	person	to	a	warm	place
+•Remove	cold	or	wet	clothing	and	wrap	in	
+a warm, dry blanket
+CALL EMS 9-1-1
+•	 Give	nothing	to	eat	or	drink
+•	 Continue	to	warm	with	blankets
+•	 If	sleepy	or	losing	consciousness,	place	on	left
+ side and protect airway, see “Loss of 
+ Consciousness” (pg. 53)
+•	 Look,	listen	and	feel	for	breathing.	If	breathing
+ stops, see “CPR” (pg. 32)
+Signs & Symptoms of Hypothermia (COLD)
+	 	 •			Confusion		 •			Shivering
+	 	 •			Clumsy	 	 •			Lethargic
+	 	 •			Blurry	vision	 •			Abnormal	behavior
+	 	 •			Slurred	speech	 •			Impaired	judgment
+	 	 •			Uncoordinated	 •			Slow,	irregular	pulse
+Contact responsible 
+school nurse or 
+administrator & parent 
+or legal guardian.
+ENCOURAGE 
+MEDICAL CARE
+NO
+YES Emergency First Aid Guidelines for California Schools
+54
+LOSS OF CONSCIOUSNESS
+Loss of consciousness may have many causes including: 
+injuries, blood loss, poisoning, severe allergic reaction, diabetic 
+reaction, heat exhaustion, illness, fatigue, stress, not eating, 
+etc. If you know the cause of the unconsciousness, see the 
+appropriate guideline.
+Did person regain consciousness?
+If victim stops breath-
+ing, or has gasping 
+respirations begin 
+“CPR”.
+•	 Position	person	on	their	back
+•	 Loosen	clothing	around	neck
+ and waist
+•	 Elevate	feet	and	keep	warm
+•	 Control	bleeding	if	present
+•	 Give	nothing	by	mouth
+•	 Keep	person	lying	down	10-15	
+ minutes
+Treat as having possible neck
+injury. See “Neck & Back Pain”
+DO NOT MOVE person, 
+unless a threat exists.
+•	 Immobilize	neck
+•	 Open	AIRWAY	using	jaw
+ thrust maneuver
+•	 If	vomiting,	turn	to	left	side
+ and support head in neutral
+ position with a towel roll
+Is unconsciousness due to injury?
+Is person 
+breathing?
+•	 If	not	breathing	or	gasping	for	breath
+•	 Begin	“CPR”
+CALL EMS 9-1-1
+See
+“Fainting” (pg. 44) or
+“Seizures” (pg. 62
+NO
+NO
+YES
+YES
+YES or NOT SUREEmergency First Aid Guidelines for California Schools
+55
+MENSTRUAL PROBLEMS
+Menstrual problems may present 
+with:
+•	 Abdominal	pain,	cramping
+•	 Abnormal	menses
+•	 Abnormal	bleeding
+Is it possible the person is pregnant?
+[Note: negative history is not reliable]
+Provide for 
+privacy
+•Give no medications unless previously 
+authorized by parent/legal guardian
+•If bleeding, offer a feminine pad
+Does person have continuing severe abdominal pain?
+See
+“Pregnancy” 
+(pg. 59)
+For mild cramps 
+recommend walking 
+or regular activities.
+•Mild	or	severe	symptoms/cramping
+•Abnormal	bleeding
+These may provide relief:
+•	 Short	period	of	quiet	rest
+•	 Warm	(not	hot)	heating	pad	over	lower	abdomen
+ (if allowed by the school district)
+•	 Encourage	medical	care	if	disabling	cramps	occur
+• ENCOURAGE IMMEDIATE MEDICAL CARE, 
+ if heavy vaginal bleeding occurs (greater than 
+ 5 pads/tampons per day or continued bleeding for 
+ 7 or more days)
+Contact responsible school 
+nurse or administrator & 
+parent or legal guardian.
+CALL EMS 9-1-1
+NO
+NO
+YES
+SEVERE
+YES or NOT SURE
+MILDEmergency First Aid Guidelines for California Schools
+56
+MOUTH & JAW INJURIES
+Wear disposable gloves when 
+exposed to blood or other body 
+fluids.	Use	direct	pressure	to	
+control bleeding.
+Does person have:
+•	 Difficulty	breathing?
+•	 Choking	sensation?
+•	 Loss	of	consciousness?
+•	 Persistent	bleeding?
+See “Head Injuries” (pg. 49) or 
+“Neck	Injury…”	(pg.	56)	if	you	
+suspect an injury other than 
+mouth or jaw.
+Contact responsible
+school nurse or administrator and 
+parent or legal guardian.
+ENCOURAGE IMMEDIATE 
+MEDICAL CARE
+Has jaw been injured?
+Is cut large, deep?
+CALL EMS 9-1-1
+If tongue, lips, or cheek are 
+bleeding, apply direct pressure 
+with sterile gauze or clean cloth
+•	 Look	for	difficulty	breathing
+Have teeth been injured?
+•Place	cold	compress	over	the	
+area to minimize swelling
+See 
+“Teeth & 
+Gums” 
+(pg. 66)
+If unconscious:
+•	 Protect	neck	by keeping straight
+•	 Protect	airway	by log rolling on to left side to
+ allow drainage of blood
+• Gently support jaw with hand
+• See “Teeth & Gums” (pg. 68) for any 
+ tooth injury
+• Control bleeding with direct pressure
+Signs of jaw fracture include:
+•	 Marked	tenderness	from	outer	edge	of	jaw
+•	 Teeth	do	not	fit	together	normally
+•	 Cannot	open	jaw	widely
+•	 Painful	to	clench	teethEmergency First Aid Guidelines for California Schools
+57
+NECK & BACK PAIN
+Suspect a neck/back injury if pain results from:
+•	 Falls	over	8	feet	or	falling	on	head
+•	 Being	thrown	from	a	moving	vehicle
+•	 Sports
+•	 Violence
+•	 Being	struck	by	a	car	or	other	fast	moving	object
+Has an injury occurred?
+A stiff or sore neck from sleeping in 
+a “funny” position is different than 
+neck pain from a sudden injury. 
+Non-injured stiff necks may be 
+uncomfortable, but they are usually 
+not emergencies.
+Symptoms of Nerve Injury (see 
+below) need medical evaluation, 
+even if they resolve.
+CALL EMS 9-1-1
+Did person walk-in or was 
+person found lying down?
+Allow person to assume position of comfort.
+•	 Keep	head	straight
+ADVISE PERSON NOT TO MOVE 
+HEAD OR NECK.
+DO NOT MOVE PERSON unless there is 
+IMMEDIATE DANGER of further physical harm.
+If person MUST be moved, support head and 
+neck	–	keep	head,	neck	and	back	from	bending.
+•	 Keep	person	quiet	and	warm
+•	 Hold	head	still	until	EMS	takes	over	care	by	gently
+ placing a hand on each side of head, OR
+•	 Place	rolled	up	towels/clothing	on	both	sides	of
+ head so it will not move
+If person is so uncomfortable 
+that he/she is unable to 
+participate in normal activities 
+contact responsible school nurse 
+or administrator & parent 
+or legal guardian. 
+May need medical 
+evaluation.
+Contact responsible
+school nurse or 
+administrator and 
+parent or legal 
+guardian.
+Symptoms of Possible Spinal Nerve Injury
+	 •	 Loss	of	sensation	 	 •Numbness	or
+	 •	 Loss	of	movement	 		tingling	of	arms
+	 •	 Electric	shock-like	pains	 	or	legs
+NO
+YES
+WALK-IN
+LYING DOWNEmergency First Aid Guidelines for California Schools
+58
+NOSE
+Can you see an object in 
+nose or did person put 
+something in their nose?
+Is object:
+•	 Large?
+•	 Puncturing	nose?
+•	 Deeply	imbedded?
+•	 Brisk	nose	bleed?
+Did object come out on its own?
+DO NOT ATTEMPT TO REMOVE OBJECT.
+See “ Wounds-Puncture” (pg. 72) if object 
+has punctured the nose.
+Have person hold the clear 
+nostril closed while gently 
+blowing nose.
+If there is no pain, 
+person may return to 
+normal activity. Notify 
+parent or legal 
+guardian.
+OBJECT in NOSE
+If object cannot be 
+removed easily,
+DO NOT ATTEMPT 
+TO REMOVE.
+Contact responsible 
+school nurse or 
+administrator & parent 
+or legal guardian.
+Care as in “Nosebleed” on next page. Contact responsi -
+ble school authority and parent/legal guardian.
+ENCOURAGE MEDICAL CARE
+NOSE CONTINUED ON 
+NEXT PAGE (pg. 58)
+NO
+NO
+YES
+YES or NOT SURE
+BROKEN NOSE (swollen and/or deformed with nose bleed)Emergency First Aid Guidelines for California Schools
+59
+NOSE (CONT.)
+Nosebleed may be caused by 
+injury, allergy, blowing or 
+picking nose, or dryness.
+Wear disposable gloves when 
+exposed to blood or other body 
+fluids
+DO NOT TILT HEAD BACK
+If head is tilted back, person 
+may spit up blood from throat.
+Has bleeding stopped?
+Encourage mouth breathing and discourage 
+nose blowing, repeated wiping or rubbing.
+NOSEBLEED
+•	 Lean	head	forward	while	sitting;	if	need
+ to lie down, lie down on side.
+•	 Pinch	nostrils	together	just	below	nasal
+ bones, maintaining constant pressure 
+ for 10-15 minutes.
+•	 If	continued	bleeding	after	pressure	or
+ if injury to nose, apply cold pack to
+ nose for 10-15 minutes and continue to
+ pinch for bleeding
+Contact responsible 
+school nurse or 
+administrator & parent 
+or legal guardian.
+ENCOURAGE 
+MEDICAL CARE
+Person may return to normal 
+activity. Avoid strenuous 
+activity for the day to prevent 
+recurrence of bleeding. Notify 
+parent or legal guardian.Emergency First Aid Guidelines for California Schools
+60
+POISONING & OVERDOSE
+Ask person if they ingested any medications or other 
+substances. Possible warning signs of poisoning include:
+•	 Pills,	berries	or	unknown	substance	in	mouth
+•	 Burns	around	mouth	or	on	skin
+•	 Strange	odor	on	breath
+•	 Sweating,	chest	or	abdominal	pain
+•	 Upset	stomach,	vomiting,	diarrhea
+•	 Dizziness	or	fainting
+•	 Seizure	or	convulsions
+Remove source of poisoning or get person away 
+from toxic fumes.
+Is person unconscious?
+Is	person	having	difficulty	breathing?	
+See “Loss of Consciousness” (pg. 53)
+Poisons can be swallowed, inhaled, 
+absorbed through the skin, eyes or 
+mucosa, or 
+injected.
+When you suspect poisoning:
+CALL EMS 9-1-1 & Poison 
+Control Center: 1-800-222-1222
+Continue to monitor
+•	 Airway
+•	 Breathing
+•	 Signs	of	circulation	(pulse,	skin
+	 color,	capillary	refill)
+•	 Level	of	consciousness
+•	 Speech,	orientation
+Wear gloves and remove any remaining substance in mouth.
+If	possible,	find	out:
+•	 Age	and	weight	of	person
+•	 What	was	swallowed	or	what	type	of	“poison”	it	was
+•	 How	much	&	when	was	it	taken
+CALL EMS 9-1-1
+DO NOT INDUCE VOMITING or 
+give anything UNLESS Poison 
+Control instructs you to. With some 
+poisons, vomiting can cause greater 
+damage.
+DO NOT follow the antidote label on 
+the container; it may be incorrect.
+CALL POISON CONTROL CENTER
+& follow instructions.
+Phone # 1-800-222-1222
+CALL EMS 9-1-1
+Send sample of vomited 
+material, or ingested material with 
+its container (if available), to the 
+hospital with the person.
+•	 If	person	has	any	changes	in	level	of	
+ consciousness, place on his/her side and
+ look, listen and feel for breathing. If 
+ breathing stops, see “CPR” (pg. 32)
+•	 Contact	responsible	school	nurse	or	
+ administrator & parent or legal guardian
+YESEmergency First Aid Guidelines for California Schools
+61
+PREGNANCY
+For morning sickness, 
+see “Vomiting” (pg. 69).
+Pregnancy may be 
+complicated by any of 
+the following:
+Appropriate school staff should be made aware of any 
+pregnant students. Ask if person might be pregnant 
+and when her last menstrual period (LMP) occurred.
+Keep in mind that any student who is old enough to be 
+pregnant might be pregnant. NOTE: History may not be 
+reliable.
+CALL EMS 9-1-1
+Vaginal Bleeding, if severe
+Contact responsible
+school nurse or administrator & 
+parent or legal guardian.
+ENCOURAGE IMMEDIATE 
+MEDICAL CARE
+Short, mild cramps in a
+near term person may be 
+normal. Contact responsible 
+school nurse or administrator & 
+parent or legal guardian.
+ENCOURAGE IMMEDIATE
+MEDICAL CARE
+Contact responsible
+school nurse or administrator & 
+parent or legal guardian.
+ENCOURAGE IMMEDIATE 
+MEDICAL CARE
+CALL EMS 9-1-1
+Severe Stomach Pain or Cramps
+•	 Person	may	be	in	labor	or	having	a	miscarriage
+ if cramps are strong and repeat or “water 
+ has broken”
+•	 If	labor	suspected	or	if	severe	abdominal	
+ pain persists
+CALL EMS 9-1-1
+Seizure
+This may be a serious complication of late 
+pregnancy, see “Seizure” (pg. 62).
+Amniotic Fluid Leakage
+This is NOT normal and may indicate the beginning of labor or may lead to 
+infection. Contact responsible school nurse or administrator, and parent or 
+legal guardian.Emergency First Aid Guidelines for California Schools
+62
+RASHES
+•Some	rashes	may	be	contagious	by	direct	contact	or	
+respiratory droplets
+•Wear	disposable	gloves	to	protect	self	when	in	contact	
+with any rash.
+Rashes may look like:
+•Hives
+•Red	spots	(large	or	small,	flat	or	raised)
+•Purple	spots
+•Blisters
+Rashes may have many 
+causes, including heat, 
+infection, illness, allergic 
+reactions, insect bites, dry 
+skin or skin irritations.
+CALL EMS 9-1-1
+Contact responsible school 
+nurse or administrator & parent 
+or legal guardian.
+See “Allergic Reaction” 
+(pg. 17) and
+“Communicable Diseases” 
+(pg. 36) for more 
+information.
+Other symptoms may indicate that the person needs 
+medical care. Does the person have:
+•	 Abnormal	behavior?
+•	 Difficulty	breathing	or	swallowing?
+•	 Purple	spots	with	fever?
+•	 Light-headedness,	extreme	weakness?
+If any of the following symptoms are found in 
+association with a rash, contact 
+responsible school nurse or administrator 
+& parent or legal guardian and
+ENCOURAGE MEDICAL CARE
+•	 Fever	(See	“Fever”)	(pg.	45)
+•	 Headache
+•	 Diarrhea
+•	 Sore	throat
+•	 Vomiting
+•	 Rash	is	bright	red	and	sore	to	touch.
+•	 Rash	(hives)	is	all	over	body
+•	 If	person	is	so	uncomfortable	(e.g.,	itchy,
+ sore, feels ill) that he/she is not able to 
+ participate in school activities
+YES
+NOEmergency First Aid Guidelines for California Schools
+63
+SEIZURES
+Refer to person’s Emergency Action/Care 
+Plan, if available, follow instructions from 
+person’s guardian or physician.
+•	 Is	seizure	lasting	longer	than	5	minutes?
+•	 Is	person	having	multiple	seizures	
+ following one another at short intervals?
+•	 Is	person	having	any	breathing	
+	 difficulties	after	the	seizure?
+A person with a history of seizures 
+should be known to appropriate staff.
+An emergency care plan should be 
+developed containing a description of the 
+onset, type, duration and after effects of 
+that person’s seizures. If there is a history 
+of diabetes, check blood sugar, see 
+“Diabetes” (pg. 37).
+•	 During	or	immediately	after	a	seizure,	place	on
+	 the	floor	(preferably	a	mat)	for	observation	and
+ safety
+•	DO NOT RESTRAIN MOVEMENTS
+•	 Move	surrounding	objects	to	avoid	injury
+•	 Protect	head	and	neck	using	a	jacket	or	padding
+ like a folded towel/cloth
+•	 DO NOT PLACE ANYTHING BETWEEN THE
+ TEETH or give anything by mouth
+•	 After	seizure,	keep	airway	clear	by	
+ placing person on his/her left side and
+ support the head in a neutral position
+ with a towel roll
+•	 Seizures	are	often	followed	by	
+ sleepiness and confusion. This may last
+ from 15 minutes to an hour or more
+Note:
+Observe details of the seizure for parent or 
+legal guardian, emergency personnel, or 
+physician.
+•	 Duration,	movement	of	eyes,	mouth,
+ arms & legs
+•	 Loss	of	urine/bowel	control
+•	 Loss	of	consciousness	or	change	in	
+ behavior
+After the sleeping period, the person 
+should return to normal and be 
+encouraged to participate in all 
+normal class activities.
+Contact responsible
+school nurse or 
+administrator & parent 
+or legal guardian.
+CALL EMS 9-1-1
+Signs & Symptoms of Seizure
+•	 Episodes	of	staring	and	nonresponsive
+•	 Staring	with	twitching	of	the	arm	and/or	leg	muscles
+•	 Generalized	jerking	movement	of	arms	and/or	legs	with	unconsciousness
+•	 Sudden	unusual	behavior	for	that	person	(e.g.,	strange	sounds,	belligerence,	running)
+•	 If	trained	personnel	and	medication	available,	administer	Diastat.
+YES
+NOEmergency First Aid Guidelines for California Schools
+64
+SERIOUSLY ILL/SHOCK
+Any serious injury or illness may lead to shock which 
+is a lack of blood and oxygen getting to tissue.
+•	STAY CALM and get medical assistance
+•	 Shock	is	a	life-threatening	condition
+•	 Check	for	medical	bracelet	or	medallion
+Is person:
+•	 Unconscious?	See	“Loss	of	Consciousness”	(pg.	53)
+•	 Not	breathing?	See	“CPR”	(pg.	29)
+•	 Look	seriously	sick?	(see	signs	&	symptoms	listed
+ below)
+•	 Bleeding	profusely?	See	“Bleeding”	(pg.	24)
+For Injury
+Do Not move 
+person until extent of injury 
+is known, unless 
+endangered.
+•	 Lie	person	down	–	keep	body	flat
+•	 Control	Bleeding:	apply	direct	pressure	and	see	“Bleeding”	(pg.	24)
+•	 If	person	vomits,	roll	on	to	left	side	keeping	back	&	neck	straight	if	injury	suspected
+•	 Minimize	pain	by	position	of	comfort
+•	 Elevate	feet	8-10	inches,	unless	this	causes	pain/discomfort,	OR	a	neck/back/hip	injury	is	
+ suspected
+•	 Keep	body	normal	temperature,	if	cold	provide	blankets.	Avoid	chilling
+•	 NOTHING	to	EAT	OR	DRINK
+Signs of SHOCK
+•	 Pale,	cool,	moist	skin	 	 	 •			Unresponsive	 	 	 •			Generalized	weakness
+•	 Mottled,	ashen,	blue	skin	 	 •			Abnormal	behavior	 	 •			Rapid	or	difficulty	breathing
+•	 Altered	consciousness		 	 •			Restlessness/irritability
+•	 Nausea,	dizziness,	thirsty
+Contact responsible
+school nurse or 
+administrator & parent or legal 
+guardian.
+CALL EMS 9-1-1
+Emergency First Aid Guidelines for California Schools
+65
+SPLINTERS or IMBEDDED PENCIL LEAD
+Wear disposable gloves 
+when exposed to blood 
+or	other	body	fluids.
+Is splinter or pencil lead:
+•	 Protruding	above	the	surface	of	skin?
+•	 Small	and	shallow?
+Reassure victim pencil 
+“lead” is actually graphite 
+and does not cause lead 
+poisoning.
+•Leave	in	place
+•DO NOT PROBE UNDER SKIN
+Gently wash area 
+with clean water 
+and soap.
+•	 Remove	with	tweezers	unless	this	causes	pain
+• DO NOT PROBE UNDER SKIN
+Contact responsible
+school nurse or 
+administrator & parent or 
+legal guardian.
+ENCOURAGE IMMEDIATE 
+MEDICAL CARE
+Were you successful in removing 
+the entire splinter/pencil lead?
+•	 Wash	the	area	again
+•	 Apply	clean	dressing
+Check immunization record for DT, DPT (tetanus).
+See “Tetanus Immunization” (pg. 68).
+YES
+YESNO
+NOEmergency First Aid Guidelines for California Schools
+66
+STOMACH ACHES/PAIN
+Stomach aches may have many causes including:
+	 •	 Illness		 	 •			Menstrual	difficulties
+	 •	 Hunger	 	 •			Psychological	issue
+	 •	 Overeating	 	 •			Constipation
+	 •	 Diarrhea	 	 •			Gas	pain
+	 •	 Food	poisoning	 •			Pregnancy
+	 •	 Trauma
+Has an injury occurred?
+Have person lie down in a room that affords privacy.
+Ask female when last menstrual period was? Is she pregnant? If yes, see “Pregnancy” (pg.59)
+•	 If	vaginal	bleeding,	see	“Menstrual	Problems”	(pg.	54)
+•	 Take	temperature
+•	 Note	temperature	over	100.0	degrees	F	as
+ fever, see “Fever” (pg. 45)
+Does person have:
+•	 Fever?
+•	 Severe	stomach	pains?
+•	 Vomiting?
+Allow person to rest for 20-30 minutes.
+Contact responsible
+school nurse or 
+administrator & parent or 
+legal guardian.
+ENCOURAGE IMMEDIATE 
+MEDICAL CARE
+Is person better?
+Contact responsible
+school nurse or 
+administrator & parent or 
+legal guardian.
+Allow person to return 
+to class/work
+YES
+YES
+YES
+NO
+NO
+NOEmergency First Aid Guidelines for California Schools
+67
+TEETH & GUMS
+Generally, related to 
+chronic infection. 
+Presents limited threat 
+to general health.
+For tongue, cheek, lip, 
+jaw or other mouth injury 
+not involving the teeth, 
+refer to “Mouth & Jaw” 
+(pg. 55).
+No	first	aid	measure	
+in the school will be 
+of	any	significant	
+value.
+Contact responsible
+school nurse or 
+administrator & parent or 
+legal guardian.
+ENCOURAGE IMMEDIATE 
+MEDICAL CARE
+BLEEDING GUMS
+No	first	aid	measure	
+in the school will be 
+of	any	significant	
+value.
+Generally, related to 
+chronic infection. 
+Presents limited threat 
+to general health.
+TOOTHACHE or GUM ABCESS
+Relief of pain in the school often postpones dental care. 
+Administer pain reliever, ibuprofen or acetaminophen as 
+school protocol allows.
+DO NOT place pain relievers (e.g., Aspirin, Tylenol) on the 
+gum tissue of the aching tooth since they can cause burns to 
+the tissue!
+A few comfort measures:
+•	 If	cavities	present,	a	warm	salt-water	rinse
+ may remove food
+NOTE:
+A loose temporary tooth may ache
+Contact responsible
+school nurse or 
+administrator & parent or 
+legal guardian.
+ENCOURAGE IMMEDIATE 
+MEDICAL CARE
+TEETH CONTINUED ON 
+NEXT PAGE (pg. 67)Emergency First Aid Guidelines for California Schools
+68
+TEETH (CONT.)
+For primary (temporary) teeth:
+•	 Find	Tooth
+•	 Do	not	handle	root	of	tooth
+• Use Disposable Gloves
+•	 Have	student	bite	on	folded	gauze	to	
+ stop bleeding
+•	 Place	tooth	in	container	or	envelope	to	take
+ home
+•	 Return	to	normal	activities
+Contact responsible school
+nurse or administrator & parent
+or legal guardian.
+OBTAIN EMERGENCY DENTAL 
+CARE. A DENTIST SHOULD SEE 
+THE PERSON WITHIN
+60 MINUTES.
+KNOCKED-OUT TOOTH or BROKEN PERMANENT TOOTH
+If a permanent tooth is knocked-out (within 15-20 minutes):
+	 •	 Apply	cold	compress	to	face	to	minimize	swelling
+	 •	 If	tooth	is	dirty,	hold	tooth	by	crown	rinse	with	water
+	 •	 DO	NOT	scrub,	rub	or	scrape	to	remove	dirt	from	tooth
+	 •	 Place	in	HBSS	(Save-A-Tooth	Kit)	if	available,	OR
+	 •	 If	student	is	old	enough,	gently	insert	and	hold	the	tooth	in	its	socket,	if	
+  not possible, place in glass of milk, OR
+	 •	 Have	person	spit	in	cup	and	place	tooth	in	it
+	 •	 Remember	to	take	the	tooth	with	you
+TOOTH MUST NOT DRY OUT
+DISPLACED TOOTH (Still in Socket)
+DO NOT try to move 
+tooth into correct 
+position.Emergency First Aid Guidelines for California Schools
+69
+TETANUS IMMUNIZATION
+Protection against tetanus should be considered with any wound, 
+even a minor one. After any wound, check the person’s 
+immunization status for tetanus (DTaP, Tdap, DPT, DT Td) and 
+notify parent or legal guardian.
+Note: Tetanus toxoid is nearly always combined with diphtheria 
+and pertussis (DPT or TdaP).
+A wound would need a tetanus booster if it has been at least 5 
+- 10 years since the last tetanus shot or if the person is 5 years 
+old or younger.
+Other wounds, such as those contaminated by dirt, feces, saliva 
+or	other	body	fluids;	puncture	wounds;	amputations;	and	wounds	
+resulting from crushing, burns, and frostbite need a tetanus 
+booster if it has been more than 5 years since the last tetanus 
+shot.Emergency First Aid Guidelines for California Schools
+70
+TICKS
+Refer to your school’s policy 
+regarding the removal of ticks.
+Proceed	if	not	in	conflict	with	
+policy. Wear disposable gloves 
+when exposed to blood and 
+other	body	fluids.
+Inspect for ticks after time in woods or brush.
+Ticks may carry serious infections and must be 
+completely removed.
+DO NOT handle ticks with bare hands.
+•	 Using	tweezers	grasp	the	tick	as	close	to	the	skin	surface	as	possible	and	pull
+ upward with steady, even pressure
+•	 DO NOT twist or jerk the tick as this may cause the mouthparts to break off. 
+ It is important to remove the ENTIRE tick
+•	 Take	care	not	to	squeeze,	crush,	or	puncture	the	body	of	the	tick	as	its	fluids
+ may carry infection
+•	 DO NOT ATTEMPT TO BURN A TICK OFF OR PRICK IT WITH A PIN
+•	 After	removal,	wash	the	tick	area	thoroughly	with	soap	and	water
+•	 Wash	your	hands
+•	 Apply	a	Band-Aid	type	dressing.	If	permitted	by	school	policy,	use	an	
+ antiseptic or antibiotic ointment
+Contact responsible
+school nurse or 
+administrator & parent or 
+legal guardian.
+Placing	ticks	in	a	container	of	alcohol	or	flushing	them	down	
+the toilet will safely dispose of them.
+If any head or mouth parts remain in skin,
+ENCOURAGE MEDICAL CARE.Emergency First Aid Guidelines for California Schools
+71
+VOMITING
+Vomiting may have many causes including:
+•			Illness	or	Injury	 	 	 	 •			Food	Poisoning
+•			Pregnancy	 	 	 	 	 •			Heat	Exhaustion
+•			Overexertion	 	 	 	 •			Drugs	or	Alcohol
+•			Toxic	Exposure	or	Ingestion	 	 •			Near	Fainting
+•			Intestinal	Illness
+If you know the cause of the vomiting see the appropriate 
+guideline.
+Wear disposable gloves when exposed to blood and other 
+body fluids.
+Is	person	vomiting	clots	or	more	than	flecks	or	
+streaks of blood? Does person have decreased level 
+of consciousness?
+If a number of adults and/or 
+children become ill with the same 
+symptoms, suspect food 
+poisoning.
+CALL POISON CONTROL 
+CENTER
+1-800-222-1222
+Follow instructions.
+(See “Poisoning”)
+Notify public health (usually 
+the local County Health Depart-
+ment).
+Phone #_________________
+•	 Have	a	bucket	available
+•	 Apply	a	cool,	damp	cloth	to	face	or	forehead
+•	 Have	person	recline	or	lie	down	in	a	position	of	
+ comfort in a room that affords privacy
+•	 Give	no	food	or	medications
+•	 Offer	ice	chips	or	small	sips	of	clear	fluids	(e.g.,
+ water, diluted 7-up, diluted Gatorade) and assess
+	 ability	to	tolerate	fluids
+Does patient have altered level of 
+consciousness, pain, and associated fever, 
+diarrhea, dizziness or lethargy?
+See appropriate guidelines.
+CALL EMS 9-1-1
+Contact responsible
+school nurse or administrator 
+& parent or legal 
+guardian.
+ENCOURAGE MEDICAL CARE
+YES
+NOEmergency First Aid Guidelines for California Schools
+72
+Wear disposable gloves when exposed to blood 
+or other body fluids.
+Use direct pressure on the wound to 
+control bleeding.
+Is the Wound:
+•	 Large?
+•	 Deep?
+•	 Bleeding	freely?
+Refer to primary care 
+provider as needed to 
+update immunizations 
+against tetanus.
+Use wet gauze or 
+towel to wash the 
+wound gently with 
+clean water and 
+soap in order to 
+remove dirt.
+•	 Rinse	under	running	water
+•	 Pat	dry	with	clean	gauze	or	paper	towel
+•	 Apply	clean	gauze	dressing	
+ (non-adhering/non-sticking type) 
+ and bandage
+Apply direct 
+pressure on bleeding 
+site and see 
+“Bleeding” (pg. 24).
+WOUNDS
+(CUTS, SCRATCHES & SCRAPES
+INCLUDING ROPE & FLOOR BURNS)
+Notify parent if wound is 
+deep, dirty, gaping or has 
+embedded material. Contact 
+responsible school nurse or 
+administrator & parent or legal 
+guardian.
+Some Signs of Internal Bleeding
+Include persistent abdominal pain, rapid-weak pulse, 
+cool-moist skin, paleness, confusion or fainting, weakness, 
+vomiting or blood in sputum. Internal bleeding needs 
+emergency medical attention.
+YESNOEmergency First Aid Guidelines for California Schools
+73
+WOUNDS (PUNCTURE)
+Wear disposable 
+gloves when exposed 
+to blood or other body 
+fluids.	Apply	direct	
+pressure to control 
+bleeding.
+DO NOT TRY TO PROBE 
+OR SQUEEZE
+DO NOT 
+TOUCH EYE 
+See
+“Eye Injury” 
+(pg. 42).
+Has the eye been 
+injured?
+•	 Is	object	large?
+•	 Is	wound	deep?
+•	 Is	wound	bleeding	freely	or	squirting	blood?
+•	 Is	air	escaping	from	wound	in	the	chest?
+Is object still visible in 
+wound?
+If wound is deep or bleeding 
+freely, treat as bleeding,
+see “Bleeding” (pg. 24).
+•	 Wash	the	wound	gently	with	soap	
+ and water
+•	 Cover	with	a	clean	bandage
+DO NOT REMOVE OBJECT
+•Try	to	calm	person
+Check person’s immunization record 
+for DT, DPT (tetanus).
+See “Tetanus” (pg. 68) for more 
+information.
+Contact responsible school nurse or 
+administrator & parent or legal guardian. If 
+more	than	a	superficial	wound
+ENCOURAGE MEDICAL CARE
+CALL EMS 9-1-1
+See “Bleeding” (pg. 24)
+YES
+YES
+YES
+NO
+NO
+NOEmergency First Aid Guidelines for California Schools
+74
+WOUNDS (STABS & GUNSHOT)
+CALL the police via 9-1-1
+•	 Tell	dispatcher	if	Emergency	Medical	
+ Services are also needed
+•	 Intervene	only	if	the	situation	is	safe	for	you
+ to approach
+•	 Get	someone	to	assist	you
+Is the person:
+•	 Pale,	sweaty	skin?
+•	 Losing	consciousness?
+•	 Having	difficulty	breathing?
+•	 Bleeding	uncontrollably?
+Refer to your 
+school’s policy for 
+handling violent 
+incidents.
+Wear disposable gloves when exposed to 
+blood or other body fluids.
+Contact responsible school 
+nurse or administrator & 
+parent or legal guardian.
+Open the airway and look, 
+listen and feel for breathing, 
+see “CPR” (pg. 32).
+•If impaled object, do not remove
+•Press	firmly	with	a	clean	bandage	to	stop	bleeding,	see	
+“Bleeding” (pg. 24)
+•Have	person	lie	down
+•Elevate	feet	8-10	inches
+•Elevate	injured	part	gently,	if	possible
+•Cover	with	a	blanket	or	sheet
