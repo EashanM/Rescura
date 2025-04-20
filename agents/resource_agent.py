@@ -1,48 +1,59 @@
 # rescura/agents/resource_agent.py
-from langchain.agents import create_structured_chat_agent, AgentExecutor
+from langchain.agents import create_tool_calling_agent, AgentExecutor
 from langchain_groq import ChatGroq
-from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
-from dotenv import load_dotenv
+from langchain_core.prompts import ChatPromptTemplate
+from langchain.tools import Tool
 
-load_dotenv()
+import sys
+import os
 
+sys.path.append(os.path.abspath(os.curdir))  #
 
+from utils.geo import find_nearby_hospitals
 
 class ResourceAgent:
-    def __init__(self, groq_api_key: str):
+    def __init__(self):
         self.llm = ChatGroq(
             temperature=0.1,
             model_name="llama3-8b-8192",
-            api_key=groq_api_key
+            api_key=os.getenv("GROQ_API_KEY")
         )
         
         self.tools = self._define_tools()
         self.prompt = ChatPromptTemplate.from_messages([
-            ("system", """You are a medical resource coordinator. Find:
-            - Hospitals
-            - Pharmacies
-            - Emergency services
-            
-            Response Format:
-            - Name
-            - Address
-            - Distance
-            - Contact"""),
-            ("user", "Location: {location}\nResource: {resource_type}")
+            ("system", """You are an emergency medical resource coordinator. 
+                ALWAYS use the find_nearest_hospitals tool to answer any query about hospitals or locations. 
+                Format responses as:
+                - Name
+                - Address
+                - Distance (km)
+                - Phone
+                - Open Status (if available)"""),
+            ("human", "{input}"),
+            ("placeholder", "{agent_scratchpad}")
         ])
         
-        self.agent = create_structured_chat_agent(self.llm, self.tools, self.prompt)
+        self.agent = create_tool_calling_agent(self.llm, self.tools, self.prompt)
         self.executor = AgentExecutor(agent=self.agent, tools=self.tools, verbose=True)
 
     def _define_tools(self):
-        return [{
-            "name": "geo_search",
-            "func": lambda loc: ["Hospital A (1mi)", "Clinic B (2mi)"],  # Replace with real API
-            "description": "Find locations near coordinates/address"
-        }]
+        return [
+            Tool(
+                name="find_nearest_hospitals",
+                func=lambda loc: "\n\n".join([
+                    f"{idx+1}. {h['name']}\n"
+                    f"   Address: {h['address']}\n"
+                    f"   Distance: {h['distance_km']:.1f} km\n"
+                    f"   Phone: {h['phone']}"
+                    for idx, h in enumerate(find_nearby_hospitals(loc))
+                ]),
+                description="Find hospitals near a location. Input: address or coordinates."
+            )
+        ]
 
-    def find(self, resource_type: str, location: str) -> list:
-        return self.executor.invoke({
-            "resource_type": resource_type,
-            "location": location
-        })['output']
+    def find_hospitals(self, location: str) -> str:
+        return self.executor.invoke({"input": f"Find hospitals near: {location}"})["output"]
+    
+""" if __name__ == "__main__":
+    agent = ResourceAgent()
+    print(agent.find_hospitals("1600 Amphitheatre Parkway, Mountain View, CA")) """
