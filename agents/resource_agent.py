@@ -34,7 +34,7 @@ class ResourceAgent:
         ])
         
         self.agent = create_tool_calling_agent(self.llm, self.tools, self.prompt)
-        self.executor = AgentExecutor(agent=self.agent, tools=self.tools, verbose=True)
+        self.executor = AgentExecutor(agent=self.agent, tools=self.tools, verbose=False)
 
     def _define_tools(self):
         return [

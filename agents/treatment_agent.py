@@ -49,7 +49,7 @@ class TreatmentAgent:
         ])
         
         self.agent = create_tool_calling_agent(self.llm, self.tools, self.prompt)
-        self.executor = AgentExecutor(agent=self.agent, tools=self.tools, verbose=True)
+        self.executor = AgentExecutor(agent=self.agent, tools=self.tools, verbose=False)
 
     def _create_hybrid_retriever(self):
         """Initialize BM25 and FAISS retrievers with medical guidelines"""

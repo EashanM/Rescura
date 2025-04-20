@@ -18,6 +18,32 @@ def get_user_location():
     except Exception as e:
         return {"error": str(e)}
 
+def reverse_geocode(lat, lng):
+    try:
+        url = f"https://nominatim.openstreetmap.org/reverse"
+        params = {
+            "lat": lat,
+            "lon": lng,
+            "format": "json",
+            "zoom": 10,
+            "addressdetails": 1
+        }
+        headers = {"User-Agent": "Rescura/1.0"}
+        resp = requests.get(url, params=params, headers=headers, timeout=5)
+        data = resp.json()
+        address = data.get("address", {})
+        return {
+            "city": address.get("city") or address.get("town") or address.get("village"),
+            "region": address.get("state"),
+            "country": address.get("country"),
+            "country_code": address.get("country_code", "").upper(),
+            "lat": lat,
+            "lng": lng
+        }
+    except Exception as e:
+        print("Reverse geocoding failed:", e)
+        return {"lat": lat, "lng": lng}
+
 if __name__ == "__main__":
     location = get_user_location()
     if "error" in location:

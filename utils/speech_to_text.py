@@ -26,7 +26,6 @@ def transcribe_audio(audio_path: str) -> str:
     
 if __name__ == "__main__":
     # Example usage
-    print("CWD:", os.getcwd())
     audio_file = "data/trial_inputs/Voice/G_St_2.m4a"
     transcription = transcribe_audio(audio_file)
     print("Transcription:", transcription)

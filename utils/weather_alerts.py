@@ -2,7 +2,7 @@ import requests
 import os
 from location import get_user_location
 
-OPENWEATHER_API_KEY = os.getenv("OPENWEATHER_API_KEY")  # Set this in your .env
+OPENWEATHER_API_KEY = os.getenv("OPENWEATHER_API_KEY") 
 
 def get_weather_alerts(lat=None, lon=None):
     """

@@ -29,7 +29,6 @@ def main():
     ask_location = input("May Rescura access your location to find nearby emergency services? (yes/no): ").strip().lower()
     if ask_location == "yes":
         location = get_user_location()
-        location = "Moscow, Russia"
         if location and location.get("country"):
             emergency_number = get_emergency_number(location["country"])
             print(f"\n📞 Local Emergency Services Number: {emergency_number}")
