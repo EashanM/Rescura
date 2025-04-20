@@ -1,2 +1,16 @@
 model/medalapaca-7b/
 *.env
+logs/
+*.json
+*.yaml
+*.yml
+*.txt
+*.csv
+*.log
+*.pickle
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.h5        
+data/
