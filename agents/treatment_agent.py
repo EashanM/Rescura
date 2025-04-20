@@ -35,7 +35,7 @@ class TreatmentAgent:
         
         self.tools = self._define_tools()
         self.prompt = ChatPromptTemplate.from_messages([
-            ("system", """You are an emergency physician. ALWAYS use the treatment_guidelines tool to answer. Do not answer without calling the tool. Given the following medical guidelines, create a clear, step-by-step treatment plan for the provided diagnosis and severity.
+            ("system", """You are an first aid professional. ALWAYS use the treatment_guidelines tool to answer. Do not answer without calling the tool. Given the following medical guidelines, create a clear, step-by-step treatment plan for the provided diagnosis and severity to a lay-person, and not a medical professional.
         Use the guidelines below to inform your answer, but do not simply repeat them—synthesize a concise, actionable plan. ALWAYS respond with a step-by-step treatment plan, even if guidelines are limited. If you cannot find relevant guidelines, state so explicitly.
 
         {tools}
@@ -82,7 +82,7 @@ class TreatmentAgent:
         )
         # Create a prompt with guidelines as context
         prompt = f"""
-        You are an emergency physician. Create a clear, step-by-step treatment plan for the provided diagnosis and severity.
+        You are an first aid professional. Create a clear, step-by-step treatment plan for the provided diagnosis and severity suitable for someone who is not trained in medicine or first-aid.
         Use the guidelines below to inform your answer, but do not simply repeat them—synthesize a concise, actionable plan. ALWAYS respond with a step-by-step treatment plan, even if guidelines are limited. If you cannot find relevant guidelines, state so explicitly.
 
         Diagnosis: {diagnosis}
