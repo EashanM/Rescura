@@ -1,11 +1,19 @@
 # rescura/agents/resource_agent.py
 from .base_agent import BaseRescuraAgent
 from langchain.agents import create_openai_tools_agent
+from langchain_core.prompts import ChatPromptTemplate
 
 class ResourceAgent(BaseRescuraAgent):
     def __init__(self, retriever):
         system_prompt = """You are an emergency resource coordinator. Find {resource_type} 
         in {location} considering {alerts}."""
+        
+        self.prompt = ChatPromptTemplate.from_messages([
+            ("system", system_prompt),
+            ("user", "{input}"),
+            MessagesPlaceholder("agent_scratchpad")
+        ])
+
         super().__init__(retriever, system_prompt)
         self.tools += [
             # Add API tools here
