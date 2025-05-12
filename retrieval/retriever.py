@@ -10,8 +10,8 @@ class RescuraRetriever:
         self.vector_store = FAISS.load_local(
             "data/faiss_index", 
             self.embeddings,
-            allow_dangerous_deserialization=True  # Add this parameter
-)
+            allow_dangerous_deserialization=True  
+        )
     
     def get_relevant_documents(self, query: str, k=3):
         return self.vector_store.similarity_search(query, k=k)

@@ -1,0 +1,5292 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_ef47de3e42041892a1605465865a0911 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_ef47de3e42041892a1605465865a0911" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_ef47de3e42041892a1605465865a0911 = L.map(
+                "map_ef47de3e42041892a1605465865a0911",
+                {
+                    center: [38.5449, -121.7405],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 14,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_d5899a6bc70634a853c39d5a9155d5ad = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_d5899a6bc70634a853c39d5a9155d5ad.addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var marker_bf985f02f79b5f8a775a43c743de20a8 = L.marker(
+                [38.56257069999999, -121.7707566],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_eae5304347fce0550a0b48cab9c7e719 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0db400bd654a4a65133be5391ad84ec4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_86697e1743b4adaec522e769bf70178e = $(`<div id="html_86697e1743b4adaec522e769bf70178e" style="width: 100.0%; height: 100.0%;">Sutter Davis Hospital (hospital) 2000 Sutter Place, Davis</div>`)[0];
+                popup_0db400bd654a4a65133be5391ad84ec4.setContent(html_86697e1743b4adaec522e769bf70178e);
+            
+        
+
+        marker_bf985f02f79b5f8a775a43c743de20a8.bindPopup(popup_0db400bd654a4a65133be5391ad84ec4)
+        ;
+
+        
+    
+    
+                marker_bf985f02f79b5f8a775a43c743de20a8.setIcon(icon_eae5304347fce0550a0b48cab9c7e719);
+            
+    
+            var marker_e9aa244b6df5495c4eb1c6606afef9d1 = L.marker(
+                [38.5629168, -121.7713007],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_0dca8965faf222c6352ef3610d93636c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4da27918c211bfeb992b11e5c187497c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a9a11fb2b4f0d78d41f4540883115d16 = $(`<div id="html_a9a11fb2b4f0d78d41f4540883115d16" style="width: 100.0%; height: 100.0%;">Post Acute Care Unit: Sutter Davis Hospital (hospital) 2000 Sutter Place, Davis</div>`)[0];
+                popup_4da27918c211bfeb992b11e5c187497c.setContent(html_a9a11fb2b4f0d78d41f4540883115d16);
+            
+        
+
+        marker_e9aa244b6df5495c4eb1c6606afef9d1.bindPopup(popup_4da27918c211bfeb992b11e5c187497c)
+        ;
+
+        
+    
+    
+                marker_e9aa244b6df5495c4eb1c6606afef9d1.setIcon(icon_0dca8965faf222c6352ef3610d93636c);
+            
+    
+            var marker_64d88dcc0d1131b3feba6d4311558637 = L.marker(
+                [38.5628715, -121.7712891],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_ea39a4039c43f3a79744d1c5fcfda82c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_356d6ce18bda7e62e8f5222979902aac = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_01c6ff2856efe82ec101c936f7352d21 = $(`<div id="html_01c6ff2856efe82ec101c936f7352d21" style="width: 100.0%; height: 100.0%;">Gift Shop: Sutter Davis Hospital (hospital) 2000 Sutter Place 1st Floor, Davis</div>`)[0];
+                popup_356d6ce18bda7e62e8f5222979902aac.setContent(html_01c6ff2856efe82ec101c936f7352d21);
+            
+        
+
+        marker_64d88dcc0d1131b3feba6d4311558637.bindPopup(popup_356d6ce18bda7e62e8f5222979902aac)
+        ;
+
+        
+    
+    
+                marker_64d88dcc0d1131b3feba6d4311558637.setIcon(icon_ea39a4039c43f3a79744d1c5fcfda82c);
+            
+    
+            var marker_02dea0920b5845e9d6f6a30b8edd096a = L.marker(
+                [38.562552, -121.771592],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_52e6181f176188944cb510a0dbce638c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a34f8adea0b78657638397e93556978c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4b700e228cda6d50c1bc5dfc424597fc = $(`<div id="html_4b700e228cda6d50c1bc5dfc424597fc" style="width: 100.0%; height: 100.0%;">Pediatrics: Sutter Place (Davis): Sutter Medical Foundation (hospital) 2020 Sutter Place #201, Davis</div>`)[0];
+                popup_a34f8adea0b78657638397e93556978c.setContent(html_4b700e228cda6d50c1bc5dfc424597fc);
+            
+        
+
+        marker_02dea0920b5845e9d6f6a30b8edd096a.bindPopup(popup_a34f8adea0b78657638397e93556978c)
+        ;
+
+        
+    
+    
+                marker_02dea0920b5845e9d6f6a30b8edd096a.setIcon(icon_52e6181f176188944cb510a0dbce638c);
+            
+    
+            var marker_3fa3251caba65a8f9df9caa07c475f2a = L.marker(
+                [38.56406399999999, -121.7711029],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_93c1153f0eb83cecc289d1bc26d935a6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9abfbc73b2e5954aa070ed7ba5dcc06a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2f3d17ef5b9de75e32de6ede52d87c4e = $(`<div id="html_2f3d17ef5b9de75e32de6ede52d87c4e" style="width: 100.0%; height: 100.0%;">2030 Sutter Place Care Center (hospital) 2030 Sutter Place, Davis</div>`)[0];
+                popup_9abfbc73b2e5954aa070ed7ba5dcc06a.setContent(html_2f3d17ef5b9de75e32de6ede52d87c4e);
+            
+        
+
+        marker_3fa3251caba65a8f9df9caa07c475f2a.bindPopup(popup_9abfbc73b2e5954aa070ed7ba5dcc06a)
+        ;
+
+        
+    
+    
+                marker_3fa3251caba65a8f9df9caa07c475f2a.setIcon(icon_93c1153f0eb83cecc289d1bc26d935a6);
+            
+    
+            var marker_8a5fab1dcd3be27854b9c00947455adb = L.marker(
+                [38.5490008, -121.7594524],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_55905b037a84f4c73a572f1b98e72c7f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e973ca6de3f4d26ed133fabddf23fba4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9abc8ecb670c205cf91ba7475b20bf26 = $(`<div id="html_9abc8ecb670c205cf91ba7475b20bf26" style="width: 100.0%; height: 100.0%;">Davis Medical Center. (hospital) 635 Anderson Road, Davis</div>`)[0];
+                popup_e973ca6de3f4d26ed133fabddf23fba4.setContent(html_9abc8ecb670c205cf91ba7475b20bf26);
+            
+        
+
+        marker_8a5fab1dcd3be27854b9c00947455adb.bindPopup(popup_e973ca6de3f4d26ed133fabddf23fba4)
+        ;
+
+        
+    
+    
+                marker_8a5fab1dcd3be27854b9c00947455adb.setIcon(icon_55905b037a84f4c73a572f1b98e72c7f);
+            
+    
+            var marker_db6078d69a12bccbd83e6d38cc0348a3 = L.marker(
+                [38.56250539999999, -121.7715904],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_637fced50d24284082d425c110848212 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5cfdb54c7d95e9bdf8b89210c1ce4896 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ec38420ea39c500bf03785f7f81561c0 = $(`<div id="html_ec38420ea39c500bf03785f7f81561c0" style="width: 100.0%; height: 100.0%;">2020 Sutter Place Care Center (hospital) 2020 Sutter Place, Davis</div>`)[0];
+                popup_5cfdb54c7d95e9bdf8b89210c1ce4896.setContent(html_ec38420ea39c500bf03785f7f81561c0);
+            
+        
+
+        marker_db6078d69a12bccbd83e6d38cc0348a3.bindPopup(popup_5cfdb54c7d95e9bdf8b89210c1ce4896)
+        ;
+
+        
+    
+    
+                marker_db6078d69a12bccbd83e6d38cc0348a3.setIcon(icon_637fced50d24284082d425c110848212);
+            
+    
+            var marker_a76ee6c76bfe9af2c49c8cc33d07daab = L.marker(
+                [38.5485771, -121.759661],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_8417d82cbe8ff730822c77e00d4698b3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_744fe10d7b70904543221f54f70bac5d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8b87b191cd0381ea3734edf8dd99f39a = $(`<div id="html_8b87b191cd0381ea3734edf8dd99f39a" style="width: 100.0%; height: 100.0%;">635 Anderson Road Care Center (hospital) 635 Anderson Road, Davis</div>`)[0];
+                popup_744fe10d7b70904543221f54f70bac5d.setContent(html_8b87b191cd0381ea3734edf8dd99f39a);
+            
+        
+
+        marker_a76ee6c76bfe9af2c49c8cc33d07daab.bindPopup(popup_744fe10d7b70904543221f54f70bac5d)
+        ;
+
+        
+    
+    
+                marker_a76ee6c76bfe9af2c49c8cc33d07daab.setIcon(icon_8417d82cbe8ff730822c77e00d4698b3);
+            
+    
+            var marker_ef756e90caa35c4951622792f8ac6b24 = L.marker(
+                [38.5638292, -121.7688132],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_2b2aba366a8316b346416d0c2dcb63d0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f46e72bb08c773b925f8abbba717cedb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4a616bdac954ea99942da17cde1fb44e = $(`<div id="html_4a616bdac954ea99942da17cde1fb44e" style="width: 100.0%; height: 100.0%;">2068 John Jones Care Center (hospital) 2068 John Jones Road, Davis</div>`)[0];
+                popup_f46e72bb08c773b925f8abbba717cedb.setContent(html_4a616bdac954ea99942da17cde1fb44e);
+            
+        
+
+        marker_ef756e90caa35c4951622792f8ac6b24.bindPopup(popup_f46e72bb08c773b925f8abbba717cedb)
+        ;
+
+        
+    
+    
+                marker_ef756e90caa35c4951622792f8ac6b24.setIcon(icon_2b2aba366a8316b346416d0c2dcb63d0);
+            
+    
+            var marker_631c244ec5af3a3b53e47569afc6da90 = L.marker(
+                [38.540887, -121.7283627],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_d2042bda3671a20694c6e06aa3df6532 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_933b6740ddc9080204a8c3b7a33f1c8c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e3fe6ac3ed594c49c7e0aea62828ee2f = $(`<div id="html_e3fe6ac3ed594c49c7e0aea62828ee2f" style="width: 100.0%; height: 100.0%;">Member Services | Kaiser Permanente Davis Medical Offices (hospital) 1955 Cowell Boulevard, Davis</div>`)[0];
+                popup_933b6740ddc9080204a8c3b7a33f1c8c.setContent(html_e3fe6ac3ed594c49c7e0aea62828ee2f);
+            
+        
+
+        marker_631c244ec5af3a3b53e47569afc6da90.bindPopup(popup_933b6740ddc9080204a8c3b7a33f1c8c)
+        ;
+
+        
+    
+    
+                marker_631c244ec5af3a3b53e47569afc6da90.setIcon(icon_d2042bda3671a20694c6e06aa3df6532);
+            
+    
+            var marker_83327b83d7da3db0194b5f88bd5798d9 = L.marker(
+                [38.5597054, -121.7382946],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_efaacc7b9f2b9af610bd0dfb424c2d70 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0150591f9303ee88c659d72e726a1dc6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_388bf60b2be646e1fec3d2c4786c0d47 = $(`<div id="html_388bf60b2be646e1fec3d2c4786c0d47" style="width: 100.0%; height: 100.0%;">EndoC Peptide (hospital) 1105 Kennedy Place, Davis</div>`)[0];
+                popup_0150591f9303ee88c659d72e726a1dc6.setContent(html_388bf60b2be646e1fec3d2c4786c0d47);
+            
+        
+
+        marker_83327b83d7da3db0194b5f88bd5798d9.bindPopup(popup_0150591f9303ee88c659d72e726a1dc6)
+        ;
+
+        
+    
+    
+                marker_83327b83d7da3db0194b5f88bd5798d9.setIcon(icon_efaacc7b9f2b9af610bd0dfb424c2d70);
+            
+    
+            var marker_5b31d8fc40758d98cd2cfc7a95d660fa = L.marker(
+                [38.56002549999999, -121.7380336],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_9e8a0f6bcc7048ce0436292dcda7ad4e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6b7a89e128c74fdc5391806be7925578 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_01823598172196bf3ef8d05de175d72f = $(`<div id="html_01823598172196bf3ef8d05de175d72f" style="width: 100.0%; height: 100.0%;">Davisville Professional Center (hospital) 1109 Kennedy Place, Davis</div>`)[0];
+                popup_6b7a89e128c74fdc5391806be7925578.setContent(html_01823598172196bf3ef8d05de175d72f);
+            
+        
+
+        marker_5b31d8fc40758d98cd2cfc7a95d660fa.bindPopup(popup_6b7a89e128c74fdc5391806be7925578)
+        ;
+
+        
+    
+    
+                marker_5b31d8fc40758d98cd2cfc7a95d660fa.setIcon(icon_9e8a0f6bcc7048ce0436292dcda7ad4e);
+            
+    
+            var marker_e9b873f64abfea5472033df0020af279 = L.marker(
+                [38.5426772, -121.7615168],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_e5230eb6f785bcdb7f60855d6dfd8e11 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_41028d2374f9ac27d3229a98594d427a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3d958d2e837e4e347dbe187c0ef4b5ee = $(`<div id="html_3d958d2e837e4e347dbe187c0ef4b5ee" style="width: 100.0%; height: 100.0%;">Student Health and Wellness Center (hospital) Student Health and Wellness Center, 930 Blue Ridge Road, Davis</div>`)[0];
+                popup_41028d2374f9ac27d3229a98594d427a.setContent(html_3d958d2e837e4e347dbe187c0ef4b5ee);
+            
+        
+
+        marker_e9b873f64abfea5472033df0020af279.bindPopup(popup_41028d2374f9ac27d3229a98594d427a)
+        ;
+
+        
+    
+    
+                marker_e9b873f64abfea5472033df0020af279.setIcon(icon_e5230eb6f785bcdb7f60855d6dfd8e11);
+            
+    
+            var marker_c2999b83154ade3b563917be5674099f = L.marker(
+                [38.5262965, -121.7566453],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_1820654524181fa617454e927a520a8d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_891004410d213bc05dc14f696748a1cf = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_dd8ea7f5a38f2e70061c292019c84efa = $(`<div id="html_dd8ea7f5a38f2e70061c292019c84efa" style="width: 100.0%; height: 100.0%;">Teaching and Research Animal Care Services (hospital) 880 Old Davis Road, Davis</div>`)[0];
+                popup_891004410d213bc05dc14f696748a1cf.setContent(html_dd8ea7f5a38f2e70061c292019c84efa);
+            
+        
+
+        marker_c2999b83154ade3b563917be5674099f.bindPopup(popup_891004410d213bc05dc14f696748a1cf)
+        ;
+
+        
+    
+    
+                marker_c2999b83154ade3b563917be5674099f.setIcon(icon_1820654524181fa617454e927a520a8d);
+            
+    
+            var marker_30d51836d8ba6e36d3a2fb3965cedf78 = L.marker(
+                [38.5552484, -121.6978768],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_cc9035aac8fd0fe4eea76fddca9e026e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1718585c265fe4975c6674c1cd85f5a0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_57a4c8ea67a785aa73825067b8aa37e2 = $(`<div id="html_57a4c8ea67a785aa73825067b8aa37e2" style="width: 100.0%; height: 100.0%;">Sutter Walk-In Care - Davis (hospital) 4647 2nd Street Suite 130, Davis</div>`)[0];
+                popup_1718585c265fe4975c6674c1cd85f5a0.setContent(html_57a4c8ea67a785aa73825067b8aa37e2);
+            
+        
+
+        marker_30d51836d8ba6e36d3a2fb3965cedf78.bindPopup(popup_1718585c265fe4975c6674c1cd85f5a0)
+        ;
+
+        
+    
+    
+                marker_30d51836d8ba6e36d3a2fb3965cedf78.setIcon(icon_cc9035aac8fd0fe4eea76fddca9e026e);
+            
+    
+            var marker_eaabc8af278c8ad1065a514351a9201c = L.marker(
+                [38.5319999, -121.7642544],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_61325b356344eb51970459421264bc1b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_818852d50d08c7be1639b5e89f511b62 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_96ac6949046b7bd2e4413ea6497a6a9c = $(`<div id="html_96ac6949046b7bd2e4413ea6497a6a9c" style="width: 100.0%; height: 100.0%;">UC Davis School of Veterinary Medicine (school) 944 Garrod Drive, Davis</div>`)[0];
+                popup_818852d50d08c7be1639b5e89f511b62.setContent(html_96ac6949046b7bd2e4413ea6497a6a9c);
+            
+        
+
+        marker_eaabc8af278c8ad1065a514351a9201c.bindPopup(popup_818852d50d08c7be1639b5e89f511b62)
+        ;
+
+        
+    
+    
+                marker_eaabc8af278c8ad1065a514351a9201c.setIcon(icon_61325b356344eb51970459421264bc1b);
+            
+    
+            var marker_d4d7499d542de090a92d4e4a6cbab096 = L.marker(
+                [38.5634811, -121.7017525],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_cbee088de79db71d54313650a091307e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_15075936a6eb02a9ecc14cc1b2237cc1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9ef594a05e497f416cc4dbcb884b07c0 = $(`<div id="html_9ef594a05e497f416cc4dbcb884b07c0" style="width: 100.0%; height: 100.0%;">Frances Harper Junior High School (school) 4000 East Covell Boulevard, Davis</div>`)[0];
+                popup_15075936a6eb02a9ecc14cc1b2237cc1.setContent(html_9ef594a05e497f416cc4dbcb884b07c0);
+            
+        
+
+        marker_d4d7499d542de090a92d4e4a6cbab096.bindPopup(popup_15075936a6eb02a9ecc14cc1b2237cc1)
+        ;
+
+        
+    
+    
+                marker_d4d7499d542de090a92d4e4a6cbab096.setIcon(icon_cbee088de79db71d54313650a091307e);
+            
+    
+            var marker_edd310cdf4306daa7835445a1ff2e9d7 = L.marker(
+                [38.5413839, -121.7163011],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_d7cfa2494ca5a2429c4581d7affde56d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6e5a1a52d14484dc3c6637f828bd24d5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_cb491bff29a527bb71688f1d2eb4c5e8 = $(`<div id="html_cb491bff29a527bb71688f1d2eb4c5e8" style="width: 100.0%; height: 100.0%;">Marguerite Montgomery Elementary School (school) 1441 Danbury Street, Davis</div>`)[0];
+                popup_6e5a1a52d14484dc3c6637f828bd24d5.setContent(html_cb491bff29a527bb71688f1d2eb4c5e8);
+            
+        
+
+        marker_edd310cdf4306daa7835445a1ff2e9d7.bindPopup(popup_6e5a1a52d14484dc3c6637f828bd24d5)
+        ;
+
+        
+    
+    
+                marker_edd310cdf4306daa7835445a1ff2e9d7.setIcon(icon_d7cfa2494ca5a2429c4581d7affde56d);
+            
+    
+            var marker_626a3d9928776d310b3b77cad13d3cf4 = L.marker(
+                [38.5559087, -121.7491894],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_4611809bc45c1e537bef02cd9f7bc278 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e4552a03a8d4bd22bb45c5b3140aa32e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_02d1ee961eea027aa561f28da9a82729 = $(`<div id="html_02d1ee961eea027aa561f28da9a82729" style="width: 100.0%; height: 100.0%;">Davis Senior High School (school) 315 West 14th Street #1914, Davis</div>`)[0];
+                popup_e4552a03a8d4bd22bb45c5b3140aa32e.setContent(html_02d1ee961eea027aa561f28da9a82729);
+            
+        
+
+        marker_626a3d9928776d310b3b77cad13d3cf4.bindPopup(popup_e4552a03a8d4bd22bb45c5b3140aa32e)
+        ;
+
+        
+    
+    
+                marker_626a3d9928776d310b3b77cad13d3cf4.setIcon(icon_4611809bc45c1e537bef02cd9f7bc278);
+            
+    
+            var marker_0152168c215e7cad16e4c7e26622ea8c = L.marker(
+                [38.5541461, -121.7601368],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_a7fed1362207d56df89f5f978a981071 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0ae395469e0c9923fedf3e01516afca7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f78b4eed7715dd48eecb4475077640e2 = $(`<div id="html_f78b4eed7715dd48eecb4475077640e2" style="width: 100.0%; height: 100.0%;">Cesar Chavez Elementary School (school) 1221 Anderson Road, Davis</div>`)[0];
+                popup_0ae395469e0c9923fedf3e01516afca7.setContent(html_f78b4eed7715dd48eecb4475077640e2);
+            
+        
+
+        marker_0152168c215e7cad16e4c7e26622ea8c.bindPopup(popup_0ae395469e0c9923fedf3e01516afca7)
+        ;
+
+        
+    
+    
+                marker_0152168c215e7cad16e4c7e26622ea8c.setIcon(icon_a7fed1362207d56df89f5f978a981071);
+            
+    
+            var marker_4e14bbf698c69c57f49e0cde2f9c41cd = L.marker(
+                [38.5515786, -121.7778976],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_5aa6aa880bd84441611bade5d6d2295f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3aeb53f34c00b41513a58bec5b395c54 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_28477e93ef6d50f363d6814853e9d28b = $(`<div id="html_28477e93ef6d50f363d6814853e9d28b" style="width: 100.0%; height: 100.0%;">Ralph Waldo Emerson Jr High (school) 2121 Calaveras Avenue, Davis</div>`)[0];
+                popup_3aeb53f34c00b41513a58bec5b395c54.setContent(html_28477e93ef6d50f363d6814853e9d28b);
+            
+        
+
+        marker_4e14bbf698c69c57f49e0cde2f9c41cd.bindPopup(popup_3aeb53f34c00b41513a58bec5b395c54)
+        ;
+
+        
+    
+    
+                marker_4e14bbf698c69c57f49e0cde2f9c41cd.setIcon(icon_5aa6aa880bd84441611bade5d6d2295f);
+            
+    
+            var marker_ab87a67328c5841bb76c5f2c7cede552 = L.marker(
+                [38.5563779, -121.7519663],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_2424721af1eb4b2d3b8c6e0e2f1be89f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5edb5b4bcc5c25bdd29112c0c2e63034 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5c728e2333c5f4b258873e136a2e3782 = $(`<div id="html_5c728e2333c5f4b258873e136a2e3782" style="width: 100.0%; height: 100.0%;">Davis Adult & Community Education School (school) 315 West 14th Street, Davis</div>`)[0];
+                popup_5edb5b4bcc5c25bdd29112c0c2e63034.setContent(html_5c728e2333c5f4b258873e136a2e3782);
+            
+        
+
+        marker_ab87a67328c5841bb76c5f2c7cede552.bindPopup(popup_5edb5b4bcc5c25bdd29112c0c2e63034)
+        ;
+
+        
+    
+    
+                marker_ab87a67328c5841bb76c5f2c7cede552.setIcon(icon_2424721af1eb4b2d3b8c6e0e2f1be89f);
+            
+    
+            var marker_e1f3ad6beccadc3939293a5a8f9f0037 = L.marker(
+                [38.5545261, -121.7661968],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_cd79aca068d10deb6caa16be53dc4734 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c1fce98ee7437796dbb2a84de352da03 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7eaa1a39ea32b948a3c3528dcbd1c700 = $(`<div id="html_7eaa1a39ea32b948a3c3528dcbd1c700" style="width: 100.0%; height: 100.0%;">Catalyst Kids - Robert E Willett (school) 1207 Sycamore Lane, Davis</div>`)[0];
+                popup_c1fce98ee7437796dbb2a84de352da03.setContent(html_7eaa1a39ea32b948a3c3528dcbd1c700);
+            
+        
+
+        marker_e1f3ad6beccadc3939293a5a8f9f0037.bindPopup(popup_c1fce98ee7437796dbb2a84de352da03)
+        ;
+
+        
+    
+    
+                marker_e1f3ad6beccadc3939293a5a8f9f0037.setIcon(icon_cd79aca068d10deb6caa16be53dc4734);
+            
+    
+            var marker_f88b5cebb8ff88119b003c7bbdb3aa8e = L.marker(
+                [38.5562182, -121.7363397],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_5a3e91eac0fadc8cb04208f0a73d07d9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3b48466b6969f70b474fb61f3b6ba1be = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_20c34022f8b008af7611eb05ab02c5f1 = $(`<div id="html_20c34022f8b008af7611eb05ab02c5f1" style="width: 100.0%; height: 100.0%;">Oliver Wendell Holmes Jr High (school) 1220 Drexel Drive, Davis</div>`)[0];
+                popup_3b48466b6969f70b474fb61f3b6ba1be.setContent(html_20c34022f8b008af7611eb05ab02c5f1);
+            
+        
+
+        marker_f88b5cebb8ff88119b003c7bbdb3aa8e.bindPopup(popup_3b48466b6969f70b474fb61f3b6ba1be)
+        ;
+
+        
+    
+    
+                marker_f88b5cebb8ff88119b003c7bbdb3aa8e.setIcon(icon_5a3e91eac0fadc8cb04208f0a73d07d9);
+            
+    
+            var marker_4e9a30545e9d5afb0d908b74beadea79 = L.marker(
+                [38.538253, -121.7386711],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_c05e0ef9cbea3a37df41648b2450da7d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c834fd9a06a623b0849b4d6b07589a69 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f153260b707996d446a74ebecb543a67 = $(`<div id="html_f153260b707996d446a74ebecb543a67" style="width: 100.0%; height: 100.0%;">Rocknasium (school) 720 Olive Drive S, Davis</div>`)[0];
+                popup_c834fd9a06a623b0849b4d6b07589a69.setContent(html_f153260b707996d446a74ebecb543a67);
+            
+        
+
+        marker_4e9a30545e9d5afb0d908b74beadea79.bindPopup(popup_c834fd9a06a623b0849b4d6b07589a69)
+        ;
+
+        
+    
+    
+                marker_4e9a30545e9d5afb0d908b74beadea79.setIcon(icon_c05e0ef9cbea3a37df41648b2450da7d);
+            
+    
+            var marker_1f159fab19c9e9129899de166c695512 = L.marker(
+                [38.5528231, -121.7333539],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_91d83d6247bec7d1ddc102646b929baa = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_574df3cb498b264e1f2de4d91165f785 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fa03784bdd23a92c493dd7482586e626 = $(`<div id="html_fa03784bdd23a92c493dd7482586e626" style="width: 100.0%; height: 100.0%;">Da Vinci Charter Academy (school) 1400 East 8th Street, Davis</div>`)[0];
+                popup_574df3cb498b264e1f2de4d91165f785.setContent(html_fa03784bdd23a92c493dd7482586e626);
+            
+        
+
+        marker_1f159fab19c9e9129899de166c695512.bindPopup(popup_574df3cb498b264e1f2de4d91165f785)
+        ;
+
+        
+    
+    
+                marker_1f159fab19c9e9129899de166c695512.setIcon(icon_91d83d6247bec7d1ddc102646b929baa);
+            
+    
+            var marker_1267ccc73c991b7ea88a18ecd8042481 = L.marker(
+                [38.54712469999999, -121.7245421],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_8ec774fbbaa9a50c7f2ff9eb23849138 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a7d481d7b8f913a81704f3719d30b0a2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c6c9e5b574b2a85abf94790aae000b1d = $(`<div id="html_c6c9e5b574b2a85abf94790aae000b1d" style="width: 100.0%; height: 100.0%;">SwimAmerica-Davis and Sweet Peas Gymnastics (school) 2121 2nd Street # A101, Davis</div>`)[0];
+                popup_a7d481d7b8f913a81704f3719d30b0a2.setContent(html_c6c9e5b574b2a85abf94790aae000b1d);
+            
+        
+
+        marker_1267ccc73c991b7ea88a18ecd8042481.bindPopup(popup_a7d481d7b8f913a81704f3719d30b0a2)
+        ;
+
+        
+    
+    
+                marker_1267ccc73c991b7ea88a18ecd8042481.setIcon(icon_8ec774fbbaa9a50c7f2ff9eb23849138);
+            
+    
+            var marker_9e574ed736c52244cf3854a56fd1ce19 = L.marker(
+                [38.5567891, -121.7454674],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_e1cf1e003cb470a6af0e5e8fa35e4a19 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4e685d282e808df207444fe9413b1ea2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bedb77eb2ea513594018e39a133d4790 = $(`<div id="html_bedb77eb2ea513594018e39a133d4790" style="width: 100.0%; height: 100.0%;">North Davis Elementary School (school) 555 East 14th Street, Davis</div>`)[0];
+                popup_4e685d282e808df207444fe9413b1ea2.setContent(html_bedb77eb2ea513594018e39a133d4790);
+            
+        
+
+        marker_9e574ed736c52244cf3854a56fd1ce19.bindPopup(popup_4e685d282e808df207444fe9413b1ea2)
+        ;
+
+        
+    
+    
+                marker_9e574ed736c52244cf3854a56fd1ce19.setIcon(icon_e1cf1e003cb470a6af0e5e8fa35e4a19);
+            
+    
+            var marker_7145d1ad36d3dd7113a7d138742307c3 = L.marker(
+                [38.571022, -121.766365],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_6b03699a10e45775c35c44639e7013ed = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a8d9d362ff208be56c5bdda4baef7966 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1d0624b41f00850e505d28cc94f1c2fd = $(`<div id="html_1d0624b41f00850e505d28cc94f1c2fd" style="width: 100.0%; height: 100.0%;">Davis Waldorf School (school) 3100 Sycamore Lane, Davis</div>`)[0];
+                popup_a8d9d362ff208be56c5bdda4baef7966.setContent(html_1d0624b41f00850e505d28cc94f1c2fd);
+            
+        
+
+        marker_7145d1ad36d3dd7113a7d138742307c3.bindPopup(popup_a8d9d362ff208be56c5bdda4baef7966)
+        ;
+
+        
+    
+    
+                marker_7145d1ad36d3dd7113a7d138742307c3.setIcon(icon_6b03699a10e45775c35c44639e7013ed);
+            
+    
+            var marker_e1133421c52b3ae0760337d852bc453d = L.marker(
+                [38.560457, -121.7270423],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_6c700b106b8bea553597144b505128df = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0c2be73202952fe9d982de3ae2aaef61 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4c02d21ffe1b4443f95fbdd2ab6514b8 = $(`<div id="html_4c02d21ffe1b4443f95fbdd2ab6514b8" style="width: 100.0%; height: 100.0%;">Birch Lane Elementary School (school) 1600 Birch Lane, Davis</div>`)[0];
+                popup_0c2be73202952fe9d982de3ae2aaef61.setContent(html_4c02d21ffe1b4443f95fbdd2ab6514b8);
+            
+        
+
+        marker_e1133421c52b3ae0760337d852bc453d.bindPopup(popup_0c2be73202952fe9d982de3ae2aaef61)
+        ;
+
+        
+    
+    
+                marker_e1133421c52b3ae0760337d852bc453d.setIcon(icon_6c700b106b8bea553597144b505128df);
+            
+    
+            var marker_6a92870ac66a3a9e06f1de9818add96e = L.marker(
+                [38.549537, -121.700667],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_4b3d8e197cecfee9b7d6d9826d72ee35 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_286b2d2c7035318d422a9db65a93412a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_addc960d3f48677018eeb064ffb055a8 = $(`<div id="html_addc960d3f48677018eeb064ffb055a8" style="width: 100.0%; height: 100.0%;">Davis Swim & Fitness (school) 303 Ensenada Drive, Davis</div>`)[0];
+                popup_286b2d2c7035318d422a9db65a93412a.setContent(html_addc960d3f48677018eeb064ffb055a8);
+            
+        
+
+        marker_6a92870ac66a3a9e06f1de9818add96e.bindPopup(popup_286b2d2c7035318d422a9db65a93412a)
+        ;
+
+        
+    
+    
+                marker_6a92870ac66a3a9e06f1de9818add96e.setIcon(icon_4b3d8e197cecfee9b7d6d9826d72ee35);
+            
+    
+            var marker_64697002578b969903154a27a7171d58 = L.marker(
+                [38.5551944, -121.7776086],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_3c5373670138db76bef29549836db1cd = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_118cf96b75b8f2f361730734b5165c94 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_94410045378e49f72f62d9f9680ebbf2 = $(`<div id="html_94410045378e49f72f62d9f9680ebbf2" style="width: 100.0%; height: 100.0%;">Catalyst Kids - Patwin (school) 2140 Shasta Drive, Davis</div>`)[0];
+                popup_118cf96b75b8f2f361730734b5165c94.setContent(html_94410045378e49f72f62d9f9680ebbf2);
+            
+        
+
+        marker_64697002578b969903154a27a7171d58.bindPopup(popup_118cf96b75b8f2f361730734b5165c94)
+        ;
+
+        
+    
+    
+                marker_64697002578b969903154a27a7171d58.setIcon(icon_3c5373670138db76bef29549836db1cd);
+            
+    
+            var marker_99be37a08cfc5fdbb777ec123b56e833 = L.marker(
+                [38.5509616, -121.6850518],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_d8004a2993c5115b41e6449d0bcb4e4d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c5ae3a62e0f3d128d7c841232875a67f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_375d42004a1ab1bf19088722e6d0ee05 = $(`<div id="html_375d42004a1ab1bf19088722e6d0ee05" style="width: 100.0%; height: 100.0%;">Pioneer Elementary School (school) 5215 Hamel Street, Davis</div>`)[0];
+                popup_c5ae3a62e0f3d128d7c841232875a67f.setContent(html_375d42004a1ab1bf19088722e6d0ee05);
+            
+        
+
+        marker_99be37a08cfc5fdbb777ec123b56e833.bindPopup(popup_c5ae3a62e0f3d128d7c841232875a67f)
+        ;
+
+        
+    
+    
+                marker_99be37a08cfc5fdbb777ec123b56e833.setIcon(icon_d8004a2993c5115b41e6449d0bcb4e4d);
+            
+    
+            var marker_10184db34d53e0bb9dc725160e59bba5 = L.marker(
+                [38.55459149999999, -121.7653087],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_a5ba4ffa89023a662f0e71a858e573a0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_77a639fc804eceae299086a7ca666a92 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_07f886ffe22bf72b9eaa9349a23eea2a = $(`<div id="html_07f886ffe22bf72b9eaa9349a23eea2a" style="width: 100.0%; height: 100.0%;">Robert E Willett Elementary (school) 1207 Sycamore Lane, Davis</div>`)[0];
+                popup_77a639fc804eceae299086a7ca666a92.setContent(html_07f886ffe22bf72b9eaa9349a23eea2a);
+            
+        
+
+        marker_10184db34d53e0bb9dc725160e59bba5.bindPopup(popup_77a639fc804eceae299086a7ca666a92)
+        ;
+
+        
+    
+    
+                marker_10184db34d53e0bb9dc725160e59bba5.setIcon(icon_a5ba4ffa89023a662f0e71a858e573a0);
+            
+    
+            var marker_0cb187891d1101c55eaf48d96fe35691 = L.marker(
+                [38.54887859999999, -121.7463637],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_e38ba4349be347b21a73d643004eb490 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_28291437cc3ca22d24be1f8be3c0851a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_655013c6ada90dd2fd3dd8015494374c = $(`<div id="html_655013c6ada90dd2fd3dd8015494374c" style="width: 100.0%; height: 100.0%;">Martin Luther King High School (school) 635 B Street, Davis</div>`)[0];
+                popup_28291437cc3ca22d24be1f8be3c0851a.setContent(html_655013c6ada90dd2fd3dd8015494374c);
+            
+        
+
+        marker_0cb187891d1101c55eaf48d96fe35691.bindPopup(popup_28291437cc3ca22d24be1f8be3c0851a)
+        ;
+
+        
+    
+    
+                marker_0cb187891d1101c55eaf48d96fe35691.setIcon(icon_e38ba4349be347b21a73d643004eb490);
+            
+    
+            var marker_acc54c7b0f945f41468e1deaae2c97da = L.marker(
+                [38.55126370000001, -121.7192978],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_fd69c0e7afd425640f9d229ca2187838 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f7f69cde12f93acc3f845927bc4d6c4c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5ce7b6ee4ddef0dcad88d80b2b803ad1 = $(`<div id="html_5ce7b6ee4ddef0dcad88d80b2b803ad1" style="width: 100.0%; height: 100.0%;">Davis Police Department (police) 2600 5th Street, Davis</div>`)[0];
+                popup_f7f69cde12f93acc3f845927bc4d6c4c.setContent(html_5ce7b6ee4ddef0dcad88d80b2b803ad1);
+            
+        
+
+        marker_acc54c7b0f945f41468e1deaae2c97da.bindPopup(popup_f7f69cde12f93acc3f845927bc4d6c4c)
+        ;
+
+        
+    
+    
+                marker_acc54c7b0f945f41468e1deaae2c97da.setIcon(icon_fd69c0e7afd425640f9d229ca2187838);
+            
+    
+            var marker_308d4c5674adb4a1ae3baf38129dda4c = L.marker(
+                [38.540593, -121.7576899],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_e45d0d4107abab8a549bdab6d6b5759c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7d2db9c8d7f0f6d882ebe44513955851 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3c18ab728afdb8d5e3d7a579cf3627a6 = $(`<div id="html_3c18ab728afdb8d5e3d7a579cf3627a6" style="width: 100.0%; height: 100.0%;">UC Davis Police Department (police) Fire and Police Building, 625 Kleiber Hall Drive, Davis</div>`)[0];
+                popup_7d2db9c8d7f0f6d882ebe44513955851.setContent(html_3c18ab728afdb8d5e3d7a579cf3627a6);
+            
+        
+
+        marker_308d4c5674adb4a1ae3baf38129dda4c.bindPopup(popup_7d2db9c8d7f0f6d882ebe44513955851)
+        ;
+
+        
+    
+    
+                marker_308d4c5674adb4a1ae3baf38129dda4c.setIcon(icon_e45d0d4107abab8a549bdab6d6b5759c);
+            
+    
+            var marker_aec7f895bed6376b26cd3ab6513647f7 = L.marker(
+                [38.539452, -121.7547197],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_7ba93064ebfc66db20dcf00145020d24 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4c270e1a74fbac3d59609b1d5dd645bd = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_569769636d809cd5c099c29a8a7dd386 = $(`<div id="html_569769636d809cd5c099c29a8a7dd386" style="width: 100.0%; height: 100.0%;">Anders Thomas F MD (doctor) 1 Shields Avenue, Davis</div>`)[0];
+                popup_4c270e1a74fbac3d59609b1d5dd645bd.setContent(html_569769636d809cd5c099c29a8a7dd386);
+            
+        
+
+        marker_aec7f895bed6376b26cd3ab6513647f7.bindPopup(popup_4c270e1a74fbac3d59609b1d5dd645bd)
+        ;
+
+        
+    
+    
+                marker_aec7f895bed6376b26cd3ab6513647f7.setIcon(icon_7ba93064ebfc66db20dcf00145020d24);
+            
+    
+            var marker_18349d1b318aca54102ee798ac0592fa = L.marker(
+                [38.539452, -121.7547197],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_6d221d6af8114d4c450b0673e5a4431d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_46157d8d7c11ed7d6aaf70cb61873a81 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0114f17611f9c6e7754776886591908f = $(`<div id="html_0114f17611f9c6e7754776886591908f" style="width: 100.0%; height: 100.0%;">Richman David P MD (doctor) 1 Shields Avenue, Davis</div>`)[0];
+                popup_46157d8d7c11ed7d6aaf70cb61873a81.setContent(html_0114f17611f9c6e7754776886591908f);
+            
+        
+
+        marker_18349d1b318aca54102ee798ac0592fa.bindPopup(popup_46157d8d7c11ed7d6aaf70cb61873a81)
+        ;
+
+        
+    
+    
+                marker_18349d1b318aca54102ee798ac0592fa.setIcon(icon_6d221d6af8114d4c450b0673e5a4431d);
+            
+    
+            var marker_75cd7e76170674cf5e881e24316fba94 = L.marker(
+                [38.5629168, -121.7713007],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_688ab85b4040f20b60bef1f0d0d13a8f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b7c49735ccd8ec969651cd545b6b1dde = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fdb687b37f57a294b616c075604e1a9a = $(`<div id="html_fdb687b37f57a294b616c075604e1a9a" style="width: 100.0%; height: 100.0%;">Dr. Kurt S. Kusserow, MD (doctor) 2000 Sutter Place, Davis</div>`)[0];
+                popup_b7c49735ccd8ec969651cd545b6b1dde.setContent(html_fdb687b37f57a294b616c075604e1a9a);
+            
+        
+
+        marker_75cd7e76170674cf5e881e24316fba94.bindPopup(popup_b7c49735ccd8ec969651cd545b6b1dde)
+        ;
+
+        
+    
+    
+                marker_75cd7e76170674cf5e881e24316fba94.setIcon(icon_688ab85b4040f20b60bef1f0d0d13a8f);
+            
+    
+            var marker_ca9be34cd59e38802d0b8138b2714f22 = L.marker(
+                [38.5629168, -121.7713007],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_404574152f8cb6fe80a5a140afce0343 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_46afdcc2e1e7b4aacd4fbcaaf2800532 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0d7f8e4f29706d49d1db0662be54e33d = $(`<div id="html_0d7f8e4f29706d49d1db0662be54e33d" style="width: 100.0%; height: 100.0%;">Dr. Ryan N. Gorton, MD (doctor) 2000 Sutter Place, Davis</div>`)[0];
+                popup_46afdcc2e1e7b4aacd4fbcaaf2800532.setContent(html_0d7f8e4f29706d49d1db0662be54e33d);
+            
+        
+
+        marker_ca9be34cd59e38802d0b8138b2714f22.bindPopup(popup_46afdcc2e1e7b4aacd4fbcaaf2800532)
+        ;
+
+        
+    
+    
+                marker_ca9be34cd59e38802d0b8138b2714f22.setIcon(icon_404574152f8cb6fe80a5a140afce0343);
+            
+    
+            var marker_63fe52f22dc32534aae812bd8004d88e = L.marker(
+                [38.5626456, -121.7709243],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_e66e1a454ea292e3adc3883a676eac32 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_527f277e0256ee017d38a77c04181d83 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_80e5863e52c00175eb3c68e7a13a7498 = $(`<div id="html_80e5863e52c00175eb3c68e7a13a7498" style="width: 100.0%; height: 100.0%;">Harkamal K. Sandhu, M.D. (doctor) 2030 Sutter Place #1000, Davis</div>`)[0];
+                popup_527f277e0256ee017d38a77c04181d83.setContent(html_80e5863e52c00175eb3c68e7a13a7498);
+            
+        
+
+        marker_63fe52f22dc32534aae812bd8004d88e.bindPopup(popup_527f277e0256ee017d38a77c04181d83)
+        ;
+
+        
+    
+    
+                marker_63fe52f22dc32534aae812bd8004d88e.setIcon(icon_e66e1a454ea292e3adc3883a676eac32);
+            
+    
+            var marker_9c2c22f7a3c709d8d7f9511989346d0c = L.marker(
+                [38.5629168, -121.7713007],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_14d3c0579512e1f3a3f5b784d4608d10 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fb382d9a166e1e027273908435897f13 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d4577fa4249068f96f341776ccee5557 = $(`<div id="html_d4577fa4249068f96f341776ccee5557" style="width: 100.0%; height: 100.0%;">Henry T. King, M.D. (doctor) 2000 Sutter Place, Davis</div>`)[0];
+                popup_fb382d9a166e1e027273908435897f13.setContent(html_d4577fa4249068f96f341776ccee5557);
+            
+        
+
+        marker_9c2c22f7a3c709d8d7f9511989346d0c.bindPopup(popup_fb382d9a166e1e027273908435897f13)
+        ;
+
+        
+    
+    
+                marker_9c2c22f7a3c709d8d7f9511989346d0c.setIcon(icon_14d3c0579512e1f3a3f5b784d4608d10);
+            
+    
+            var marker_82de8ea34663d7fc1c202ed6db714963 = L.marker(
+                [38.5629168, -121.7713007],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_f59488988bb3a98f23ff1ab0a3df6817 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_04eefa09991cf6a8fe8a9cc15ba2064c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4760f7a4484ae995da4d67c0e81971c2 = $(`<div id="html_4760f7a4484ae995da4d67c0e81971c2" style="width: 100.0%; height: 100.0%;">Erjun Wang, M.D. (doctor) 2000 Sutter Place, Davis</div>`)[0];
+                popup_04eefa09991cf6a8fe8a9cc15ba2064c.setContent(html_4760f7a4484ae995da4d67c0e81971c2);
+            
+        
+
+        marker_82de8ea34663d7fc1c202ed6db714963.bindPopup(popup_04eefa09991cf6a8fe8a9cc15ba2064c)
+        ;
+
+        
+    
+    
+                marker_82de8ea34663d7fc1c202ed6db714963.setIcon(icon_f59488988bb3a98f23ff1ab0a3df6817);
+            
+    
+            var marker_2136968c4d65b179a0d75915260fb6cc = L.marker(
+                [38.5629168, -121.7713007],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_eb08c9dc5ba1d53cb5ab2ce854da3846 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_095a28a40a098e3afe581a691d8d7566 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ec0ba94d246e536bd943610670a0c7fb = $(`<div id="html_ec0ba94d246e536bd943610670a0c7fb" style="width: 100.0%; height: 100.0%;">Eric B. Lefever, M.D. (doctor) 2000 Sutter Place, Davis</div>`)[0];
+                popup_095a28a40a098e3afe581a691d8d7566.setContent(html_ec0ba94d246e536bd943610670a0c7fb);
+            
+        
+
+        marker_2136968c4d65b179a0d75915260fb6cc.bindPopup(popup_095a28a40a098e3afe581a691d8d7566)
+        ;
+
+        
+    
+    
+                marker_2136968c4d65b179a0d75915260fb6cc.setIcon(icon_eb08c9dc5ba1d53cb5ab2ce854da3846);
+            
+    
+            var marker_83bb5510028722e63501d82f69c329c9 = L.marker(
+                [38.5629168, -121.7713007],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_6af4903fd15d62817f51a9aa062388cc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_28aedac629f27e29406630f5c905d5fa = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4e9cffecd6ef3e1226d9d0f72ffc70b6 = $(`<div id="html_4e9cffecd6ef3e1226d9d0f72ffc70b6" style="width: 100.0%; height: 100.0%;">Kelly J. Doerzbacher, M.D. (doctor) 2000 Sutter Place, Davis</div>`)[0];
+                popup_28aedac629f27e29406630f5c905d5fa.setContent(html_4e9cffecd6ef3e1226d9d0f72ffc70b6);
+            
+        
+
+        marker_83bb5510028722e63501d82f69c329c9.bindPopup(popup_28aedac629f27e29406630f5c905d5fa)
+        ;
+
+        
+    
+    
+                marker_83bb5510028722e63501d82f69c329c9.setIcon(icon_6af4903fd15d62817f51a9aa062388cc);
+            
+    
+            var marker_d71c600d3c2b5046c0a3257c6ec13960 = L.marker(
+                [38.5626174, -121.7708734],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_699410d9afc1730cf97c9ab64f40a301 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_14d1b0ba5a297dc5f51413fb0b195f78 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a6ee0dba01ab059b601e925cebe317b0 = $(`<div id="html_a6ee0dba01ab059b601e925cebe317b0" style="width: 100.0%; height: 100.0%;">Wagner Janet MD (doctor) 2000 Sutter Place, Davis</div>`)[0];
+                popup_14d1b0ba5a297dc5f51413fb0b195f78.setContent(html_a6ee0dba01ab059b601e925cebe317b0);
+            
+        
+
+        marker_d71c600d3c2b5046c0a3257c6ec13960.bindPopup(popup_14d1b0ba5a297dc5f51413fb0b195f78)
+        ;
+
+        
+    
+    
+                marker_d71c600d3c2b5046c0a3257c6ec13960.setIcon(icon_699410d9afc1730cf97c9ab64f40a301);
+            
+    
+            var marker_10a2b7c4a623f04358d9e0eeacd05fcb = L.marker(
+                [38.5626143, -121.7708858],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_b10e634a4c89d0d3ec5feea46c99ff6c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_947461ad229ace08b87d357f28147c2c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4c6572bb620eb396429eb7de50cd6897 = $(`<div id="html_4c6572bb620eb396429eb7de50cd6897" style="width: 100.0%; height: 100.0%;">Scott S. Patrick, M.D. (doctor) 2000 Sutter Place, Davis</div>`)[0];
+                popup_947461ad229ace08b87d357f28147c2c.setContent(html_4c6572bb620eb396429eb7de50cd6897);
+            
+        
+
+        marker_10a2b7c4a623f04358d9e0eeacd05fcb.bindPopup(popup_947461ad229ace08b87d357f28147c2c)
+        ;
+
+        
+    
+    
+                marker_10a2b7c4a623f04358d9e0eeacd05fcb.setIcon(icon_b10e634a4c89d0d3ec5feea46c99ff6c);
+            
+    
+            var marker_a59cce9a0365c8db2a9139bf3c57f4eb = L.marker(
+                [38.5629168, -121.7713007],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_02b496ea72a07e67643316144060258a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_aff094aa54c4ee56ffbb4520e4aaf5ce = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_08d09a585cadab9eaaf72ad0919f8de7 = $(`<div id="html_08d09a585cadab9eaaf72ad0919f8de7" style="width: 100.0%; height: 100.0%;">Oscar Barrios, M.D. (doctor) 2000 Sutter Place, Davis</div>`)[0];
+                popup_aff094aa54c4ee56ffbb4520e4aaf5ce.setContent(html_08d09a585cadab9eaaf72ad0919f8de7);
+            
+        
+
+        marker_a59cce9a0365c8db2a9139bf3c57f4eb.bindPopup(popup_aff094aa54c4ee56ffbb4520e4aaf5ce)
+        ;
+
+        
+    
+    
+                marker_a59cce9a0365c8db2a9139bf3c57f4eb.setIcon(icon_02b496ea72a07e67643316144060258a);
+            
+    
+            var marker_e32827e518d9951ff9d0b0f3f9772834 = L.marker(
+                [38.5629168, -121.7713007],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_41879ae8f58a3884df367c4ea52d9677 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8ef7c60d4ecf378201d2e4cfd6ccc281 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a09f4c6b7db8005ba6219469de2c3b60 = $(`<div id="html_a09f4c6b7db8005ba6219469de2c3b60" style="width: 100.0%; height: 100.0%;">James A. Chapman, M.D. (doctor) 2000 Sutter Place, Davis</div>`)[0];
+                popup_8ef7c60d4ecf378201d2e4cfd6ccc281.setContent(html_a09f4c6b7db8005ba6219469de2c3b60);
+            
+        
+
+        marker_e32827e518d9951ff9d0b0f3f9772834.bindPopup(popup_8ef7c60d4ecf378201d2e4cfd6ccc281)
+        ;
+
+        
+    
+    
+                marker_e32827e518d9951ff9d0b0f3f9772834.setIcon(icon_41879ae8f58a3884df367c4ea52d9677);
+            
+    
+            var marker_784de8ec15bba2bfa877590f1ccf5f03 = L.marker(
+                [38.56407890000001, -121.7714306],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_76fad299023394c6dd069d44122e6dda = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_357761a8c4fe5cae8dbfc4fe1bfe242b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4b01539503d4230e65d2961a3c951a40 = $(`<div id="html_4b01539503d4230e65d2961a3c951a40" style="width: 100.0%; height: 100.0%;">Cardiac Rehabilitation: Sutter Davis Hospital (doctor) 2030 Sutter Place Suite 1400, Davis</div>`)[0];
+                popup_357761a8c4fe5cae8dbfc4fe1bfe242b.setContent(html_4b01539503d4230e65d2961a3c951a40);
+            
+        
+
+        marker_784de8ec15bba2bfa877590f1ccf5f03.bindPopup(popup_357761a8c4fe5cae8dbfc4fe1bfe242b)
+        ;
+
+        
+    
+    
+                marker_784de8ec15bba2bfa877590f1ccf5f03.setIcon(icon_76fad299023394c6dd069d44122e6dda);
+            
+    
+            var marker_5aaff6d4d6ef5e6a2f9082c66b21a075 = L.marker(
+                [38.5407076, -121.7282714],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_abae022b8a70c6532aa561c5a828d1f0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_bdf925c1fa784a712ff5e2e744d54507 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4c868900ceffd452cb0dda733bfe75a4 = $(`<div id="html_4c868900ceffd452cb0dda733bfe75a4" style="width: 100.0%; height: 100.0%;">Kaiser Permanente Medical Center: Leo Greg MD (doctor) 1955 Cowell Boulevard, Davis</div>`)[0];
+                popup_bdf925c1fa784a712ff5e2e744d54507.setContent(html_4c868900ceffd452cb0dda733bfe75a4);
+            
+        
+
+        marker_5aaff6d4d6ef5e6a2f9082c66b21a075.bindPopup(popup_bdf925c1fa784a712ff5e2e744d54507)
+        ;
+
+        
+    
+    
+                marker_5aaff6d4d6ef5e6a2f9082c66b21a075.setIcon(icon_abae022b8a70c6532aa561c5a828d1f0);
+            
+    
+            var marker_17d5fb032e98f5c1a7eea6ce9071fb5b = L.marker(
+                [38.5408352, -121.7283667],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_e604887b6aa0961fcbb0ccdba46f4d1c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_68428ea534515d98676cf6f87af95a5d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_09723340162e4b057858d6502277dd2c = $(`<div id="html_09723340162e4b057858d6502277dd2c" style="width: 100.0%; height: 100.0%;">Dr. David A. Dycaico, MD (doctor) 1955 Cowell Boulevard, Davis</div>`)[0];
+                popup_68428ea534515d98676cf6f87af95a5d.setContent(html_09723340162e4b057858d6502277dd2c);
+            
+        
+
+        marker_17d5fb032e98f5c1a7eea6ce9071fb5b.bindPopup(popup_68428ea534515d98676cf6f87af95a5d)
+        ;
+
+        
+    
+    
+                marker_17d5fb032e98f5c1a7eea6ce9071fb5b.setIcon(icon_e604887b6aa0961fcbb0ccdba46f4d1c);
+            
+    
+            var marker_527732ffb17b6bb095941d9cfcd4d700 = L.marker(
+                [38.5485797, -121.7594715],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_fa63d3c96a92436b6ed2b47ceada8926 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fab3e57cceae453656429903cb95932c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fa09b23bea9146a8628374ad777ce29a = $(`<div id="html_fa09b23bea9146a8628374ad777ce29a" style="width: 100.0%; height: 100.0%;">Dr. Carl J. Eilers, MD (doctor) 635 Anderson Road, Davis</div>`)[0];
+                popup_fab3e57cceae453656429903cb95932c.setContent(html_fa09b23bea9146a8628374ad777ce29a);
+            
+        
+
+        marker_527732ffb17b6bb095941d9cfcd4d700.bindPopup(popup_fab3e57cceae453656429903cb95932c)
+        ;
+
+        
+    
+    
+                marker_527732ffb17b6bb095941d9cfcd4d700.setIcon(icon_fa63d3c96a92436b6ed2b47ceada8926);
+            
+    
+            var marker_609c1cf1f5c9759b3c7180ba1a2ecfbf = L.marker(
+                [38.5485771, -121.759661],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_df650d79432848f5bde73c193a3ed052 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4fa39b62000ba628ba34916ff934f695 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ea0049b84a69eb2c0fd1333a0edbec3b = $(`<div id="html_ea0049b84a69eb2c0fd1333a0edbec3b" style="width: 100.0%; height: 100.0%;">Dr. Tracy Basso, DPM (doctor) 635 Anderson Road #19, Davis</div>`)[0];
+                popup_4fa39b62000ba628ba34916ff934f695.setContent(html_ea0049b84a69eb2c0fd1333a0edbec3b);
+            
+        
+
+        marker_609c1cf1f5c9759b3c7180ba1a2ecfbf.bindPopup(popup_4fa39b62000ba628ba34916ff934f695)
+        ;
+
+        
+    
+    
+                marker_609c1cf1f5c9759b3c7180ba1a2ecfbf.setIcon(icon_df650d79432848f5bde73c193a3ed052);
+            
+    
+            var marker_eed4d793c23b59a238975a6c7d5b78ee = L.marker(
+                [38.548828, -121.759533],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_3d28f4ad25aa91d6943248016a75909f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5d86a5217982e451b108b14be7bed5a2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_32ffaf4f290c86b51f62f36ad048d169 = $(`<div id="html_32ffaf4f290c86b51f62f36ad048d169" style="width: 100.0%; height: 100.0%;">Aesthetic Vulvo Vaginal Surgery (doctor) 635 Anderson Road #12b, Davis</div>`)[0];
+                popup_5d86a5217982e451b108b14be7bed5a2.setContent(html_32ffaf4f290c86b51f62f36ad048d169);
+            
+        
+
+        marker_eed4d793c23b59a238975a6c7d5b78ee.bindPopup(popup_5d86a5217982e451b108b14be7bed5a2)
+        ;
+
+        
+    
+    
+                marker_eed4d793c23b59a238975a6c7d5b78ee.setIcon(icon_3d28f4ad25aa91d6943248016a75909f);
+            
+    
+            var marker_a7124eca04f20aa904126b37c7c49327 = L.marker(
+                [38.5627918, -121.7693518],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_e094f15968359616371461e0c34ab68f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_464f5451830b00e4488ba376b3bd768d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_95d4e77cf24e73864e2bea94a15f8169 = $(`<div id="html_95d4e77cf24e73864e2bea94a15f8169" style="width: 100.0%; height: 100.0%;">J. Kraig Katzenmeyer, M.D. (doctor) 2035 Lyndell Terrace STE 120, Davis</div>`)[0];
+                popup_464f5451830b00e4488ba376b3bd768d.setContent(html_95d4e77cf24e73864e2bea94a15f8169);
+            
+        
+
+        marker_a7124eca04f20aa904126b37c7c49327.bindPopup(popup_464f5451830b00e4488ba376b3bd768d)
+        ;
+
+        
+    
+    
+                marker_a7124eca04f20aa904126b37c7c49327.setIcon(icon_e094f15968359616371461e0c34ab68f);
+            
+    
+            var marker_181a9a92ff71e4e30daaaa8057070fb9 = L.marker(
+                [38.5611528, -121.7316309],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_53bc354543cd3ce899ed41d9bf479242 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c9302600ecc899ad0d4289570ce7f3f3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b6422b90054832d2f2ea183442cf75a9 = $(`<div id="html_b6422b90054832d2f2ea183442cf75a9" style="width: 100.0%; height: 100.0%;">CVS Pharmacy (pharmacy) 1550 East Covell Boulevard, Davis</div>`)[0];
+                popup_c9302600ecc899ad0d4289570ce7f3f3.setContent(html_b6422b90054832d2f2ea183442cf75a9);
+            
+        
+
+        marker_181a9a92ff71e4e30daaaa8057070fb9.bindPopup(popup_c9302600ecc899ad0d4289570ce7f3f3)
+        ;
+
+        
+    
+    
+                marker_181a9a92ff71e4e30daaaa8057070fb9.setIcon(icon_53bc354543cd3ce899ed41d9bf479242);
+            
+    
+            var marker_5ed74405cd92c0b6b1b1dccef66a2f75 = L.marker(
+                [38.5616008, -121.7665036],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_d1990f98eb3c917df911f524ec7ad1a2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_54119dbfd867be489354fd855f018888 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_61c209fa46ad429513f8de4a5e7e10c9 = $(`<div id="html_61c209fa46ad429513f8de4a5e7e10c9" style="width: 100.0%; height: 100.0%;">CVS Pharmacy (pharmacy) 1471 West Covell Boulevard, Davis</div>`)[0];
+                popup_54119dbfd867be489354fd855f018888.setContent(html_61c209fa46ad429513f8de4a5e7e10c9);
+            
+        
+
+        marker_5ed74405cd92c0b6b1b1dccef66a2f75.bindPopup(popup_54119dbfd867be489354fd855f018888)
+        ;
+
+        
+    
+    
+                marker_5ed74405cd92c0b6b1b1dccef66a2f75.setIcon(icon_d1990f98eb3c917df911f524ec7ad1a2);
+            
+    
+            var marker_e3dee008e62a02908945b9301d68c5cf = L.marker(
+                [38.5471105, -121.7239679],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_6c0f3e010794cd5843d6be7b41f2e897 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fbd181fd50886ca9309f4d6297df2676 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a2a7c22495221f7d0b7096f48a62e1f3 = $(`<div id="html_a2a7c22495221f7d0b7096f48a62e1f3" style="width: 100.0%; height: 100.0%;">CBD Prime (pharmacy) Davis</div>`)[0];
+                popup_fbd181fd50886ca9309f4d6297df2676.setContent(html_a2a7c22495221f7d0b7096f48a62e1f3);
+            
+        
+
+        marker_e3dee008e62a02908945b9301d68c5cf.bindPopup(popup_fbd181fd50886ca9309f4d6297df2676)
+        ;
+
+        
+    
+    
+                marker_e3dee008e62a02908945b9301d68c5cf.setIcon(icon_6c0f3e010794cd5843d6be7b41f2e897);
+            
+    
+            var marker_b29ab1ff70ff31cc38e4c9a876b8afb6 = L.marker(
+                [38.5601623, -121.7632042],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_d3020c4889cc155645e14d6501e4fd2e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_33fdbe5f40d3b19c5f7919313465c341 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1b50ea86aa083f82c6630722b7377404 = $(`<div id="html_1b50ea86aa083f82c6630722b7377404" style="width: 100.0%; height: 100.0%;">Davis Compounding Solutions (pharmacy) 1205 Drake Drive E, Davis</div>`)[0];
+                popup_33fdbe5f40d3b19c5f7919313465c341.setContent(html_1b50ea86aa083f82c6630722b7377404);
+            
+        
+
+        marker_b29ab1ff70ff31cc38e4c9a876b8afb6.bindPopup(popup_33fdbe5f40d3b19c5f7919313465c341)
+        ;
+
+        
+    
+    
+                marker_b29ab1ff70ff31cc38e4c9a876b8afb6.setIcon(icon_d3020c4889cc155645e14d6501e4fd2e);
+            
+    
+            var marker_9c27031cdfaa7771d7b5fe977725787c = L.marker(
+                [38.5437511, -121.7392659],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_95ca31cd57247535c587db339a1c2cd7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_08e50c85ef3a170e761c67f82e435a95 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_51956716a1d9c5a28a4f8866e9bed2cb = $(`<div id="html_51956716a1d9c5a28a4f8866e9bed2cb" style="width: 100.0%; height: 100.0%;">Tobias Diane E (pharmacy) 719 2nd Street #13, Davis</div>`)[0];
+                popup_08e50c85ef3a170e761c67f82e435a95.setContent(html_51956716a1d9c5a28a4f8866e9bed2cb);
+            
+        
+
+        marker_9c27031cdfaa7771d7b5fe977725787c.bindPopup(popup_08e50c85ef3a170e761c67f82e435a95)
+        ;
+
+        
+    
+    
+                marker_9c27031cdfaa7771d7b5fe977725787c.setIcon(icon_95ca31cd57247535c587db339a1c2cd7);
+            
+    
+            var marker_8be71ec205f60b93d35aa8f357f1c830 = L.marker(
+                [38.5405329, -121.728697],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_9442110889e94472a6b14fd72ae3683b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_328867f91cc91a379d0ce515af31307c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a327f108f9eab8f615abecb1d1859b39 = $(`<div id="html_a327f108f9eab8f615abecb1d1859b39" style="width: 100.0%; height: 100.0%;">Kaiser Health Plan Phy (pharmacy) 1955 Cowell Boulevard, Davis</div>`)[0];
+                popup_328867f91cc91a379d0ce515af31307c.setContent(html_a327f108f9eab8f615abecb1d1859b39);
+            
+        
+
+        marker_8be71ec205f60b93d35aa8f357f1c830.bindPopup(popup_328867f91cc91a379d0ce515af31307c)
+        ;
+
+        
+    
+    
+                marker_8be71ec205f60b93d35aa8f357f1c830.setIcon(icon_9442110889e94472a6b14fd72ae3683b);
+            
+    
+            var marker_662500cf546f7b5f404fd934ae1f5919 = L.marker(
+                [38.5409479, -121.7283064],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_0b5ad4043ebe8276b21678ebbdd3c14f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2c9e0dc30a894c8770d8b103d920fd26 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e62aae95fda7b048a8c53fd7d54dc2ba = $(`<div id="html_e62aae95fda7b048a8c53fd7d54dc2ba" style="width: 100.0%; height: 100.0%;">Pharmacy | Kaiser Permanente Davis Medical Offices (pharmacy) 1955 Cowell Boulevard, Davis</div>`)[0];
+                popup_2c9e0dc30a894c8770d8b103d920fd26.setContent(html_e62aae95fda7b048a8c53fd7d54dc2ba);
+            
+        
+
+        marker_662500cf546f7b5f404fd934ae1f5919.bindPopup(popup_2c9e0dc30a894c8770d8b103d920fd26)
+        ;
+
+        
+    
+    
+                marker_662500cf546f7b5f404fd934ae1f5919.setIcon(icon_0b5ad4043ebe8276b21678ebbdd3c14f);
+            
+    
+            var marker_880339dfee7be2e43d88ce9fa9b7005f = L.marker(
+                [38.547539, -121.7235981],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_d485911057c8dbe103d429dc2f8b8650 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f8e963ee766c4cd15d3ddddd70aeab2a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_564f333a301ce29684c565603f22a05c = $(`<div id="html_564f333a301ce29684c565603f22a05c" style="width: 100.0%; height: 100.0%;">GlycoGuard (pharmacy) 2121 2nd Street # C108, Davis</div>`)[0];
+                popup_f8e963ee766c4cd15d3ddddd70aeab2a.setContent(html_564f333a301ce29684c565603f22a05c);
+            
+        
+
+        marker_880339dfee7be2e43d88ce9fa9b7005f.bindPopup(popup_f8e963ee766c4cd15d3ddddd70aeab2a)
+        ;
+
+        
+    
+    
+                marker_880339dfee7be2e43d88ce9fa9b7005f.setIcon(icon_d485911057c8dbe103d429dc2f8b8650);
+            
+    
+            var marker_62acbec13dcbbe370cf9b1eb4858511d = L.marker(
+                [38.5467056, -121.75825],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_80c3bc9562bada26cb01f84830706328 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d5a4ae82cdb30d777e0d7563195173dd = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_93381a55f362c71d1f6415192d94579f = $(`<div id="html_93381a55f362c71d1f6415192d94579f" style="width: 100.0%; height: 100.0%;">Rite Aid Pharmacy (pharmacy) 655 Russell Boulevard, Davis</div>`)[0];
+                popup_d5a4ae82cdb30d777e0d7563195173dd.setContent(html_93381a55f362c71d1f6415192d94579f);
+            
+        
+
+        marker_62acbec13dcbbe370cf9b1eb4858511d.bindPopup(popup_d5a4ae82cdb30d777e0d7563195173dd)
+        ;
+
+        
+    
+    
+                marker_62acbec13dcbbe370cf9b1eb4858511d.setIcon(icon_80c3bc9562bada26cb01f84830706328);
+            
+    
+            var marker_71372e09a2a02d4085baa503afde9f40 = L.marker(
+                [38.5485771, -121.759661],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_c6335353c7e495900c1eff1af467901e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b870feb9bac43866f0253f74030c14d4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8839b9ee64fd5663916238e88c1c9305 = $(`<div id="html_8839b9ee64fd5663916238e88c1c9305" style="width: 100.0%; height: 100.0%;">Davis Pharmacy (pharmacy) 635 Anderson Road Suite 3, Davis</div>`)[0];
+                popup_b870feb9bac43866f0253f74030c14d4.setContent(html_8839b9ee64fd5663916238e88c1c9305);
+            
+        
+
+        marker_71372e09a2a02d4085baa503afde9f40.bindPopup(popup_b870feb9bac43866f0253f74030c14d4)
+        ;
+
+        
+    
+    
+                marker_71372e09a2a02d4085baa503afde9f40.setIcon(icon_c6335353c7e495900c1eff1af467901e);
+            
+    
+            var marker_9ea185bce41a1ce0a593da33d0cbec6d = L.marker(
+                [38.562439, -121.766236],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_aaa492131b7e983a4a355e8b6a9a49f9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_629f80b19058e9b886d05c03038a5157 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f12e73debc27dc44fb61823f8aee98c2 = $(`<div id="html_f12e73debc27dc44fb61823f8aee98c2" style="width: 100.0%; height: 100.0%;">Banfield Pet Hospital (pharmacy) 1411 West Covell Boulevard # 101, Davis</div>`)[0];
+                popup_629f80b19058e9b886d05c03038a5157.setContent(html_f12e73debc27dc44fb61823f8aee98c2);
+            
+        
+
+        marker_9ea185bce41a1ce0a593da33d0cbec6d.bindPopup(popup_629f80b19058e9b886d05c03038a5157)
+        ;
+
+        
+    
+    
+                marker_9ea185bce41a1ce0a593da33d0cbec6d.setIcon(icon_aaa492131b7e983a4a355e8b6a9a49f9);
+            
+    
+            var marker_e455f8e2af3a271710c52897dfdd83b0 = L.marker(
+                [38.55415449999999, -121.6997742],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_506d0063081d4f35c3e07ffce234974a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b55aaddd033528c8cf7fcc00dd186555 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9a46f895006488781660230296e24270 = $(`<div id="html_9a46f895006488781660230296e24270" style="width: 100.0%; height: 100.0%;">CVS Pharmacy (pharmacy) 4601 2nd Street, Davis</div>`)[0];
+                popup_b55aaddd033528c8cf7fcc00dd186555.setContent(html_9a46f895006488781660230296e24270);
+            
+        
+
+        marker_e455f8e2af3a271710c52897dfdd83b0.bindPopup(popup_b55aaddd033528c8cf7fcc00dd186555)
+        ;
+
+        
+    
+    
+                marker_e455f8e2af3a271710c52897dfdd83b0.setIcon(icon_506d0063081d4f35c3e07ffce234974a);
+            
+    
+            var marker_c5ab9c0eecb1da8e390c8a1b83a4c02e = L.marker(
+                [38.5606127, -121.7818544],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_e8046a797cd590259519d06599a38d9f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4d0dfb0655d098b9f8d735cafd570a6e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4195d523b506985f0f85b37cff81d9ce = $(`<div id="html_4195d523b506985f0f85b37cff81d9ce" style="width: 100.0%; height: 100.0%;">UC Davis Clinic Pharmacy in Davis (pharmacy) 2660 West Covell Boulevard, Davis</div>`)[0];
+                popup_4d0dfb0655d098b9f8d735cafd570a6e.setContent(html_4195d523b506985f0f85b37cff81d9ce);
+            
+        
+
+        marker_c5ab9c0eecb1da8e390c8a1b83a4c02e.bindPopup(popup_4d0dfb0655d098b9f8d735cafd570a6e)
+        ;
+
+        
+    
+    
+                marker_c5ab9c0eecb1da8e390c8a1b83a4c02e.setIcon(icon_e8046a797cd590259519d06599a38d9f);
+            
+    
+            var marker_478cf88d0d3dec087b2260bf820bb454 = L.marker(
+                [38.5449065, -121.7405167],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_4687b9bdd562126dbb8ac9aca250fdc2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2942f7c443f6d071f75235b973bc5cca = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_10e93dd3aa25c7ac2e7702b08d677fd9 = $(`<div id="html_10e93dd3aa25c7ac2e7702b08d677fd9" style="width: 100.0%; height: 100.0%;">Davis (clinic) Davis</div>`)[0];
+                popup_2942f7c443f6d071f75235b973bc5cca.setContent(html_10e93dd3aa25c7ac2e7702b08d677fd9);
+            
+        
+
+        marker_478cf88d0d3dec087b2260bf820bb454.bindPopup(popup_2942f7c443f6d071f75235b973bc5cca)
+        ;
+
+        
+    
+    
+                marker_478cf88d0d3dec087b2260bf820bb454.setIcon(icon_4687b9bdd562126dbb8ac9aca250fdc2);
+            
+    
+            var marker_54aef3558602ce0c5658e8c8862b08f5 = L.marker(
+                [38.5401306, -121.7384643],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_cce08992d4a81c04c88dca4f7aac5ae9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c5c442c030c9ebb553f4f042b3cd3337 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8185fefd1e47d6448ef3418fb97df3c5 = $(`<div id="html_8185fefd1e47d6448ef3418fb97df3c5" style="width: 100.0%; height: 100.0%;">University Park Inn and Suites (clinic) 1111 Richards Boulevard, Davis</div>`)[0];
+                popup_c5c442c030c9ebb553f4f042b3cd3337.setContent(html_8185fefd1e47d6448ef3418fb97df3c5);
+            
+        
+
+        marker_54aef3558602ce0c5658e8c8862b08f5.bindPopup(popup_c5c442c030c9ebb553f4f042b3cd3337)
+        ;
+
+        
+    
+    
+                marker_54aef3558602ce0c5658e8c8862b08f5.setIcon(icon_cce08992d4a81c04c88dca4f7aac5ae9);
+            
+    
+            var marker_1b254c8619a31a02e5b68bf3ce6ec25a = L.marker(
+                [38.542192, -121.7318185],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_2f959d255edd061d514315360a9f724d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_dab838ca62975aee7d8f1969b7eacdca = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f21e9de5aaedb30cefff888f39a154c0 = $(`<div id="html_f21e9de5aaedb30cefff888f39a154c0" style="width: 100.0%; height: 100.0%;">La Quinta Inn & Suites by Wyndham Davis (clinic) 1771 Research Park Drive, Davis</div>`)[0];
+                popup_dab838ca62975aee7d8f1969b7eacdca.setContent(html_f21e9de5aaedb30cefff888f39a154c0);
+            
+        
+
+        marker_1b254c8619a31a02e5b68bf3ce6ec25a.bindPopup(popup_dab838ca62975aee7d8f1969b7eacdca)
+        ;
+
+        
+    
+    
+                marker_1b254c8619a31a02e5b68bf3ce6ec25a.setIcon(icon_2f959d255edd061d514315360a9f724d);
+            
+    
+            var marker_4bed7b196fedafe0d76ef3c22c359729 = L.marker(
+                [38.543693, -121.742885],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_c4d0256c5347f178d4b59499a978c031 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_813b192386fd069e51a96a317f652a39 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d15a6854845f18c74a71eb3b5f6a4ea5 = $(`<div id="html_d15a6854845f18c74a71eb3b5f6a4ea5" style="width: 100.0%; height: 100.0%;">Econo Lodge (clinic) 221 D Street, Davis</div>`)[0];
+                popup_813b192386fd069e51a96a317f652a39.setContent(html_d15a6854845f18c74a71eb3b5f6a4ea5);
+            
+        
+
+        marker_4bed7b196fedafe0d76ef3c22c359729.bindPopup(popup_813b192386fd069e51a96a317f652a39)
+        ;
+
+        
+    
+    
+                marker_4bed7b196fedafe0d76ef3c22c359729.setIcon(icon_c4d0256c5347f178d4b59499a978c031);
+            
+    
+            var marker_aec1b785ca2acb3ee589958be44fbe3a = L.marker(
+                [38.5382322, -121.7617125],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_0b1779353177d0130d0e11538a67d296 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e6acfe58d40b1515ff86fea08db17207 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_77668119f2903c8019ba411c391f94e8 = $(`<div id="html_77668119f2903c8019ba411c391f94e8" style="width: 100.0%; height: 100.0%;">University of California, Davis (clinic) 1 Shields Avenue, Davis</div>`)[0];
+                popup_e6acfe58d40b1515ff86fea08db17207.setContent(html_77668119f2903c8019ba411c391f94e8);
+            
+        
+
+        marker_aec1b785ca2acb3ee589958be44fbe3a.bindPopup(popup_e6acfe58d40b1515ff86fea08db17207)
+        ;
+
+        
+    
+    
+                marker_aec1b785ca2acb3ee589958be44fbe3a.setIcon(icon_0b1779353177d0130d0e11538a67d296);
+            
+    
+            var marker_1cc73e71697643cf9fdad50a9ac12128 = L.marker(
+                [38.5421678, -121.7447376],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_ebc703a7e4961ba89cc533cd9c894502 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9513c324b3fd158bc1eecbe7a922eb72 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2cd328edf9e1a5a4edb83a313e408436 = $(`<div id="html_2cd328edf9e1a5a4edb83a313e408436" style="width: 100.0%; height: 100.0%;">Best Western University Lodge (clinic) 123 B Street, Davis</div>`)[0];
+                popup_9513c324b3fd158bc1eecbe7a922eb72.setContent(html_2cd328edf9e1a5a4edb83a313e408436);
+            
+        
+
+        marker_1cc73e71697643cf9fdad50a9ac12128.bindPopup(popup_9513c324b3fd158bc1eecbe7a922eb72)
+        ;
+
+        
+    
+    
+                marker_1cc73e71697643cf9fdad50a9ac12128.setIcon(icon_ebc703a7e4961ba89cc533cd9c894502);
+            
+    
+            var marker_b528f5c43014da1aa690cf5dc6fc3c40 = L.marker(
+                [38.5411068, -121.7306544],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_e88565366d739a4903a2133769d016c9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e88102a282dbdcaee974522ddce82f44 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_34dfadbe30849daa2bdc2bbd8378f7d1 = $(`<div id="html_34dfadbe30849daa2bdc2bbd8378f7d1" style="width: 100.0%; height: 100.0%;">Holiday Inn Express & Suites Davis - University Area by IHG (clinic) 1640 Research Park Drive, Davis</div>`)[0];
+                popup_e88102a282dbdcaee974522ddce82f44.setContent(html_34dfadbe30849daa2bdc2bbd8378f7d1);
+            
+        
+
+        marker_b528f5c43014da1aa690cf5dc6fc3c40.bindPopup(popup_e88102a282dbdcaee974522ddce82f44)
+        ;
+
+        
+    
+    
+                marker_b528f5c43014da1aa690cf5dc6fc3c40.setIcon(icon_e88565366d739a4903a2133769d016c9);
+            
+    
+            var marker_113c3ed7773572b8d5cf1c468aba6ebc = L.marker(
+                [38.55024969999999, -121.7020231],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_516473b353ea776a452b44ad7c1c245b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5b6142aa4e75cf52e9abb569bc270dfb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_038056df6f8d9b4c30d2ee061f11f5ce = $(`<div id="html_038056df6f8d9b4c30d2ee061f11f5ce" style="width: 100.0%; height: 100.0%;">Prodigy Hotel, a Days Inn by Wyndham (clinic) 4100 Chiles Road, Davis</div>`)[0];
+                popup_5b6142aa4e75cf52e9abb569bc270dfb.setContent(html_038056df6f8d9b4c30d2ee061f11f5ce);
+            
+        
+
+        marker_113c3ed7773572b8d5cf1c468aba6ebc.bindPopup(popup_5b6142aa4e75cf52e9abb569bc270dfb)
+        ;
+
+        
+    
+    
+                marker_113c3ed7773572b8d5cf1c468aba6ebc.setIcon(icon_516473b353ea776a452b44ad7c1c245b);
+            
+    
+            var marker_b419b20f0b30544433add4271be73dda = L.marker(
+                [38.5434908, -121.7377498],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_21f89f41854db2959baf4d4d4dce27b6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1c1527fcc55f5f1013997646fca9cc34 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8e26dfed8f85a8092cd4e638fb83d252 = $(`<div id="html_8e26dfed8f85a8092cd4e638fb83d252" style="width: 100.0%; height: 100.0%;">Davis (clinic) 840 2nd Street, Davis</div>`)[0];
+                popup_1c1527fcc55f5f1013997646fca9cc34.setContent(html_8e26dfed8f85a8092cd4e638fb83d252);
+            
+        
+
+        marker_b419b20f0b30544433add4271be73dda.bindPopup(popup_1c1527fcc55f5f1013997646fca9cc34)
+        ;
+
+        
+    
+    
+                marker_b419b20f0b30544433add4271be73dda.setIcon(icon_21f89f41854db2959baf4d4d4dce27b6);
+            
+    
+            var marker_6319e6920516b2dc77b2ad6027bd2fc6 = L.marker(
+                [38.5542886, -121.6997428],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_087ad9ddb5c21e64ee062dd32a30e4fd = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b61687f784c6454ba63b3cadf47f2982 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e71790b2f013fc0360cf4b46ad2c0a2a = $(`<div id="html_e71790b2f013fc0360cf4b46ad2c0a2a" style="width: 100.0%; height: 100.0%;">Target (clinic) 4601 2nd Street, Davis</div>`)[0];
+                popup_b61687f784c6454ba63b3cadf47f2982.setContent(html_e71790b2f013fc0360cf4b46ad2c0a2a);
+            
+        
+
+        marker_6319e6920516b2dc77b2ad6027bd2fc6.bindPopup(popup_b61687f784c6454ba63b3cadf47f2982)
+        ;
+
+        
+    
+    
+                marker_6319e6920516b2dc77b2ad6027bd2fc6.setIcon(icon_087ad9ddb5c21e64ee062dd32a30e4fd);
+            
+    
+            var marker_e18de83170dfa8a37ff18d40b734ec39 = L.marker(
+                [38.5448905, -121.7405471],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_0b8881ee9ea8882f9d52818c2fc77091 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2aef7ae0236588fccc9811208e025a05 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1446675b8c94e70d7d3ea84527368920 = $(`<div id="html_1446675b8c94e70d7d3ea84527368920" style="width: 100.0%; height: 100.0%;">Pioneer & Pest Control (clinic) Davis</div>`)[0];
+                popup_2aef7ae0236588fccc9811208e025a05.setContent(html_1446675b8c94e70d7d3ea84527368920);
+            
+        
+
+        marker_e18de83170dfa8a37ff18d40b734ec39.bindPopup(popup_2aef7ae0236588fccc9811208e025a05)
+        ;
+
+        
+    
+    
+                marker_e18de83170dfa8a37ff18d40b734ec39.setIcon(icon_0b8881ee9ea8882f9d52818c2fc77091);
+            
+    
+            var marker_cc4a7cd066388ad807c5677b1b618755 = L.marker(
+                [38.5448905, -121.7405471],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_139d04846864afa91b17c671343b0333 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_cc3eff6b84e2799d0d8b51021d99bf01 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_dcada7db1551a904ce089c87da68293c = $(`<div id="html_dcada7db1551a904ce089c87da68293c" style="width: 100.0%; height: 100.0%;">Black Diamond Productions (clinic) Davis</div>`)[0];
+                popup_cc3eff6b84e2799d0d8b51021d99bf01.setContent(html_dcada7db1551a904ce089c87da68293c);
+            
+        
+
+        marker_cc4a7cd066388ad807c5677b1b618755.bindPopup(popup_cc3eff6b84e2799d0d8b51021d99bf01)
+        ;
+
+        
+    
+    
+                marker_cc4a7cd066388ad807c5677b1b618755.setIcon(icon_139d04846864afa91b17c671343b0333);
+            
+    
+            var marker_00f7d08a6b9279a6dc9444cb3af19bfd = L.marker(
+                [38.53867839999999, -121.7633255],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_3cedac17a808161ad3b1884cb2eb46cb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7e7edc52c06c1dbde6cf4293a2d85c3e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_364ed7d3da4806d8566a2edb549a42e6 = $(`<div id="html_364ed7d3da4806d8566a2edb549a42e6" style="width: 100.0%; height: 100.0%;">Public Intellectual Property Resource for Agriculture (clinic) 1106 Extension Center Drive, Davis</div>`)[0];
+                popup_7e7edc52c06c1dbde6cf4293a2d85c3e.setContent(html_364ed7d3da4806d8566a2edb549a42e6);
+            
+        
+
+        marker_00f7d08a6b9279a6dc9444cb3af19bfd.bindPopup(popup_7e7edc52c06c1dbde6cf4293a2d85c3e)
+        ;
+
+        
+    
+    
+                marker_00f7d08a6b9279a6dc9444cb3af19bfd.setIcon(icon_3cedac17a808161ad3b1884cb2eb46cb);
+            
+    
+            var marker_95f5f32f053fe851178335e78edb3cef = L.marker(
+                [38.5518461, -121.6931915],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_b8d5041d89a6b744158322d08b7c9b9a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_eb29860ac37fe2fd2e4d5995a910ba0f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c455500b26732dc84e89316d043207e0 = $(`<div id="html_c455500b26732dc84e89316d043207e0" style="width: 100.0%; height: 100.0%;">Hi - Wheel Flats, CA - Sacramento Area (clinic) 4835 Chiles Road, Davis</div>`)[0];
+                popup_eb29860ac37fe2fd2e4d5995a910ba0f.setContent(html_c455500b26732dc84e89316d043207e0);
+            
+        
+
+        marker_95f5f32f053fe851178335e78edb3cef.bindPopup(popup_eb29860ac37fe2fd2e4d5995a910ba0f)
+        ;
+
+        
+    
+    
+                marker_95f5f32f053fe851178335e78edb3cef.setIcon(icon_b8d5041d89a6b744158322d08b7c9b9a);
+            
+    
+            var marker_d56e09adc152ca4933815196666c515b = L.marker(
+                [38.53540479999999, -121.7462834],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_cdb9920089ae57e5ac20579dad859f84 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_259c89f42e337c4b3efcb44ebe6f5a37 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_afd886ba27fdd5dabc6af574028f3e6e = $(`<div id="html_afd886ba27fdd5dabc6af574028f3e6e" style="width: 100.0%; height: 100.0%;">Hyatt Place UC Davis (clinic) 173 Old Davis Road, Davis</div>`)[0];
+                popup_259c89f42e337c4b3efcb44ebe6f5a37.setContent(html_afd886ba27fdd5dabc6af574028f3e6e);
+            
+        
+
+        marker_d56e09adc152ca4933815196666c515b.bindPopup(popup_259c89f42e337c4b3efcb44ebe6f5a37)
+        ;
+
+        
+    
+    
+                marker_d56e09adc152ca4933815196666c515b.setIcon(icon_cdb9920089ae57e5ac20579dad859f84);
+            
+    
+            var marker_1b429eab210082f243826f04d5288846 = L.marker(
+                [38.5441188, -121.7420484],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_94b1012b33206eaeedb8b53422f9c131 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_bb42d0e4c198ffa092ed9d45bbae9284 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5ee349ac5ea129e9c55fa130fcc9d192 = $(`<div id="html_5ee349ac5ea129e9c55fa130fcc9d192" style="width: 100.0%; height: 100.0%;">Best Western Plus Palm Court Hotel (clinic) 234 D Street, Davis</div>`)[0];
+                popup_bb42d0e4c198ffa092ed9d45bbae9284.setContent(html_5ee349ac5ea129e9c55fa130fcc9d192);
+            
+        
+
+        marker_1b429eab210082f243826f04d5288846.bindPopup(popup_bb42d0e4c198ffa092ed9d45bbae9284)
+        ;
+
+        
+    
+    
+                marker_1b429eab210082f243826f04d5288846.setIcon(icon_94b1012b33206eaeedb8b53422f9c131);
+            
+    
+            var marker_ac9881af2a464eb1cef0444adf53f5c8 = L.marker(
+                [38.5387283, -121.7530819],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_82a257381d6ca9e14a91fb20f0034786 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ae2c065b5bd0cfe2fe2879f5e60ccb15 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a4199b63ff56fb753ed01cc7935de9ec = $(`<div id="html_a4199b63ff56fb753ed01cc7935de9ec" style="width: 100.0%; height: 100.0%;">Foods For Health Institute (clinic) 1 Shields Avenue, Davis</div>`)[0];
+                popup_ae2c065b5bd0cfe2fe2879f5e60ccb15.setContent(html_a4199b63ff56fb753ed01cc7935de9ec);
+            
+        
+
+        marker_ac9881af2a464eb1cef0444adf53f5c8.bindPopup(popup_ae2c065b5bd0cfe2fe2879f5e60ccb15)
+        ;
+
+        
+    
+    
+                marker_ac9881af2a464eb1cef0444adf53f5c8.setIcon(icon_82a257381d6ca9e14a91fb20f0034786);
+            
+    
+            var marker_485bd3fcd574f846c5151caec10c2fe7 = L.marker(
+                [38.5398114, -121.7550565],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_27c2dce7bd3a33d470cd05685f922f62 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_081efe44138fa5155d136d3bc2cfd6ba = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e8919c114b7f6a0740fc7220db391610 = $(`<div id="html_e8919c114b7f6a0740fc7220db391610" style="width: 100.0%; height: 100.0%;">US Interior Department (clinic) 1 Shields Avenue # 278, Davis</div>`)[0];
+                popup_081efe44138fa5155d136d3bc2cfd6ba.setContent(html_e8919c114b7f6a0740fc7220db391610);
+            
+        
+
+        marker_485bd3fcd574f846c5151caec10c2fe7.bindPopup(popup_081efe44138fa5155d136d3bc2cfd6ba)
+        ;
+
+        
+    
+    
+                marker_485bd3fcd574f846c5151caec10c2fe7.setIcon(icon_27c2dce7bd3a33d470cd05685f922f62);
+            
+    
+            var marker_150ac8b990d9097605f1cd2fb3dcdf84 = L.marker(
+                [38.539452, -121.7547197],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_964bc8c370ae420ddb8c5778a3d88f37 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_386f16db2f1e9d951033354034a88d25 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fcf574bb4491414dfbea731167e905d1 = $(`<div id="html_fcf574bb4491414dfbea731167e905d1" style="width: 100.0%; height: 100.0%;">Anders Thomas F MD (clinic) 1 Shields Avenue, Davis</div>`)[0];
+                popup_386f16db2f1e9d951033354034a88d25.setContent(html_fcf574bb4491414dfbea731167e905d1);
+            
+        
+
+        marker_150ac8b990d9097605f1cd2fb3dcdf84.bindPopup(popup_386f16db2f1e9d951033354034a88d25)
+        ;
+
+        
+    
+    
+                marker_150ac8b990d9097605f1cd2fb3dcdf84.setIcon(icon_964bc8c370ae420ddb8c5778a3d88f37);
+            
+    
+            var marker_661f792eea92fec957b513e51eedf48d = L.marker(
+                [38.539095, -121.7608193],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_ed80e36dcb367f3f48df8afb2fc7b553 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c8986e15899ea87bcd943e5453b535b7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4ff0a91914a79a9d2c3530bd17a10a4a = $(`<div id="html_4ff0a91914a79a9d2c3530bd17a10a4a" style="width: 100.0%; height: 100.0%;">University of California-Davis (clinic) University of California-Davis</div>`)[0];
+                popup_c8986e15899ea87bcd943e5453b535b7.setContent(html_4ff0a91914a79a9d2c3530bd17a10a4a);
+            
+        
+
+        marker_661f792eea92fec957b513e51eedf48d.bindPopup(popup_c8986e15899ea87bcd943e5453b535b7)
+        ;
+
+        
+    
+    
+                marker_661f792eea92fec957b513e51eedf48d.setIcon(icon_ed80e36dcb367f3f48df8afb2fc7b553);
+            
+    
+            var marker_85b231d7de2198934684e2d22a2ccd6c = L.marker(
+                [38.5382322, -121.7617125],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_75f2524c4f158f3c5f1bbf04a5f958ba = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1b7883f852941670d2dcd087d251206d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b6e3be3f0f7826905234788f42d916d5 = $(`<div id="html_b6e3be3f0f7826905234788f42d916d5" style="width: 100.0%; height: 100.0%;">University of California, Davis (university) 1 Shields Avenue, Davis</div>`)[0];
+                popup_1b7883f852941670d2dcd087d251206d.setContent(html_b6e3be3f0f7826905234788f42d916d5);
+            
+        
+
+        marker_85b231d7de2198934684e2d22a2ccd6c.bindPopup(popup_1b7883f852941670d2dcd087d251206d)
+        ;
+
+        
+    
+    
+                marker_85b231d7de2198934684e2d22a2ccd6c.setIcon(icon_75f2524c4f158f3c5f1bbf04a5f958ba);
+            
+    
+            var marker_2ae381a13a3f13db7dd68a6df1a861e7 = L.marker(
+                [38.5360746, -121.7491685],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_f5423cfc0154c7a407b0fefb4a64b803 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e723cc7f2f0a04f94e841c9919d39060 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bc90f590f9d511dc3525ab492d73caed = $(`<div id="html_bc90f590f9d511dc3525ab492d73caed" style="width: 100.0%; height: 100.0%;">School of Law | UC Davis (university) 400 Mrak Hall Drive, Davis</div>`)[0];
+                popup_e723cc7f2f0a04f94e841c9919d39060.setContent(html_bc90f590f9d511dc3525ab492d73caed);
+            
+        
+
+        marker_2ae381a13a3f13db7dd68a6df1a861e7.bindPopup(popup_e723cc7f2f0a04f94e841c9919d39060)
+        ;
+
+        
+    
+    
+                marker_2ae381a13a3f13db7dd68a6df1a861e7.setIcon(icon_f5423cfc0154c7a407b0fefb4a64b803);
+            
+    
+            var marker_97a6efb41ba759065ac7004fea5b7990 = L.marker(
+                [38.5319999, -121.7642544],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_51116400037db5572435e133f67dcc88 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f613b98558337e74dead4fe0d85424ee = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bda2fd9cb4f966f9c9ec1c585983f517 = $(`<div id="html_bda2fd9cb4f966f9c9ec1c585983f517" style="width: 100.0%; height: 100.0%;">UC Davis School of Veterinary Medicine (university) 944 Garrod Drive, Davis</div>`)[0];
+                popup_f613b98558337e74dead4fe0d85424ee.setContent(html_bda2fd9cb4f966f9c9ec1c585983f517);
+            
+        
+
+        marker_97a6efb41ba759065ac7004fea5b7990.bindPopup(popup_f613b98558337e74dead4fe0d85424ee)
+        ;
+
+        
+    
+    
+                marker_97a6efb41ba759065ac7004fea5b7990.setIcon(icon_51116400037db5572435e133f67dcc88);
+            
+    
+            var marker_3817e85c1c260f9c0aa467759966f5ab = L.marker(
+                [38.5431858, -121.7401797],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_87ade774df7f25008865d270af42f62c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ac5c9b1c6ea27df3370adc55e09a95fd = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1366bc9826b7f0f43cec715e2df81105 = $(`<div id="html_1366bc9826b7f0f43cec715e2df81105" style="width: 100.0%; height: 100.0%;">UC Davis Downtown Store (university) 630 2nd Street, Davis</div>`)[0];
+                popup_ac5c9b1c6ea27df3370adc55e09a95fd.setContent(html_1366bc9826b7f0f43cec715e2df81105);
+            
+        
+
+        marker_3817e85c1c260f9c0aa467759966f5ab.bindPopup(popup_ac5c9b1c6ea27df3370adc55e09a95fd)
+        ;
+
+        
+    
+    
+                marker_3817e85c1c260f9c0aa467759966f5ab.setIcon(icon_87ade774df7f25008865d270af42f62c);
+            
+    
+            var marker_713b1797a6dec440b916c8105faa134a = L.marker(
+                [38.5389877, -121.7485317],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_a78df9440aa5ea29613148f7968a3e60 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fd3007a28fe04f00119737f850bfd0ca = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d6efe20c2bf53bcad85bb7b2d0d2304c = $(`<div id="html_d6efe20c2bf53bcad85bb7b2d0d2304c" style="width: 100.0%; height: 100.0%;">Department of Art (university) Art, Davis</div>`)[0];
+                popup_fd3007a28fe04f00119737f850bfd0ca.setContent(html_d6efe20c2bf53bcad85bb7b2d0d2304c);
+            
+        
+
+        marker_713b1797a6dec440b916c8105faa134a.bindPopup(popup_fd3007a28fe04f00119737f850bfd0ca)
+        ;
+
+        
+    
+    
+                marker_713b1797a6dec440b916c8105faa134a.setIcon(icon_a78df9440aa5ea29613148f7968a3e60);
+            
+    
+            var marker_e13ad4057565b96e9ba406e3c9bf4e83 = L.marker(
+                [38.5348571, -121.7514761],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_ba5a036597847d84e98f30ec75caf76c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_acf8919b5f01ac957629b5492ef3c439 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f71e39036a1b393113fd3ad80fd1ae4c = $(`<div id="html_f71e39036a1b393113fd3ad80fd1ae4c" style="width: 100.0%; height: 100.0%;">Earth and Physical Sciences (university) Earth and Physical Sciences, Davis</div>`)[0];
+                popup_acf8919b5f01ac957629b5492ef3c439.setContent(html_f71e39036a1b393113fd3ad80fd1ae4c);
+            
+        
+
+        marker_e13ad4057565b96e9ba406e3c9bf4e83.bindPopup(popup_acf8919b5f01ac957629b5492ef3c439)
+        ;
+
+        
+    
+    
+                marker_e13ad4057565b96e9ba406e3c9bf4e83.setIcon(icon_ba5a036597847d84e98f30ec75caf76c);
+            
+    
+            var marker_60c347a972fa387f4129cf4358ce3eb4 = L.marker(
+                [38.5348765, -121.7545242],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_50e32ef1d64feff5d77af5f49906ab72 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3ca7702fba286558bb726dc51c85ccfa = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_88c82499a7b9e796458ae74945fe3b95 = $(`<div id="html_88c82499a7b9e796458ae74945fe3b95" style="width: 100.0%; height: 100.0%;">Department of Nutrition (university) Meyer Hall, Davis</div>`)[0];
+                popup_3ca7702fba286558bb726dc51c85ccfa.setContent(html_88c82499a7b9e796458ae74945fe3b95);
+            
+        
+
+        marker_60c347a972fa387f4129cf4358ce3eb4.bindPopup(popup_3ca7702fba286558bb726dc51c85ccfa)
+        ;
+
+        
+    
+    
+                marker_60c347a972fa387f4129cf4358ce3eb4.setIcon(icon_50e32ef1d64feff5d77af5f49906ab72);
+            
+    
+            var marker_17a7546c62581f1a79511833d7db62f1 = L.marker(
+                [38.53792010000001, -121.7319761],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_6c32685ac7d2ce97788a81f682434f94 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_95beff1a3371a5722524841218b1bd57 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a50b902d4517a8cb7ad77eeea8ef268b = $(`<div id="html_a50b902d4517a8cb7ad77eeea8ef268b" style="width: 100.0%; height: 100.0%;">UC Davis Continuing and Professional Education - Human Services (university) 1632 Da Vinci Court, Davis</div>`)[0];
+                popup_95beff1a3371a5722524841218b1bd57.setContent(html_a50b902d4517a8cb7ad77eeea8ef268b);
+            
+        
+
+        marker_17a7546c62581f1a79511833d7db62f1.bindPopup(popup_95beff1a3371a5722524841218b1bd57)
+        ;
+
+        
+    
+    
+                marker_17a7546c62581f1a79511833d7db62f1.setIcon(icon_6c32685ac7d2ce97788a81f682434f94);
+            
+    
+            var marker_210c4141c0fb93e9d5f4bf18f3332a86 = L.marker(
+                [38.5327685, -121.7516962],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_dcd06018413a16cf58f5a2a25846d308 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_75c22f394f4be05da5097262e77454e8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_500aabc9dff956df80ce1da353853863 = $(`<div id="html_500aabc9dff956df80ce1da353853863" style="width: 100.0%; height: 100.0%;">Robert Mondavi Institute for Wine and Food Science (university) RMI Sensory, 392 Old Davis Road, Davis</div>`)[0];
+                popup_75c22f394f4be05da5097262e77454e8.setContent(html_500aabc9dff956df80ce1da353853863);
+            
+        
+
+        marker_210c4141c0fb93e9d5f4bf18f3332a86.bindPopup(popup_75c22f394f4be05da5097262e77454e8)
+        ;
+
+        
+    
+    
+                marker_210c4141c0fb93e9d5f4bf18f3332a86.setIcon(icon_dcd06018413a16cf58f5a2a25846d308);
+            
+    
+            var marker_a5c20cf92c9723282a4d4a6989e6dd50 = L.marker(
+                [38.5510914, -121.716309],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_e86c3babcc240ce0660c676d91ad5303 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1c17e73c7a460dfe92681a931e279ac5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b35aef37356d622dce205379d2297050 = $(`<div id="html_b35aef37356d622dce205379d2297050" style="width: 100.0%; height: 100.0%;">California Lighting Technology Center, UC Davis (university) 633 Pena Drive, Davis</div>`)[0];
+                popup_1c17e73c7a460dfe92681a931e279ac5.setContent(html_b35aef37356d622dce205379d2297050);
+            
+        
+
+        marker_a5c20cf92c9723282a4d4a6989e6dd50.bindPopup(popup_1c17e73c7a460dfe92681a931e279ac5)
+        ;
+
+        
+    
+    
+                marker_a5c20cf92c9723282a4d4a6989e6dd50.setIcon(icon_e86c3babcc240ce0660c676d91ad5303);
+            
+    
+            var marker_bda685da57aeb58f8767957c4bdfaad6 = L.marker(
+                [38.5373277, -121.7508467],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_86eaa2639380fe3d24a8771c4451a18d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_eb119e8f30b6f274b6d3dbe21c5aac90 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3235702f8868d401f5d1c403f92c9d71 = $(`<div id="html_3235702f8868d401f5d1c403f92c9d71" style="width: 100.0%; height: 100.0%;">Center for Visual Sciences (university) Physical Sciences and Engineering Library, 1 Shields Avenue, Davis</div>`)[0];
+                popup_eb119e8f30b6f274b6d3dbe21c5aac90.setContent(html_3235702f8868d401f5d1c403f92c9d71);
+            
+        
+
+        marker_bda685da57aeb58f8767957c4bdfaad6.bindPopup(popup_eb119e8f30b6f274b6d3dbe21c5aac90)
+        ;
+
+        
+    
+    
+                marker_bda685da57aeb58f8767957c4bdfaad6.setIcon(icon_86eaa2639380fe3d24a8771c4451a18d);
+            
+    
+            var marker_16d586be10e28ea5a81e85becdb172d3 = L.marker(
+                [38.5432898, -121.729634],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_ca0dcfa06c0438877bcaf9bdccf2df58 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_949815cca8440762a252d41eb962ae9b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6a6e8adc9e485eefd37d3fe28cb7bbda = $(`<div id="html_6a6e8adc9e485eefd37d3fe28cb7bbda" style="width: 100.0%; height: 100.0%;">UC Davis Office of Research (university) 1850 Research Park Drive, Davis</div>`)[0];
+                popup_949815cca8440762a252d41eb962ae9b.setContent(html_6a6e8adc9e485eefd37d3fe28cb7bbda);
+            
+        
+
+        marker_16d586be10e28ea5a81e85becdb172d3.bindPopup(popup_949815cca8440762a252d41eb962ae9b)
+        ;
+
+        
+    
+    
+                marker_16d586be10e28ea5a81e85becdb172d3.setIcon(icon_ca0dcfa06c0438877bcaf9bdccf2df58);
+            
+    
+            var marker_3e777e6f568cda41a1de3b7bf8272bfa = L.marker(
+                [38.5406374, -121.746752],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_85c3354e6d1b5d87b489801ba89ed570 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_71889122c59285ca93689f04d97a7b76 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_295cd836bb5f136381aecb7bded57808 = $(`<div id="html_295cd836bb5f136381aecb7bded57808" style="width: 100.0%; height: 100.0%;">School of Education | UC Davis (university) 1 Shields Avenue, Davis</div>`)[0];
+                popup_71889122c59285ca93689f04d97a7b76.setContent(html_295cd836bb5f136381aecb7bded57808);
+            
+        
+
+        marker_3e777e6f568cda41a1de3b7bf8272bfa.bindPopup(popup_71889122c59285ca93689f04d97a7b76)
+        ;
+
+        
+    
+    
+                marker_3e777e6f568cda41a1de3b7bf8272bfa.setIcon(icon_85c3354e6d1b5d87b489801ba89ed570);
+            
+    
+            var marker_dddbf068dee3b04e2095ad4725e7fd91 = L.marker(
+                [38.5418531, -121.7483197],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_8a6902d344520bf63a18ef8ec4e689e9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4bff91ecdc73dabb04114a174aa7344d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_419c1c4b595164e84980ec3ced351b15 = $(`<div id="html_419c1c4b595164e84980ec3ced351b15" style="width: 100.0%; height: 100.0%;">Women's Resources and Research Center UC Davis (university) 113 North Hall, 180 East Quad, Davis</div>`)[0];
+                popup_4bff91ecdc73dabb04114a174aa7344d.setContent(html_419c1c4b595164e84980ec3ced351b15);
+            
+        
+
+        marker_dddbf068dee3b04e2095ad4725e7fd91.bindPopup(popup_4bff91ecdc73dabb04114a174aa7344d)
+        ;
+
+        
+    
+    
+                marker_dddbf068dee3b04e2095ad4725e7fd91.setIcon(icon_8a6902d344520bf63a18ef8ec4e689e9);
+            
+    
+            var marker_0eeeb85cccbb4d439f98a1111fcc8401 = L.marker(
+                [38.5352214, -121.7650717],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_61809005be1598e88e5eafc852f373e0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_cc1892b5db60d8d58abfc3e9177e3b9e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5ca07cb4ba7600b357d34dac8916fecc = $(`<div id="html_5ca07cb4ba7600b357d34dac8916fecc" style="width: 100.0%; height: 100.0%;">Genome and Biomedical Sciences Facility (university) 451 Health Sciences Drive, Davis</div>`)[0];
+                popup_cc1892b5db60d8d58abfc3e9177e3b9e.setContent(html_5ca07cb4ba7600b357d34dac8916fecc);
+            
+        
+
+        marker_0eeeb85cccbb4d439f98a1111fcc8401.bindPopup(popup_cc1892b5db60d8d58abfc3e9177e3b9e)
+        ;
+
+        
+    
+    
+                marker_0eeeb85cccbb4d439f98a1111fcc8401.setIcon(icon_61809005be1598e88e5eafc852f373e0);
+            
+    
+            var marker_5f7cc2c2b60a165fdb08cff5b62f4645 = L.marker(
+                [38.5410296, -121.7506769],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_0bd67af40237546bf177e15ba9db9823 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b0e26ea716218ff2b1e2eeb49f7ba84f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d2f95b6f3b3b07b3a4c747db299247ea = $(`<div id="html_d2f95b6f3b3b07b3a4c747db299247ea" style="width: 100.0%; height: 100.0%;">Whole Earth Bench (university) 301 Shields Avenue, Davis</div>`)[0];
+                popup_b0e26ea716218ff2b1e2eeb49f7ba84f.setContent(html_d2f95b6f3b3b07b3a4c747db299247ea);
+            
+        
+
+        marker_5f7cc2c2b60a165fdb08cff5b62f4645.bindPopup(popup_b0e26ea716218ff2b1e2eeb49f7ba84f)
+        ;
+
+        
+    
+    
+                marker_5f7cc2c2b60a165fdb08cff5b62f4645.setIcon(icon_0bd67af40237546bf177e15ba9db9823);
+            
+    
+            var marker_18549c2079ce72cf9efa4cad977a6eba = L.marker(
+                [38.5387283, -121.7530819],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_0f753c292f2378217811404c488a44ff = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_950b051db444ac04bced8076a058e594 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f19b8e67245604cf19b780fb224649d9 = $(`<div id="html_f19b8e67245604cf19b780fb224649d9" style="width: 100.0%; height: 100.0%;">The ASUCD External Affairs Commission (university) 1 Shields Avenue, Davis</div>`)[0];
+                popup_950b051db444ac04bced8076a058e594.setContent(html_f19b8e67245604cf19b780fb224649d9);
+            
+        
+
+        marker_18549c2079ce72cf9efa4cad977a6eba.bindPopup(popup_950b051db444ac04bced8076a058e594)
+        ;
+
+        
+    
+    
+                marker_18549c2079ce72cf9efa4cad977a6eba.setIcon(icon_0f753c292f2378217811404c488a44ff);
+            
+    
+            var marker_7b0697a9a51ee15625601bd2dc36ffc7 = L.marker(
+                [38.5327992, -121.7664716],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_c7125d1d94db22bd2e4a1037d6b5bac8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_556d32c868afe4fbcdc34be47d9a5e50 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0bce05c2112aa5466d3396452291393b = $(`<div id="html_0bce05c2112aa5466d3396452291393b" style="width: 100.0%; height: 100.0%;">Davis Laboratory (university) 620 Garrod Drive, Davis</div>`)[0];
+                popup_556d32c868afe4fbcdc34be47d9a5e50.setContent(html_0bce05c2112aa5466d3396452291393b);
+            
+        
+
+        marker_7b0697a9a51ee15625601bd2dc36ffc7.bindPopup(popup_556d32c868afe4fbcdc34be47d9a5e50)
+        ;
+
+        
+    
+    
+                marker_7b0697a9a51ee15625601bd2dc36ffc7.setIcon(icon_c7125d1d94db22bd2e4a1037d6b5bac8);
+            
+    
+            var marker_cd6cc011860cd2f05aa8da82afdd0977 = L.marker(
+                [38.5373368, -121.7713261],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_ab5e8035923d29464b6bc5948c6253ce = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_bc280c0a5e86adeca3215670f1de7733 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_db628cefbf5f100584b537b2f67b115d = $(`<div id="html_db628cefbf5f100584b537b2f67b115d" style="width: 100.0%; height: 100.0%;">West Village Carmel Partners (university) 1743 Hutchison Drive, Davis</div>`)[0];
+                popup_bc280c0a5e86adeca3215670f1de7733.setContent(html_db628cefbf5f100584b537b2f67b115d);
+            
+        
+
+        marker_cd6cc011860cd2f05aa8da82afdd0977.bindPopup(popup_bc280c0a5e86adeca3215670f1de7733)
+        ;
+
+        
+    
+    
+                marker_cd6cc011860cd2f05aa8da82afdd0977.setIcon(icon_ab5e8035923d29464b6bc5948c6253ce);
+            
+    
+            var marker_cda61551a8806c150cd99d1a90c6413b = L.marker(
+                [38.53525389999999, -121.7529391],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_056f43140d5d82d0f8790705d581cd13 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_aeec12e414c64d87255e7ce5313d0f9a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8de6b5eb9eab3b5a91325abc70940a27 = $(`<div id="html_8de6b5eb9eab3b5a91325abc70940a27" style="width: 100.0%; height: 100.0%;">California Geothermal Energy Collaborative (university) Shields Avenue, Davis</div>`)[0];
+                popup_aeec12e414c64d87255e7ce5313d0f9a.setContent(html_8de6b5eb9eab3b5a91325abc70940a27);
+            
+        
+
+        marker_cda61551a8806c150cd99d1a90c6413b.bindPopup(popup_aeec12e414c64d87255e7ce5313d0f9a)
+        ;
+
+        
+    
+    
+                marker_cda61551a8806c150cd99d1a90c6413b.setIcon(icon_056f43140d5d82d0f8790705d581cd13);
+            
+    
+            var marker_ff2a0b2a0d1fa197a7fb317306bf78c1 = L.marker(
+                [38.5554035, -121.7866922],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_db6051a97fed78e2e8c3679c9f740970 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5ad6d85474fa819162d539e632d25806 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c5897c07da6429551d593df66c97d370 = $(`<div id="html_c5897c07da6429551d593df66c97d370" style="width: 100.0%; height: 100.0%;">City of Davis: Fire Station 32 (fire_station) 1350 Arlington Boulevard, Davis</div>`)[0];
+                popup_5ad6d85474fa819162d539e632d25806.setContent(html_c5897c07da6429551d593df66c97d370);
+            
+        
+
+        marker_ff2a0b2a0d1fa197a7fb317306bf78c1.bindPopup(popup_5ad6d85474fa819162d539e632d25806)
+        ;
+
+        
+    
+    
+                marker_ff2a0b2a0d1fa197a7fb317306bf78c1.setIcon(icon_db6051a97fed78e2e8c3679c9f740970);
+            
+    
+            var marker_c68b72b8520dab95185e929e4aa12e52 = L.marker(
+                [38.5468516, -121.7424737],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_701671fdcf257250d6031f1b9a1d2b06 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_02056671be252ec5fdaba9f471ccbf16 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_347c3459fc337865bb82e55ab89cb059 = $(`<div id="html_347c3459fc337865bb82e55ab89cb059" style="width: 100.0%; height: 100.0%;">City of Davis: Fire Department Headquarters (Station 31) (fire_station) 530 5th Street, Davis</div>`)[0];
+                popup_02056671be252ec5fdaba9f471ccbf16.setContent(html_347c3459fc337865bb82e55ab89cb059);
+            
+        
+
+        marker_c68b72b8520dab95185e929e4aa12e52.bindPopup(popup_02056671be252ec5fdaba9f471ccbf16)
+        ;
+
+        
+    
+    
+                marker_c68b72b8520dab95185e929e4aa12e52.setIcon(icon_701671fdcf257250d6031f1b9a1d2b06);
+            
+    
+            var marker_b6e1f933634928e9f70b0f8570284622 = L.marker(
+                [38.540302, -121.7575525],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_9458d955ade0a1f32c29a732666fb46e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c7933430b8facdd22dfd1cfeeaeb69ca = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_da050eb072cbac9c36000cf84c853b8b = $(`<div id="html_da050eb072cbac9c36000cf84c853b8b" style="width: 100.0%; height: 100.0%;">UC Davis Fire Department (fire_station) Fire Headquarters, 625 Kleiber Hall Drive, Davis</div>`)[0];
+                popup_c7933430b8facdd22dfd1cfeeaeb69ca.setContent(html_da050eb072cbac9c36000cf84c853b8b);
+            
+        
+
+        marker_b6e1f933634928e9f70b0f8570284622.bindPopup(popup_c7933430b8facdd22dfd1cfeeaeb69ca)
+        ;
+
+        
+    
+    
+                marker_b6e1f933634928e9f70b0f8570284622.setIcon(icon_9458d955ade0a1f32c29a732666fb46e);
+            
+    
+            var marker_b96675195345144c6f37582fecc28363 = L.marker(
+                [38.5492311, -121.6948628],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_64ccf8142bb45c77ab2314cb3925988b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d501172d4e101d36e335d8c1aea87252 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c3a379e8c047a9f9ea4a75fb0a57b3cc = $(`<div id="html_c3a379e8c047a9f9ea4a75fb0a57b3cc" style="width: 100.0%; height: 100.0%;">City of Davis Fire Department-STATION33 (fire_station) 425 Mace Boulevard, Davis</div>`)[0];
+                popup_d501172d4e101d36e335d8c1aea87252.setContent(html_c3a379e8c047a9f9ea4a75fb0a57b3cc);
+            
+        
+
+        marker_b96675195345144c6f37582fecc28363.bindPopup(popup_d501172d4e101d36e335d8c1aea87252)
+        ;
+
+        
+    
+    
+                marker_b96675195345144c6f37582fecc28363.setIcon(icon_64ccf8142bb45c77ab2314cb3925988b);
+            
+    
+            var marker_c831161d9879e107b18c40765296bf5e = L.marker(
+                [38.5552685, -121.7867726],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_30929b89be0753d695038f9ddb87dae8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a769203caafa5ba0c0af5928c970fe92 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2e3532e9a538329810485ab19d0e53e6 = $(`<div id="html_2e3532e9a538329810485ab19d0e53e6" style="width: 100.0%; height: 100.0%;">City of Davis Fire Station No. 2 (fire_station) 1350 Arlington Boulevard, Davis</div>`)[0];
+                popup_a769203caafa5ba0c0af5928c970fe92.setContent(html_2e3532e9a538329810485ab19d0e53e6);
+            
+        
+
+        marker_c831161d9879e107b18c40765296bf5e.bindPopup(popup_a769203caafa5ba0c0af5928c970fe92)
+        ;
+
+        
+    
+    
+                marker_c831161d9879e107b18c40765296bf5e.setIcon(icon_30929b89be0753d695038f9ddb87dae8);
+            
+    
+            var marker_82c9f61b823b2ef5f7990f248c643419 = L.marker(
+                [38.5492312, -121.6948629],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_ce0bff00280644af7fb1a2de7548c408 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_add5f4b09e4aebc56e618d0b3174c8e0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e1bb9a53462c9d8c5a96f4adc6ebd6f0 = $(`<div id="html_e1bb9a53462c9d8c5a96f4adc6ebd6f0" style="width: 100.0%; height: 100.0%;">east davis county fire protection district (fire_station) 425 Mace Boulevard, Davis</div>`)[0];
+                popup_add5f4b09e4aebc56e618d0b3174c8e0.setContent(html_e1bb9a53462c9d8c5a96f4adc6ebd6f0);
+            
+        
+
+        marker_82c9f61b823b2ef5f7990f248c643419.bindPopup(popup_add5f4b09e4aebc56e618d0b3174c8e0)
+        ;
+
+        
+    
+    
+                marker_82c9f61b823b2ef5f7990f248c643419.setIcon(icon_ce0bff00280644af7fb1a2de7548c408);
+            
+    
+            var marker_30fcfbbe59fc320674d8c3206a32b22e = L.marker(
+                [38.5449065, -121.7405167],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_9af221c0e04a15ef738e4724ce38fa30 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1042dae688f8ab3397cc7a044a82175f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8a5bb8c5ef349ce8ba5d237b04b378da = $(`<div id="html_8a5bb8c5ef349ce8ba5d237b04b378da" style="width: 100.0%; height: 100.0%;">Davis (health) Davis</div>`)[0];
+                popup_1042dae688f8ab3397cc7a044a82175f.setContent(html_8a5bb8c5ef349ce8ba5d237b04b378da);
+            
+        
+
+        marker_30fcfbbe59fc320674d8c3206a32b22e.bindPopup(popup_1042dae688f8ab3397cc7a044a82175f)
+        ;
+
+        
+    
+    
+                marker_30fcfbbe59fc320674d8c3206a32b22e.setIcon(icon_9af221c0e04a15ef738e4724ce38fa30);
+            
+    
+            var marker_d00391597b20bf1b12c8f5e193c1c8e3 = L.marker(
+                [38.5401306, -121.7384643],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_f3ced434f3fc42eb827089f9c45819ee = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c5470321f0ab75d21153be7e2048142a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_228d32660cdb15bd057aaa3d2d130893 = $(`<div id="html_228d32660cdb15bd057aaa3d2d130893" style="width: 100.0%; height: 100.0%;">University Park Inn and Suites (health) 1111 Richards Boulevard, Davis</div>`)[0];
+                popup_c5470321f0ab75d21153be7e2048142a.setContent(html_228d32660cdb15bd057aaa3d2d130893);
+            
+        
+
+        marker_d00391597b20bf1b12c8f5e193c1c8e3.bindPopup(popup_c5470321f0ab75d21153be7e2048142a)
+        ;
+
+        
+    
+    
+                marker_d00391597b20bf1b12c8f5e193c1c8e3.setIcon(icon_f3ced434f3fc42eb827089f9c45819ee);
+            
+    
+            var marker_9abf562efa492dc224420ccab9e6cf54 = L.marker(
+                [38.542192, -121.7318185],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_67b67d456902a2dc675bb8acbc72fcf7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_bbb0cb216fb1515dac5de1ede587d1fe = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b112fbaad16f267b24e507aa401074c8 = $(`<div id="html_b112fbaad16f267b24e507aa401074c8" style="width: 100.0%; height: 100.0%;">La Quinta Inn & Suites by Wyndham Davis (health) 1771 Research Park Drive, Davis</div>`)[0];
+                popup_bbb0cb216fb1515dac5de1ede587d1fe.setContent(html_b112fbaad16f267b24e507aa401074c8);
+            
+        
+
+        marker_9abf562efa492dc224420ccab9e6cf54.bindPopup(popup_bbb0cb216fb1515dac5de1ede587d1fe)
+        ;
+
+        
+    
+    
+                marker_9abf562efa492dc224420ccab9e6cf54.setIcon(icon_67b67d456902a2dc675bb8acbc72fcf7);
+            
+    
+            var marker_f464d6b2b8892507d806abbf1d960a30 = L.marker(
+                [38.543693, -121.742885],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_7fb9357e53359afb9d548077bbbf5476 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f951c2ca628c9c7c6f9171f4e70eecc9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_16e5b728f9f908c092c6d8da0579fb36 = $(`<div id="html_16e5b728f9f908c092c6d8da0579fb36" style="width: 100.0%; height: 100.0%;">Econo Lodge (health) 221 D Street, Davis</div>`)[0];
+                popup_f951c2ca628c9c7c6f9171f4e70eecc9.setContent(html_16e5b728f9f908c092c6d8da0579fb36);
+            
+        
+
+        marker_f464d6b2b8892507d806abbf1d960a30.bindPopup(popup_f951c2ca628c9c7c6f9171f4e70eecc9)
+        ;
+
+        
+    
+    
+                marker_f464d6b2b8892507d806abbf1d960a30.setIcon(icon_7fb9357e53359afb9d548077bbbf5476);
+            
+    
+            var marker_a853b98da10ce090b149d0a7110d00ea = L.marker(
+                [38.5382322, -121.7617125],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_51a976187553ce22e0c35335355f6e59 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ed6756ce56b6a89ecff7ca713f8614bb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d9f238450da4a745d51761c854d6e038 = $(`<div id="html_d9f238450da4a745d51761c854d6e038" style="width: 100.0%; height: 100.0%;">University of California, Davis (health) 1 Shields Avenue, Davis</div>`)[0];
+                popup_ed6756ce56b6a89ecff7ca713f8614bb.setContent(html_d9f238450da4a745d51761c854d6e038);
+            
+        
+
+        marker_a853b98da10ce090b149d0a7110d00ea.bindPopup(popup_ed6756ce56b6a89ecff7ca713f8614bb)
+        ;
+
+        
+    
+    
+                marker_a853b98da10ce090b149d0a7110d00ea.setIcon(icon_51a976187553ce22e0c35335355f6e59);
+            
+    
+            var marker_0c0b894ec983a3f8761ee80166d7dfe8 = L.marker(
+                [38.5421678, -121.7447376],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_de07b313f3c182c50271de551a099817 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_66db28c505e0791eded286dbb89b513e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b24e284d1c47ef76676c18fa2c5a9d91 = $(`<div id="html_b24e284d1c47ef76676c18fa2c5a9d91" style="width: 100.0%; height: 100.0%;">Best Western University Lodge (health) 123 B Street, Davis</div>`)[0];
+                popup_66db28c505e0791eded286dbb89b513e.setContent(html_b24e284d1c47ef76676c18fa2c5a9d91);
+            
+        
+
+        marker_0c0b894ec983a3f8761ee80166d7dfe8.bindPopup(popup_66db28c505e0791eded286dbb89b513e)
+        ;
+
+        
+    
+    
+                marker_0c0b894ec983a3f8761ee80166d7dfe8.setIcon(icon_de07b313f3c182c50271de551a099817);
+            
+    
+            var marker_80f851794c30a1575eb70c021669825b = L.marker(
+                [38.5411068, -121.7306544],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_2126b4554871ff3fbc9c09dc7e31949e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_249043f7fc2bba6ff10380decad8d551 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_31c117ea4ada444e7390fdf8dd92770f = $(`<div id="html_31c117ea4ada444e7390fdf8dd92770f" style="width: 100.0%; height: 100.0%;">Holiday Inn Express & Suites Davis - University Area by IHG (health) 1640 Research Park Drive, Davis</div>`)[0];
+                popup_249043f7fc2bba6ff10380decad8d551.setContent(html_31c117ea4ada444e7390fdf8dd92770f);
+            
+        
+
+        marker_80f851794c30a1575eb70c021669825b.bindPopup(popup_249043f7fc2bba6ff10380decad8d551)
+        ;
+
+        
+    
+    
+                marker_80f851794c30a1575eb70c021669825b.setIcon(icon_2126b4554871ff3fbc9c09dc7e31949e);
+            
+    
+            var marker_cc0d8fae361ef7c471cefa6de3118c34 = L.marker(
+                [38.55024969999999, -121.7020231],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_ab89921c286b7df3643d5c390d5cb8b7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_baa6bef74d2a3c9ffef6366b43db024c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_825be3ed21ec8c6e277344a23dd46853 = $(`<div id="html_825be3ed21ec8c6e277344a23dd46853" style="width: 100.0%; height: 100.0%;">Prodigy Hotel, a Days Inn by Wyndham (health) 4100 Chiles Road, Davis</div>`)[0];
+                popup_baa6bef74d2a3c9ffef6366b43db024c.setContent(html_825be3ed21ec8c6e277344a23dd46853);
+            
+        
+
+        marker_cc0d8fae361ef7c471cefa6de3118c34.bindPopup(popup_baa6bef74d2a3c9ffef6366b43db024c)
+        ;
+
+        
+    
+    
+                marker_cc0d8fae361ef7c471cefa6de3118c34.setIcon(icon_ab89921c286b7df3643d5c390d5cb8b7);
+            
+    
+            var marker_bb1c6b832a0eb5168ea3159986aa4530 = L.marker(
+                [38.5434908, -121.7377498],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_e9f50ddb1ac603cde812d9b177d2d9d5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0964e94d878a79e9fde9c967c9367708 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_37b96aa21f0f894ec6ceb3ef5e186fc5 = $(`<div id="html_37b96aa21f0f894ec6ceb3ef5e186fc5" style="width: 100.0%; height: 100.0%;">Davis (health) 840 2nd Street, Davis</div>`)[0];
+                popup_0964e94d878a79e9fde9c967c9367708.setContent(html_37b96aa21f0f894ec6ceb3ef5e186fc5);
+            
+        
+
+        marker_bb1c6b832a0eb5168ea3159986aa4530.bindPopup(popup_0964e94d878a79e9fde9c967c9367708)
+        ;
+
+        
+    
+    
+                marker_bb1c6b832a0eb5168ea3159986aa4530.setIcon(icon_e9f50ddb1ac603cde812d9b177d2d9d5);
+            
+    
+            var marker_8f38c3339fa4365728018694791dc942 = L.marker(
+                [38.5542886, -121.6997428],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_e1eb3cedce19bfbaa674612982f030e4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6d6e81901ff40165475e9f91d2b63c54 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_61bc61ec870671bf4b246bd32af4cf29 = $(`<div id="html_61bc61ec870671bf4b246bd32af4cf29" style="width: 100.0%; height: 100.0%;">Target (health) 4601 2nd Street, Davis</div>`)[0];
+                popup_6d6e81901ff40165475e9f91d2b63c54.setContent(html_61bc61ec870671bf4b246bd32af4cf29);
+            
+        
+
+        marker_8f38c3339fa4365728018694791dc942.bindPopup(popup_6d6e81901ff40165475e9f91d2b63c54)
+        ;
+
+        
+    
+    
+                marker_8f38c3339fa4365728018694791dc942.setIcon(icon_e1eb3cedce19bfbaa674612982f030e4);
+            
+    
+            var marker_db1ba770efb2558cf975adc83f67f5b9 = L.marker(
+                [38.5448905, -121.7405471],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_23a33d2a8e2a99648795251255e2a97c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c91353adfff8ed37f9bbde93958f49a8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f175bbc1f3a18ff17d4ef2c46a9af728 = $(`<div id="html_f175bbc1f3a18ff17d4ef2c46a9af728" style="width: 100.0%; height: 100.0%;">Pioneer & Pest Control (health) Davis</div>`)[0];
+                popup_c91353adfff8ed37f9bbde93958f49a8.setContent(html_f175bbc1f3a18ff17d4ef2c46a9af728);
+            
+        
+
+        marker_db1ba770efb2558cf975adc83f67f5b9.bindPopup(popup_c91353adfff8ed37f9bbde93958f49a8)
+        ;
+
+        
+    
+    
+                marker_db1ba770efb2558cf975adc83f67f5b9.setIcon(icon_23a33d2a8e2a99648795251255e2a97c);
+            
+    
+            var marker_bf4eec084e8b68263ccf1de205950c0c = L.marker(
+                [38.5448905, -121.7405471],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_50a33594117357098679a4f99006357f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_14529122f147b2ebb759d5e75c3d7e6f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_471517367a95e272113fc1ad406b1252 = $(`<div id="html_471517367a95e272113fc1ad406b1252" style="width: 100.0%; height: 100.0%;">Black Diamond Productions (health) Davis</div>`)[0];
+                popup_14529122f147b2ebb759d5e75c3d7e6f.setContent(html_471517367a95e272113fc1ad406b1252);
+            
+        
+
+        marker_bf4eec084e8b68263ccf1de205950c0c.bindPopup(popup_14529122f147b2ebb759d5e75c3d7e6f)
+        ;
+
+        
+    
+    
+                marker_bf4eec084e8b68263ccf1de205950c0c.setIcon(icon_50a33594117357098679a4f99006357f);
+            
+    
+            var marker_7fa4a0a18e1f4bc165340f7f01f05f9d = L.marker(
+                [38.53867839999999, -121.7633255],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_b3f7343cb7478ee3db01fa31edfbd698 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_be68cbb89660ef03275ea56f311ada5d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b4eaa05704b04d338547c5be59bbf89c = $(`<div id="html_b4eaa05704b04d338547c5be59bbf89c" style="width: 100.0%; height: 100.0%;">Public Intellectual Property Resource for Agriculture (health) 1106 Extension Center Drive, Davis</div>`)[0];
+                popup_be68cbb89660ef03275ea56f311ada5d.setContent(html_b4eaa05704b04d338547c5be59bbf89c);
+            
+        
+
+        marker_7fa4a0a18e1f4bc165340f7f01f05f9d.bindPopup(popup_be68cbb89660ef03275ea56f311ada5d)
+        ;
+
+        
+    
+    
+                marker_7fa4a0a18e1f4bc165340f7f01f05f9d.setIcon(icon_b3f7343cb7478ee3db01fa31edfbd698);
+            
+    
+            var marker_05245daacbdd53ba3ce248f062e2b3a0 = L.marker(
+                [38.5518461, -121.6931915],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_0fc7f91b0fff283b6977b7d323b26808 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1d335a6eb7e6877b1b0c4b488d1b59fb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8f7e2fcd2152a0afcc129fa353323de7 = $(`<div id="html_8f7e2fcd2152a0afcc129fa353323de7" style="width: 100.0%; height: 100.0%;">Hi - Wheel Flats, CA - Sacramento Area (health) 4835 Chiles Road, Davis</div>`)[0];
+                popup_1d335a6eb7e6877b1b0c4b488d1b59fb.setContent(html_8f7e2fcd2152a0afcc129fa353323de7);
+            
+        
+
+        marker_05245daacbdd53ba3ce248f062e2b3a0.bindPopup(popup_1d335a6eb7e6877b1b0c4b488d1b59fb)
+        ;
+
+        
+    
+    
+                marker_05245daacbdd53ba3ce248f062e2b3a0.setIcon(icon_0fc7f91b0fff283b6977b7d323b26808);
+            
+    
+            var marker_11f1692fd57bfa383817340d60f0544d = L.marker(
+                [38.53540479999999, -121.7462834],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_2ae1f93cf640a54c07f55af7e66ecd2c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d02d3a213655614a2d7be2191d4a2f54 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_91d8b7a9572a4c8d76bc7e052f15e623 = $(`<div id="html_91d8b7a9572a4c8d76bc7e052f15e623" style="width: 100.0%; height: 100.0%;">Hyatt Place UC Davis (health) 173 Old Davis Road, Davis</div>`)[0];
+                popup_d02d3a213655614a2d7be2191d4a2f54.setContent(html_91d8b7a9572a4c8d76bc7e052f15e623);
+            
+        
+
+        marker_11f1692fd57bfa383817340d60f0544d.bindPopup(popup_d02d3a213655614a2d7be2191d4a2f54)
+        ;
+
+        
+    
+    
+                marker_11f1692fd57bfa383817340d60f0544d.setIcon(icon_2ae1f93cf640a54c07f55af7e66ecd2c);
+            
+    
+            var marker_79846426418ea5b9336fc4bc5d703d7a = L.marker(
+                [38.5441188, -121.7420484],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_891c09ca643eae2832177d2b4beae0d6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9baf46e363c96dafa4b776b6c10c2f6d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_335d4f5b04898736449e91b7c1479f57 = $(`<div id="html_335d4f5b04898736449e91b7c1479f57" style="width: 100.0%; height: 100.0%;">Best Western Plus Palm Court Hotel (health) 234 D Street, Davis</div>`)[0];
+                popup_9baf46e363c96dafa4b776b6c10c2f6d.setContent(html_335d4f5b04898736449e91b7c1479f57);
+            
+        
+
+        marker_79846426418ea5b9336fc4bc5d703d7a.bindPopup(popup_9baf46e363c96dafa4b776b6c10c2f6d)
+        ;
+
+        
+    
+    
+                marker_79846426418ea5b9336fc4bc5d703d7a.setIcon(icon_891c09ca643eae2832177d2b4beae0d6);
+            
+    
+            var marker_2ed9c6212fb6d8a75ddb0221a8fccf4e = L.marker(
+                [38.5387283, -121.7530819],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_bb24d45e09fc1fd80295cad071fc3a5e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3198ae5f6aa63257327ed38443b43d90 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9ce248792c4280901abcc7758f1d392e = $(`<div id="html_9ce248792c4280901abcc7758f1d392e" style="width: 100.0%; height: 100.0%;">Foods For Health Institute (health) 1 Shields Avenue, Davis</div>`)[0];
+                popup_3198ae5f6aa63257327ed38443b43d90.setContent(html_9ce248792c4280901abcc7758f1d392e);
+            
+        
+
+        marker_2ed9c6212fb6d8a75ddb0221a8fccf4e.bindPopup(popup_3198ae5f6aa63257327ed38443b43d90)
+        ;
+
+        
+    
+    
+                marker_2ed9c6212fb6d8a75ddb0221a8fccf4e.setIcon(icon_bb24d45e09fc1fd80295cad071fc3a5e);
+            
+    
+            var marker_573b4646ce2cec997b1c427bd72cfd09 = L.marker(
+                [38.5398114, -121.7550565],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_9c5a689a165d8e046054bc4025a317f6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d78a1604eef0771e54ebed2f41523d30 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ac1fa13e0ef3df6675f4f28157c3a6f0 = $(`<div id="html_ac1fa13e0ef3df6675f4f28157c3a6f0" style="width: 100.0%; height: 100.0%;">US Interior Department (health) 1 Shields Avenue # 278, Davis</div>`)[0];
+                popup_d78a1604eef0771e54ebed2f41523d30.setContent(html_ac1fa13e0ef3df6675f4f28157c3a6f0);
+            
+        
+
+        marker_573b4646ce2cec997b1c427bd72cfd09.bindPopup(popup_d78a1604eef0771e54ebed2f41523d30)
+        ;
+
+        
+    
+    
+                marker_573b4646ce2cec997b1c427bd72cfd09.setIcon(icon_9c5a689a165d8e046054bc4025a317f6);
+            
+    
+            var marker_81ed75a43868ab5988543f6f074d35d0 = L.marker(
+                [38.539452, -121.7547197],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_3be29f6563f4019d29730b94b8c577a0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_89fba9a02932d164dfd91183c822302f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_12116dbecb041ab8abb571ac21c403a9 = $(`<div id="html_12116dbecb041ab8abb571ac21c403a9" style="width: 100.0%; height: 100.0%;">Anders Thomas F MD (health) 1 Shields Avenue, Davis</div>`)[0];
+                popup_89fba9a02932d164dfd91183c822302f.setContent(html_12116dbecb041ab8abb571ac21c403a9);
+            
+        
+
+        marker_81ed75a43868ab5988543f6f074d35d0.bindPopup(popup_89fba9a02932d164dfd91183c822302f)
+        ;
+
+        
+    
+    
+                marker_81ed75a43868ab5988543f6f074d35d0.setIcon(icon_3be29f6563f4019d29730b94b8c577a0);
+            
+    
+            var marker_0b80852a2b4bc5d1df4c6797910737e0 = L.marker(
+                [38.539095, -121.7608193],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_947d05103057ebaaa6b68e5ade4856f1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0afe0c12bec4a833c232b511f38cbe45 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_655cc900fe7113b09219616fd49f95ee = $(`<div id="html_655cc900fe7113b09219616fd49f95ee" style="width: 100.0%; height: 100.0%;">University of California-Davis (health) University of California-Davis</div>`)[0];
+                popup_0afe0c12bec4a833c232b511f38cbe45.setContent(html_655cc900fe7113b09219616fd49f95ee);
+            
+        
+
+        marker_0b80852a2b4bc5d1df4c6797910737e0.bindPopup(popup_0afe0c12bec4a833c232b511f38cbe45)
+        ;
+
+        
+    
+    
+                marker_0b80852a2b4bc5d1df4c6797910737e0.setIcon(icon_947d05103057ebaaa6b68e5ade4856f1);
+            
+    
+            var marker_27e87f031b62b43a5df0e875c0c5ffa4 = L.marker(
+                [38.5449, -121.7405],
+                {
+}
+            ).addTo(map_ef47de3e42041892a1605465865a0911);
+        
+    
+            var icon_fd61fb0a6d1220fa7f19ace5f06bc330 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3eb0c1c41034bc6aca7df54cfd54bec0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e29a3dd18f201eec9326127348d3590b = $(`<div id="html_e29a3dd18f201eec9326127348d3590b" style="width: 100.0%; height: 100.0%;">You are here</div>`)[0];
+                popup_3eb0c1c41034bc6aca7df54cfd54bec0.setContent(html_e29a3dd18f201eec9326127348d3590b);
+            
+        
+
+        marker_27e87f031b62b43a5df0e875c0c5ffa4.bindPopup(popup_3eb0c1c41034bc6aca7df54cfd54bec0)
+        ;
+
+        
+    
+    
+                marker_27e87f031b62b43a5df0e875c0c5ffa4.setIcon(icon_fd61fb0a6d1220fa7f19ace5f06bc330);
+            
+</script>
+</html>

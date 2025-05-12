@@ -1,0 +1,129 @@
+.chat-container {
+    min-height: 100vh;
+    width: 100vw;
+    background: #fff7f0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: stretch;
+    position: relative;
+  }
+  
+  .chat-messages {
+    width: 100vw;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 24px 0;
+    overflow-y: auto;
+  }
+  
+  .bubble-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+  
+  .bubble-user-wrap {
+    align-items: flex-end;
+  }
+  
+  .bubble-bot-wrap {
+    align-items: flex-start;
+  }
+  
+  .bubble-sender {
+    font-size: 0.85em;
+    color: #888;
+    margin-bottom: 2px;
+    margin-left: 4px;
+    margin-right: 4px;
+    font-weight: 500;
+  }
+  
+  .bubble {
+    border-radius: 20px;
+    padding: 14px 20px;
+    max-width: 75vw;
+    font-family: 'Inter', sans-serif;
+    font-size: 1.05em;
+    word-break: break-word;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    line-height: 1.5;
+  }
+  
+  .bubble-bot {
+    background: #FF8800;
+    color: #fff;
+    align-self: flex-start;
+  }
+  
+  .bubble-user {
+    background: #ffe0b2;
+    color: #000;
+    align-self: flex-end;
+  }
+  
+  .chat-input-bar {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    padding: 0 24px;
+    background: transparent;
+    border-radius: 32px;
+    border: 2px solid #222;
+    margin: 24px 0 0 0;
+    box-sizing: border-box;
+    height: 64px;
+    position: sticky;
+    bottom: 56px; /* leave space for nav */
+    gap: 12px;
+  }
+  
+  .chat-icon {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+    margin: 0 8px;
+    cursor: pointer;
+  }
+  
+  .chat-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 1.2em;
+    padding: 16px 0;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .bottom-nav {
+    width: 100vw;
+    height: 56px;
+    background: #fff;
+    border-top: 1.5px solid #eee;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+  }
+  
+  .nav-link {
+    color: #FF8800;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 8px 16px;
+    border-radius: 12px;
+    transition: background 0.2s;
+  }
+  
+  .nav-link:hover, .nav-link.active {
+    background: #fff7f0;
+  }

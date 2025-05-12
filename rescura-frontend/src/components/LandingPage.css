@@ -1,0 +1,105 @@
+.landing-root {
+    min-height: 100vh;
+    background: #fdf6f3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .landing-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5vh;
+  }
+  
+  .landing-logo {
+    width: 180px;
+    margin-bottom: 16px;
+  }
+  
+  .landing-tagline {
+    font-size: 1.4em;
+    font-weight: 500;
+    margin-bottom: 32px;
+    color: #333;
+    text-align: center;
+    letter-spacing: 0.02em;
+  }
+  
+  .landing-tagline-orange {
+    color: #e86c2f;
+    font-weight: 700;
+  }
+  
+  .landing-search-bar {
+    display: flex;
+    align-items: center;
+    background: #fff;
+    border-radius: 18px;
+    box-shadow: 0 2px 8px #0001;
+    padding: 0 16px;
+    width: 420px;
+    max-width: 90vw;
+    height: 48px;
+    margin-bottom: 24px;
+  }
+  
+  .landing-search-input {
+    border: none;
+    outline: none;
+    font-size: 1.1em;
+    flex: 1;
+    background: transparent;
+    padding: 0 12px;
+  }
+  
+  .landing-icon {
+    width: 28px;
+    height: 28px;
+    opacity: 0.7;
+    cursor: pointer;
+  }
+  
+  .landing-start-btn {
+    margin-top: 18px;
+    padding: 12px 36px;
+    border-radius: 22px;
+    background: linear-gradient(90deg, #f89b4c 0%, #e86c2f 100%);
+    color: #fff;
+    font-size: 1.15em;
+    font-weight: 500;
+    border: none;
+    box-shadow: 0 1px 4px #0001;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s;
+  }
+  
+  .landing-nav {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    margin-top: 48px;
+  }
+  
+  .landing-nav-btn {
+    padding: 12px 36px;
+    border-radius: 22px;
+    background: #f9d9a6;
+    color: #222;
+    font-size: 1.25em;
+    font-weight: 500;
+    border: none;
+    text-decoration: none;
+    transition: background 0.2s, color 0.2s;
+    box-shadow: 0 1px 4px #0001;
+    text-align: center;
+  }
+  
+  .landing-nav-btn.active,
+  .landing-nav-btn:focus,
+  .landing-nav-btn.selected {
+    background: linear-gradient(90deg, #f89b4c 0%, #e86c2f 100%);
+    color: #fff;
+  }

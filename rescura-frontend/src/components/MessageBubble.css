@@ -1,0 +1,18 @@
+.bubble {
+    border-radius: 16px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    max-width: 80%;
+    font-family: 'Inter', sans-serif;
+    word-break: break-word;
+  }
+  .bubble-bot {
+    background: #007AFF;
+    color: #fff;
+    align-self: flex-start;
+  }
+  .bubble-user {
+    background: #e5e5ea;
+    color: #000;
+    align-self: flex-end;
+  }
